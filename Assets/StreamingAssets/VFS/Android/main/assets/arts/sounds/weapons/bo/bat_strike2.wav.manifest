@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4070677984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 066d2c8260c584033a774385371cea73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/bo/bat_strike2.wav
+Dependencies: []

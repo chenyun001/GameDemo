@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 752665461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 280d3d60d9984a500a7e502c3ce50493
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Atlas/Bag/sum3g.psd
+Dependencies: []

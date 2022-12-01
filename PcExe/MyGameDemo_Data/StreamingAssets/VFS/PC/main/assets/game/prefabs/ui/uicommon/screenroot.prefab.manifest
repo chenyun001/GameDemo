@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1209355912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 748cfc8b3a59cc0f4add3d5365989b48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afa000b9e7496524e794c34bfa76bcd7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/ScreenRoot.prefab
+Dependencies: []

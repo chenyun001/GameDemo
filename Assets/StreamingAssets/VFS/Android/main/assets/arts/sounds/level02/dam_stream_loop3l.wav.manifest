@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1254887092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3b4c3ee8405471a52ba3ede238104bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level02/dam_stream_loop3l.wav
+Dependencies: []

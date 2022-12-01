@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4064620799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 402ed7cbcc00543aef69b341503a7026
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Tutorial/Material/ipad02.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/tutorial/texture/ipad02.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

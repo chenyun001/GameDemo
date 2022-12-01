@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 928543710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d5ade1d63af41925c07c5c4d81b2bf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Model/Materials/double_swordsman01_Beheaded-enemy_double_swordsman01_mat.mat
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3902552834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c28a7fa3e09677a92c208db5b3a1c080
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e265c2b5bd344227803e95567e06f92
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1596bdb171d76e8418f3029d375284b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36ec6e542e2ede4485a5a66d2ea7c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Roles/Monster.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/materials/player_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player-1.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo01.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo02.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo03.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo04.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo05.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/player_combo06.fbx

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3862069532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27866746d557a195d81eedf8d2a83331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Materials/s2_level07mrak.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/texture/s2_level07mrak.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 4101935956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d98d071778aad9ec849b078a5fc702bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d62bec89ef4d8c687934eef04f54267
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f9c02a8dc4f4ce4eb9aa06f679e85f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c21931b416adf428c0bcdf76ebcab4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b3aac2d4a5785646a7017a61061524b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f71c3e2735b7d764dacf7d8a60d0d40e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f45085564bd186f4784d3f0c141a741f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93ce46ab89c7d7846bae700f7ee7238c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46c33e726e78794409e49bb6dbcc6539, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d737a858a2483514681202bb5fcf0156, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5cad69c526d8794b9684de1d3e034de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89f7189588a5985419bb8f8f055b7212, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/dojo.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo1.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo2.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo3.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/materials/dojo03.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/materials/dojo03vrtule.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/c_dojo03.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/collisions.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03gear.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03vrtule.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03wing.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/mlha.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/svetlo.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc5.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/spawnplayer.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/uisoundmanager.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uipanelprefabs/mainpanel.prefab

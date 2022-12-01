@@ -1,0 +1,227 @@
+ManifestFileVersion: 0
+CRC: 733517729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d562fc5b7e53a2967c459a67e72cb787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c7441f5dbce37a8f435141e763f410bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb81805dbf15c364d9f5f1cb33659bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92214b65f32e15c44862391659fabfd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dede1d600058dc4478fc15313addc93a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f093a4b3f370d634398a6fd7facccf7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7414f6c847603ee43b185f737064b157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa63ead223139461d880d6d768a96502, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb4ad15ab948e94a91066b735dc2b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b638a6ca9e671ff4f9665561aa809e34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6409acf08f4425a85d874a25b25f85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1923b65cfa33bec4bb4ffc3d3cd8bcbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e939351d5b6a19f42905522efe6ffe94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa8bde1a240b347798e2cda2789deaa6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dd29e2c9a04b984191b35f72f00907a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d24fd1223d0a7f45b0011dce950e129, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f2356d630cfaf54e89a1b3feede9a77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4a17c6f69d5dab46be223e964ac812e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48afd97d481fc544b94e08bd6aa2742a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 472fdafd920bfb64ebec62fa2457317e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be866c819b16409bbd65d947cd3d727, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8c15f5038a208640bd722c7bdd87afd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b928fa8cb592040c18e96ce12e63a6a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6008c808ce34e19498cbee6d08e98310, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a1c84ddce91117469a15ecbf0b8a909, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a67faa3698bca5947a0c4f9bf6d2110d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23381e5fc8d3dc04bb659a54828b7a56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ef9d2ae44804f9bbbc7faee65480aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cdb00442f9514f4fb8a3aaac1bd8fd0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/Level01.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/effects/materials/blood
+  shadow sprites.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/objects/model/sud.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/materials/knockdown.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/blood.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/bloodbig.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/breakblock.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/clack.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/critical.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/horeni_lava.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/horeni_male.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/mraky.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/model/plamen.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/animations/acamlift.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/materials/s2_level01.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/materials/s2_level01key.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/clift.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/collisions1.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/ctocna.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/domek.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/kolo.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/rudekolo.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/vrata.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone01.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone01a.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone01lift.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone02.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone02a.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone03.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone03a.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone04.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone04a.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone04atocna.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/zone05.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/ambi_boats1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/ambi_chimes1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/close_stop1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/gate3l.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/gate_run_loop1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/hoover_blades1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/log_mill_loop1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/switch3l.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level02/dam_stream_loop3l.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level02/gate_run_loop1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/objects/woodenbox_crash1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/padlocks/lock.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/padlocks/unlock.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/textures/strom_tail.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/material/defmaterial.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/ingamecamera.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/spawnplayer.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/deadpeasantlowvside.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/deadpeasantvside.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/deadswordsmanlowvside.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/enemypeasanteasy.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/enemypeasantex.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/enemies/enemyswordsmaneasy.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/mise01/vetrnik.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/mise02/prehrada.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/objects/p_interaction.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/objects/sud.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/objects/zamek.prefab

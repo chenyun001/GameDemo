@@ -1,0 +1,67 @@
+local _player = CS.Player
+local _Game = CS.Game
+local  blood = 1
+local _Vector3  			= CS.UnityEnging.Vector3
+local _timerTest 			= nil
+function  Awake()
+	--print("Hell World")
+	btn_skill_O.onClick:AddListener(OnClick_O)
+	btn_skill_X.onClick:AddListener(OnClick_X)
+	btn_skill_R.onClick:AddListener(OnClick_I)
+
+end
+
+function ShowHits(count)
+	-- body
+	--print(count.."count")
+	local  pos  = {}
+	pos.x = 2
+	pos.y = 2
+	pos.z = 2
+	if count ~= "0" then
+		Text_Count.text = "连击+"..count
+		local  tween =   Text_Count.transform:DOScale(pos,0.05)
+		tween.onComplete = function()
+			Text_Count.transform:DOScale({x=0.8,y=0.8,z=0.8},0.02).onComplete = function()
+				Text_Count.transform:DOScale({x=1,y=1,z=1},0.02)
+			end
+		end
+	else
+		Text_Count.text = ""
+	end
+end
+
+function TimeAction()
+	--dump("计时器开始酷酷酷酷酷酷酷酷酷酷酷酷酷酷酷酷酷酷。。。。。。。。。。。。。。。。。。。。。。。。-----------------------")
+end
+
+function Start()
+	--GameManager.Player:SetEasyTouch()
+	_Game.Instance:AddDelegate(ShowHits) 
+	_timerTest = gm.Utils.TimerManager:GetTimer(1,TimeAction,self)
+	dump(_timerTest,"_timerTest")
+	_timerTest:Start()
+end
+
+function OnClick_O()
+	_player.Instance:PlayerSkill_O()
+end
+
+function OnClick_X()
+	blood = blood -0.1
+	_player.Instance:PlayerSkill_X()
+	playerBlood:UpdateProgress(blood)
+end
+
+function OnClick_I()
+	_player.Instance:PlayerSkill_I()
+end
+
+function Update()
+	
+	
+end
+
+function Ondestroy()
+	
+end

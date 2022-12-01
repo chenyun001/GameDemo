@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3566593032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3658763db85fd83d266f9ace4c8e5d71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/mat_sparkblue.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

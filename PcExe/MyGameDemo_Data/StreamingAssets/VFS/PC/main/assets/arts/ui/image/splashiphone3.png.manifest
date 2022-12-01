@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 360371370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ce821670b3d2a99f3a0a5469ffa3ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/SplashiPhone3.png
+Dependencies: []

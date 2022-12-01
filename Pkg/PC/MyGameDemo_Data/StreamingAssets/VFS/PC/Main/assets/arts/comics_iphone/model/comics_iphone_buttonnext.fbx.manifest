@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2060930263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a606b6d218181e7b00524ea77b6727a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81e1a89158ceb82ffd86e0a5bb107e7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Comics_iPhone_ButtonNext.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/comics_iphone/model/materials/comics_iphone_buttonnext-comixgui_iphone.mat

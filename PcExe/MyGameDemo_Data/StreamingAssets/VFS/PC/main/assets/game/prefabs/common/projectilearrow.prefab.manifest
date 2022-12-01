@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3921050613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c29a39a80bca5e5918a8cfa7cecfed6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bdc36f05b08e5930e3b8c9a5077f61b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Common/ProjectileArrow.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/objects/materials/objekty.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/objects/model/archer_arrow.fbx

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1529525202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0e5af513040d00342b0a1c291c7247c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/animations/spec_death8.wav
+Dependencies: []

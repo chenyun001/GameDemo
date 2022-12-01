@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2291457535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f49293ee258714f2a5e15271a032f60b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_iphone_comixpopisek04_mat.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/comics_iphone/texture/popandro04.psd
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

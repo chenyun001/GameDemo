@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 897374097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2c2f021faa2cff41f5b11c3d68df63f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Animations/acamplosina.anim
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3781424416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcb4afbac97632f35f5cef61d89d29a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/vocals/inj3.wav
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 441990399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3c4d97c556c3df52fa632ea1016fee0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dba51e2e69bb8d162b55ab3da338e4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Comics_iPhone_of3.FBX
+Dependencies: []

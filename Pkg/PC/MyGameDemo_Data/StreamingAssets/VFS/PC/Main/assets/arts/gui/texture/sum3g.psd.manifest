@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1679135455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5cd9938a2bd92aa955dc7540e606d5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Gui/Texture/sum3g.psd
+Dependencies: []

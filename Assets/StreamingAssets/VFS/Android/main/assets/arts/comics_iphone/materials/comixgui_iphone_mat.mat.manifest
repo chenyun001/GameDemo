@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3029167967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48912c3a6a40ab2dc46f2fa9fc582e3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comixgui_iphone_mat.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/comics_iphone/texture/comixgui_iphone.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

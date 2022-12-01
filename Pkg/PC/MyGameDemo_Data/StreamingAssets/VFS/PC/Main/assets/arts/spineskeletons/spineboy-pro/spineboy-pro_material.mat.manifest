@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 291367581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c599e4c39f6530d9ffcbe1e3cfa1347
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/spineboy-pro/spineboy-pro_Material.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/spineboy-pro/spineboy-pro.png

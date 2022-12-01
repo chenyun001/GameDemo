@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1428913288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1681f6561d3e28a5aaf3c541d92c692e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f694ab449d0fbfba3c1928c80c6eb653
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ec995e51a6e251468d2a3fd8a686257, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UniversalRenderPipelineGlobalSettings.asset
+Dependencies: []

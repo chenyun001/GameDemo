@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4101009511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c0f71f31d2ff33e2da9ce2252ddba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34fd5359949c55b7634395c38527b530
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3189dbca5cb744f7ca7cb90807ba0363, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6fee413ff71f476b8dbadeccb710879, type: 3}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/ScoreScreen.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/gui/material/scoreipad.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc3.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc4.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc5.wav

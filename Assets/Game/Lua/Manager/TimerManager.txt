@@ -1,0 +1,29 @@
+local TimerManager = gm.Utils.class("TimerManager")
+
+function TimerManager:ctor(...)
+    self.timer_pool = {}
+    --setmetatable(self.timer_pool,)
+    self.startup = false
+end
+
+function TimerManager:Start()
+    self.startup = true
+end
+
+function  TimerManager:Update()
+    if not self.startup then return end
+    --dump(self.timer_pool,"timer")
+    for timer,v in pairs(self.timer_pool) do 
+        if not timer:GetOver() then
+            timer:Update()
+        end
+    end
+end
+
+function TimerManager:GetTimer(delay,func,obj)
+    local timer = gm.Utils.Timer.New(delay,func,obj)
+    self.timer_pool[timer] = true  
+    return  timer
+end
+
+return TimerManager

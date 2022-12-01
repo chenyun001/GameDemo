@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4114324665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d344ff429e9b121f7fbd5a1aed1afb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/animations/peasant_spawn1.wav
+Dependencies: []

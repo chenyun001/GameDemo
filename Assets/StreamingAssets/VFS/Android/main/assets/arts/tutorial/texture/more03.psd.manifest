@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 591855979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 134d412327780f02df50f730ebb539eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Tutorial/Texture/more03.psd
+Dependencies: []

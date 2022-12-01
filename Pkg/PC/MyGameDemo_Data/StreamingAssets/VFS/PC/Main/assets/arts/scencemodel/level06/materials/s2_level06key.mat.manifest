@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3200597468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c1d7d3008a4ccccbb629d2b49c3ad4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/s2_level06key.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level06/texture/s2_level06key.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

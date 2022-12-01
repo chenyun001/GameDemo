@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 732560151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f5b6794427d9698aceee76e151fdac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level03/Model/zone01lift.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level03/materials/s2_level03.mat

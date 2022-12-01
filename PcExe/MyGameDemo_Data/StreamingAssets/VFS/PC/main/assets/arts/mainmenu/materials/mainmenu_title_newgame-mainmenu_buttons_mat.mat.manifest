@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2902540371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 302a745830a228d0a36d047bc421b331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_title_newgame-mainmenu_buttons_mat.mat
+Dependencies: []

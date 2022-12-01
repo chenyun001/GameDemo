@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 287240705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eedff67ebafb8f6ef9a08b58f411fa9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51bc814024e0138b6b0f360a6ee0a02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f9c02a8dc4f4ce4eb9aa06f679e85f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/MainUIRoot.prefab
+Dependencies: []

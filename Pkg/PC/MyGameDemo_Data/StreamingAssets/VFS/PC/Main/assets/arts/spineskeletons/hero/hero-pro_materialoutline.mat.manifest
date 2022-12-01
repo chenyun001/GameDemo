@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2690152364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e00ce78a3aa6105edf6bc4cea30806dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Hero/hero-pro_MaterialOutline.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/hero/hero-pro.png

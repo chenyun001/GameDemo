@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 897860115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f030a2c4e1c6769c6cb71be426607122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level01/ambi_boats1.wav
+Dependencies: []

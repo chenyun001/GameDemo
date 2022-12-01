@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 152025242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62d48855b84f8ca1dd7b943dbc49fe7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/footsteps/step_boss3.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 783337695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf4ddc56004792950218e54d7e34e12b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/player/attack/short/attack_s10.wav
+Dependencies: []

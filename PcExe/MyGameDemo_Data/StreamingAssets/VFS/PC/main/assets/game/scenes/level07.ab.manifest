@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 435720792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf1f618fefa4aeaf3fc187ec59b5952e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07ceb49a4a6f1db0a494604b40b8f8a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cdb00442f9514f4fb8a3aaac1bd8fd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d737a858a2483514681202bb5fcf0156, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59469dcb2df2683489c4368a64ffd84f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89f7189588a5985419bb8f8f055b7212, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abb3eecbe3a8240fa875bbddba786890, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68f25e9486d41478c8e7f9bd8f9df0f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bcbb99dc77ab4d30a94bf80bde2f8be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5c0d164d9c3040d2b08835d71cf00be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/level07.unity
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo1.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo2.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo3.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/horeni.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/animations/acam01.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/animations/acam02.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/materials/s2_level07mrak.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/c03.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/c04.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/collision.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/cpodlaha.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/cpodlahanaodjezd.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/door01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/door02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/klecbeginning.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/kola02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/kolo01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/l7drzaky.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/mraky.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/ostny.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/paka01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/paka02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/podlaha.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/prefab_lampa.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/wing_prefab.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone01a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone03.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone04.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone04alift.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone05.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/zone06.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/common/spawnplayer.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/horeni4.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/kolo.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/lift.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/michacka02.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/podlaha.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise07/trap_vrtule.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/music/ambi_quiet5.mp3
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/p_interaction.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/sud.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/zamek.prefab

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3960832685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e7db79b175a3afe26a70c6fb890a64d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Lua/UI/LoadingScreen.txt
+Dependencies: []

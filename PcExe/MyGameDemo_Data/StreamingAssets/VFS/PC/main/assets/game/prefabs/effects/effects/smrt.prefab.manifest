@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 630161002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56e5e9d31d1ff5eafe2b7e0f2a02c551
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Effects/Effects/smrt.prefab
+Dependencies: []

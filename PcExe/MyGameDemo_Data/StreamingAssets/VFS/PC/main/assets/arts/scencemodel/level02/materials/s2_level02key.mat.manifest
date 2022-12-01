@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2014971154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 829715d6e03e262f4c983d40b149c5ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Materials/s2_level02key.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level02/texture/s2_level02key.psd
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

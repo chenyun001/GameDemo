@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1888440461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eff320c4a1dd4c2621e3a1ef74cdde76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7ad32f0d6ff6461d6bcddd39612cb49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman02/Model/peasant01_Beheaded.FBX
+Dependencies: []

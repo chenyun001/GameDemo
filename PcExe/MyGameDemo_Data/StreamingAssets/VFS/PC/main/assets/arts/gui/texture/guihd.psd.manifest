@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 224870653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5820cf234fdaa22bad6fe76bd436181
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Gui/Texture/guiHD.psd
+Dependencies: []

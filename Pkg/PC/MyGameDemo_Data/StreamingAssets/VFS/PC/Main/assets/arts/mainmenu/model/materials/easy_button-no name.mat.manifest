@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4278127783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 894691ed5ebfa6a3d93a2628b0d63c33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/easy_button-No Name.mat
+Dependencies: []

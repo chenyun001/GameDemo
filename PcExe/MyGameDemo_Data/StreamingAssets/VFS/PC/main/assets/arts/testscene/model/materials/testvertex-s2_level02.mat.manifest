@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1010262308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e66405cbe88f6fdf4aa7b80a26fb3f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/testScene/Model/Materials/testvertex-s2_level02.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level02/texture/s2_level02.psd

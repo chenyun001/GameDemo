@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3578069492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af9ca39a1ba6f82653a745a96aaaff95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/svetluska.psd
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3580188852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88378c17a3dcf912f950b4eab75ea264
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/bandita/short/bandit_s_4.wav
+Dependencies: []

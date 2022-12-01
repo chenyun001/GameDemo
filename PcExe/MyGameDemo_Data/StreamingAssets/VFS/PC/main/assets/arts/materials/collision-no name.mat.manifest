@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2041859897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 707f24020f333358991a488af84d7860
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Materials/collision-no name.mat
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3076632151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2b6876bd1fc31d303f417eee1ed8933
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3efc459085c15f8d6d5286ddf56c8ded
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7beb7e2b33f164cc6a9aaa48b7e4249d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ca22c884ee846e9b881d8fed04ab0c, type: 3}
+Assets:
+- Assets/Game/Prefabs/InGameCamera.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/animactions/cameraanims/shakecombo1.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/animactions/cameraanims/shakecombo2.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/animactions/cameraanims/shakecombo3.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/animations/acamlift.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/animations/acamtocna.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/animations/acamvrata1.anim

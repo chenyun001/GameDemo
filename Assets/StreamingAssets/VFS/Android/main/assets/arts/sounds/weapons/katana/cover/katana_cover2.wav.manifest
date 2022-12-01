@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1220180092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2542758bc9e2714653ceab2e31c3aa6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/Katana/cover/katana_cover2.wav
+Dependencies: []

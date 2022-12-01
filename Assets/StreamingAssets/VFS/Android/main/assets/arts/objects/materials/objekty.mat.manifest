@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2967680867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dbe624983365aa998c4ffad27b502c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/objects/Materials/objekty.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/objects/texture/objekty.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

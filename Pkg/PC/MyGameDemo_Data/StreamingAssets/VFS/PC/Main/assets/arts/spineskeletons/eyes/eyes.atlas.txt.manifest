@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 244894609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73ea893c9f2ab45ffd53c9b0dc56731e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Eyes/eyes.atlas.txt
+Dependencies: []

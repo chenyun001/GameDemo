@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 605059739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15ab678a07c27e381e3ad83d490e0626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background-mainmenu_buttons_mat.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/texture/mainmenu_buttons.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

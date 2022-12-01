@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3007515644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65cf9e456a70764ca0594c57af16dceb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman02/Materials/enemy_swordsman02Low_transparent.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman02/texture/enemy_peasant01.tga
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

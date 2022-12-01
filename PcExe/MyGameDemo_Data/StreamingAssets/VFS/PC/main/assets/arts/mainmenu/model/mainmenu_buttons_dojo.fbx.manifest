@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1487032075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a307397ae382deaac8bcb3c6074be792
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c1dd3e22f09b5404a4b2af5c037dac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttons_Dojo.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materialsex/mainmenu_buttons_dojo-mainmenu_buttons_mat.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/model/materials/mainmenu_buttons_dojo-mainmenu_buttons_mat.mat

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 173133984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6afba22e091639748acf11e439cf8ffa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Animations/lampa_kyv.anim
+Dependencies: []

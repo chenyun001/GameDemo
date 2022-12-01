@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4190278292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4a1a93ac39b7f737acf559be1dd9897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Misc/Texture/splashscreen.png
+Dependencies: []

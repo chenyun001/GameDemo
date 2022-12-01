@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1038051813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e6c4186c4f954bfefbf47265b0a0bff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9735f31421bde37851a439e5c269b7bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/prefab_lampa.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/animations/lampa_kyv.anim
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/materials/glow.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/model/glow.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/model/lampa.fbx

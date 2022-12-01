@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3789711602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a020c663135340d35f72032b6053cbae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3df0147e599721c4ab218ba6a5eece20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/UI/MainMenu_Background.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/materials/mainmenu_background-mainmenu_buttons_mat.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/mainmenu_background.fbx

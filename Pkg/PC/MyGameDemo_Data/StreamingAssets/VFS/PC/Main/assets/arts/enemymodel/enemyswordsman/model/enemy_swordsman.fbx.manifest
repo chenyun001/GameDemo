@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3414849903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df982ed855990623524858d96df86ace
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05a3a35ea3b1be2f6a08ce1c1b6e4032
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman/Model/enemy_swordsman.FBX
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1868938487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ea2e179ca8ef0efe1ec5a075ade0a00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e9238bfeb5f461b28233f8e614d750
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise07/lift.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/model/podlaha.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/model/zone04alift.fbx

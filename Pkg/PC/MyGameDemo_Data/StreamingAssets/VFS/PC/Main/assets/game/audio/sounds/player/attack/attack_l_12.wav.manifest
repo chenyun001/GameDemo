@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3379289022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c363136ab7e2131231cf8fb2f237f43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/player/attack/attack_l_12.wav
+Dependencies: []

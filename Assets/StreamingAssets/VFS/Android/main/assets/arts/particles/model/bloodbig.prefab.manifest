@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1818067397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ccff3946f9fc2ab23f31cbb2da7c894
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/bloodbig.prefab
+Dependencies: []

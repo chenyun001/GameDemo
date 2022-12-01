@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4022530380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e01d95210fe4340b70bff9a215d97f90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/testScene/Model/Materials/testvertex-strom02.mat
+Dependencies: []

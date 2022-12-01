@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3695317852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f50efae1c76a40edc1ecfe1a3043a1cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcfa99d27edbc859922e44bacb4f2c64
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/objects/sud.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/objects/materials/objekty.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/objects/model/sud.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/objects/woodenbox_crash1.wav

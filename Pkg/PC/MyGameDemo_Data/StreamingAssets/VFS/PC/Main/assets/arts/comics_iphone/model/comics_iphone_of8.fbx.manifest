@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 285426361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a0eb0190864c1281c7c6d2ea76a3798
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Comics_iPhone_of8.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/comics_iphone/model/materials/comics_iphone_of8-comixgui_iphone.mat

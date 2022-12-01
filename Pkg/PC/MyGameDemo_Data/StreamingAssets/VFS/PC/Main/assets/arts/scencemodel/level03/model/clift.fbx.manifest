@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3458821471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 415f0222be2e57b1e2784a7a6c2dcfde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a85ce747f93ef4bd7e6ce7b041db7b21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level03/Model/clift.FBX
+Dependencies: []

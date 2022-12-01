@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 2326387357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e5b3e067e28c1ae0c91b63883ec70d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6aae91b36979a33905fb847b686fd100
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12319b782caebc0408ebcfe3e3e36a9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb4ad15ab948e94a91066b735dc2b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36ec6e542e2ede4485a5a66d2ea7c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1596bdb171d76e8418f3029d375284b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/SampleScene.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/material/avatar_sakura_c1_material_body_test.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/avatar_sakura_c1_material_body_test.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/avatar_sakura_c1_material_hair_test
+  1.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/eayl.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/eayr.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/face.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mytest/materialnew/mouth.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/avatar_sakura_c1_ys_ui/model/avatar_sakura_c1_ys_ui.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/hero/materials/playernpr.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_0_23602 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_1_23548 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_2_23608 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_3_23604 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_4_23450 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body01_5_23618 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - body_b01_q_0_23550 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - face01_q_0_23436 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - hair01_q_0_23562 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - hair01_q_1_23596 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - weapon01_q_0_23448 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/newavatar/avatar_sakura_c1_ys_ui
+  - weapon02_q_0_23594 [tcp2 smoothed].asset
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/roles/player.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/scenes/samplescenesettings.lighting

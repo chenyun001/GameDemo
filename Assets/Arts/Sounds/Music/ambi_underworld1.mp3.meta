@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3a7827b709e38ec42aaa43bc116b009c
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 1
+    quality: 0.24
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 0
+  userData: 
+  assetBundleName: assets/arts/sounds/music/ambi_underworld1.mp3
+  assetBundleVariant: 

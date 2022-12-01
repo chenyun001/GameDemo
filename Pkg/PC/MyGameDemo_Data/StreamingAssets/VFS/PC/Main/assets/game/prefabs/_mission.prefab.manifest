@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 808764869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9590593ee42b84eed0ad7013613fe124
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be1305390ad66d4340b7196fe2025c84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52931f60d57f14317b7da288b8736e7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be866c819b16409bbd65d947cd3d727, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa8bde1a240b347798e2cda2789deaa6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b928fa8cb592040c18e96ce12e63a6a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6409acf08f4425a85d874a25b25f85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4af25682023dff14a81dfba5d0926dfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66df4039c0743487393d2d1920bcbefe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/_Mission.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/effects/materials/blood shadow sprites.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/animations/spec_death7.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/animations/spec_death8.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/mainmenu/perc1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/mainmenu/perc2.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/mainmenu/perc3.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/shop/health_improve1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/shop/skill_improve1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/shop/weapon_improve1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/weapons/katana/swish_bloodoff/swish_bloodoff2.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/effects/cink.prefab
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/effects/rodidlo.prefab
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/effects/rotacak.prefab
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/effects/rotacak1.prefab
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/effects/smrt.prefab
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/projectilearrow.prefab

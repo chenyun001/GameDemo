@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3954706339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d152237177601a49b406fe90c5fd1015
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/vocals/inj12.wav
+Dependencies: []

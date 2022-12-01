@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 737432758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 585ac3870e548db423e1ca441f1bf8ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Tutorial/Texture/phone01.psd
+Dependencies: []

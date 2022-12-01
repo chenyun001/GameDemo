@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2977240814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b8a384da32831d9fa52068efd2ed48a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/mainmenu_loading-menuloading_mat.mat
+Dependencies: []

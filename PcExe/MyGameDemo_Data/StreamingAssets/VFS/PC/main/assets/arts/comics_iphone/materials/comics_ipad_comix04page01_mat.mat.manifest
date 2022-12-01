@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2924344210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63991a4e5b3f4942a13ab3b9f9cbe9cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_ipad_comix04page01_mat.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

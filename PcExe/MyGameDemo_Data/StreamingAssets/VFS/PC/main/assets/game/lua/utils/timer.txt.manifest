@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3099013409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62077dd86d4973ed401b9500959128a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Lua/Utils/Timer.txt
+Dependencies: []

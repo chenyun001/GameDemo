@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2003299389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48d22a2f2cb86ded59f4c43a5e2fe6df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 356a54e92a09510c4a707239fe5eab55
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9088e1b30cf3d0e42ba8d60c77dabd67, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/UpdateManager.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/lua/manager/timerupdate.txt

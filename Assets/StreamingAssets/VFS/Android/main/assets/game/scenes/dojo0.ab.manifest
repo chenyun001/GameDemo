@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1413391856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6841e747c7f5adc377839951abaf65f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5fe5e4e1eee912b3648555fbf25512f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7beb7e2b33f164cc6a9aaa48b7e4249d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ca22c884ee846e9b881d8fed04ab0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa64ce06b0d6848bfbff5d92337f9a3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/dojo0.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/materials/dojo03.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/c_dojo03.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/collisions.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03gear.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03vrtule.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/dojo03wing.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/mlha.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/dojo/model/svetlo.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/spawnplayer.prefab

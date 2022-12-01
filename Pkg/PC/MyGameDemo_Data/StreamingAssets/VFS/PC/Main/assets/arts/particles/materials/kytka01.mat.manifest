@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1554081205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a93315ed6231d687876d65cd2e66fd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Materials/kytka01.mat
+Dependencies: []

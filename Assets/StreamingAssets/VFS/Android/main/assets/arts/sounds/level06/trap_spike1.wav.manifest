@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2653336557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97ce835690951bfad4567d8ca582c49f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level06/trap_spike1.wav
+Dependencies: []

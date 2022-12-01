@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3726331003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0d93b4ab5989af7bc195e78b288ea1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/Texture/comixpopisky08.tga
+Dependencies: []

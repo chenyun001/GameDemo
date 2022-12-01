@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2593555788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39de102228670dbeecad483bd6575ccd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/kiana_back.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 217095335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8164519e4db68ebf6d9c163350a0482
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Model/Materials/collisions-No Name.mat
+Dependencies: []

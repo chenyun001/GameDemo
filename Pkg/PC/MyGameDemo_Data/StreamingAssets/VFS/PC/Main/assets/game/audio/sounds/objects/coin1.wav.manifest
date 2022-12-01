@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 316698832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c1841b39875a04484c5b537e92e48c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/objects/coin1.wav
+Dependencies: []

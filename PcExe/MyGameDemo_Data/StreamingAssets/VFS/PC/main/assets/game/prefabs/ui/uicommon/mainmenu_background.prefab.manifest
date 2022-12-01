@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2931512991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e1bcc13482a4a5a43067d7c075803b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3e43f02480dcdcce69d0178a84a7969
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/MainMenu_Background.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materials/mainmenu_background-mainmenu_buttons_mat.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/model/mainmenu_background.fbx

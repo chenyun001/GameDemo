@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3864319074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80ac5030582fe68b47929ab36605407a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f36581f8d7284bb400ce137692856ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 154255959c5223d4f9d5812513b272db, type: 3}
+Assets:
+- Assets/Game/Prefabs/GameZero.prefab
+Dependencies: []

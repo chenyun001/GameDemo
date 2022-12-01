@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 283030723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14bcc6b6dd2e4d922b30fd871d338d79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Atlas/Sprites/Progressbar Blue gradient.png
+Dependencies: []

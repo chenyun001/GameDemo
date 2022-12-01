@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3377328708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 388030698500514bab96b0f123238b00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/dym.psd
+Dependencies: []

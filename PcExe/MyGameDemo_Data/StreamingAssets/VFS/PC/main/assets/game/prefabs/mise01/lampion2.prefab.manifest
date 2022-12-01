@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4293778378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32d9bab9d221d0511974eb04a2f0bbd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c8c666fdfa2d576c30a27d7b0ae279a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise01/lampion2.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/materials/extra.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/glow.fbx

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 330362061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e19b0517bee33cec6153cf192b6d2c72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Texture/spark01.psd
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3189600975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e52c9bf9894f1a404daf14cc6a3e843
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/bublina01.psd
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 440911506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47cc66b71ebde86c1cdf8541a911a9e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/bandita/long/bandit_l_6.wav
+Dependencies: []

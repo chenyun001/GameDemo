@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2692892595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 401e5d97ae737d3e6bff3e46ab4fc25a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Weapons/Materials/Materials/sword-player.mat
+Dependencies: []

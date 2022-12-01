@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1574930326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d23670ac9dbf5669705481905ee01c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/whirlyblendmodes/whirlyblendmodes_Material.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/whirlyblendmodes/whirlyblendmodes.png

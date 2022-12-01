@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 633268424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a728137f691ebadf796a60935f846bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Model/Materials/c_dojo03-No Name.mat
+Dependencies: []

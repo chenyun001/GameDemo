@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1016830997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbbb9d6cda55ece60956e08e22a78775
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96f3787034f4d030069cecdc9c96264a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyPeasantEasy.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman/model/enemy_swordsman.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02low_transparent.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman02/model/enemy_swordsman02.fbx

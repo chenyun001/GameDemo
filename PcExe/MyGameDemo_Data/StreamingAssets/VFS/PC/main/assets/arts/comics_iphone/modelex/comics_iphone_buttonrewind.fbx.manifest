@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 840775259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df9448bb1d3555e3fc52021e9972ae33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c1dd3e22f09b5404a4b2af5c037dac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/ModelEx/Comics_iPhone_ButtonRewind.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/comics_iphone/materialsex/comics_iphone_buttonrewind-comixgui_iphone.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/comics_iphone/modelex/materials/comics_iphone_buttonrewind-comixgui_iphone.mat

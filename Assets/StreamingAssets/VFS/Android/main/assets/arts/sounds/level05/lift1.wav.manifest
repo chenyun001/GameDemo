@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 487357260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b2e3df4de2b97dca60fc3b340e0a165
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level05/lift1.wav
+Dependencies: []

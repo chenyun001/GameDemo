@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3722460922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f22e0806d0a4e8038625e9fc09d9f40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/mainMenu/perc5.wav
+Dependencies: []

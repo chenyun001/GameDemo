@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3078823323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 671cbcfe24348d9a11710c483da1772d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/animations/spec_death1.wav
+Dependencies: []

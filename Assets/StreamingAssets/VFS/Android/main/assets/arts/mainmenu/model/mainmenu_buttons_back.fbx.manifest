@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1643862063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4a6f53a213c12e86dfe1385e35a2daf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75c348c7bdfa17c3a82356401759f024
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttons_Back.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/materialsex/mainmenu_buttons_back-mainmenu_buttons_mat.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/model/materials/mainmenu_buttons_back-mainmenu_buttons_mat.mat

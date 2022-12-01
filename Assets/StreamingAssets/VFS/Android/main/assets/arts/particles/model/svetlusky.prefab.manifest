@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3573794221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afc8c7e5859dabb46f3d287c976b192d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/svetlusky.prefab
+Dependencies: []

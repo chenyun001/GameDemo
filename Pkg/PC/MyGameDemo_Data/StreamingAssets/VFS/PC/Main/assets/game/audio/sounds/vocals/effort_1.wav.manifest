@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1216657763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 050231b794c1406dad32ed5d2ec824e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/vocals/effort_1.wav
+Dependencies: []

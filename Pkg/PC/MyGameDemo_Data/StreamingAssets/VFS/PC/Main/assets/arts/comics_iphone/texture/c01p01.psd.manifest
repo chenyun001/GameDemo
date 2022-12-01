@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1884384574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60a6f7ac09ced7c5afa34ce4444a8e89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Texture/c01p01.psd
+Dependencies: []

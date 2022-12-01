@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2743488196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d146ae4f9c6d25e1d7be943e1b0640c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Shaders/_TransparentVertexColor.shader
+- Assets/Arts/Shaders/NewUnlitShader.shader
+- Assets/Arts/Shaders/iPhone Multiply Culled.shader
+- Assets/Arts/Shaders/MyTest.shader
+- Assets/Arts/Shaders/TextureSimpleComix.shader
+- Assets/Arts/Shaders/NewUnlitShader 1.shader
+- Assets/Arts/Shaders/MyChacter.shader
+- Assets/Arts/Shaders/MyNprCommon.shader
+- Assets/Arts/Shaders/Cel_Shader.shader
+- Assets/Arts/Shaders/_VertexColored.shader
+- Assets/Arts/Shaders/TransparentSimpleZBuffer.shader
+- Assets/Arts/Shaders/TextureSimpleCutOff.shader
+- Assets/Arts/Shaders/Mouth.shader
+- Assets/Arts/Shaders/Npr_Chacter_Common.shader
+- Assets/Arts/Shaders/Particle Alpha Blend-Z.shader
+- Assets/Arts/Shaders/TransparentSimple.shader
+- Assets/Arts/Shaders/Code_Cel_Shader.shader
+- Assets/Arts/Shaders/GCDifuse.shader
+- Assets/Arts/Shaders/VertexColored.shader
+- Assets/Arts/Shaders/TransparentVertexColor.shader
+- Assets/Arts/Shaders/TextureSimple.shader
+- Assets/Arts/Shaders/TransparentSimpleTwoSided.shader
+- Assets/Arts/Shaders/Particles Additive Culled.shader
+Dependencies: []

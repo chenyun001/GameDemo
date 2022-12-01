@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 1191468730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce7ef55ae066792515e95e4cb0a5295f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc9a2862381807f2a2d9f4f4e8fbf70a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7414f6c847603ee43b185f737064b157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb4ad15ab948e94a91066b735dc2b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1923b65cfa33bec4bb4ffc3d3cd8bcbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BlackBoard
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyPeasantEx.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/model/enemy_swordsman.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_diffuse.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_transparent.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman02/model/enemy_swordsman02.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/peasant_spawn1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/peasant_spawn2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/peasant_spawn3.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/footsteps/kotoul1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/footsteps/step_sii_1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/footsteps/step_sii_2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/footsteps/step_sii_5.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/vocals/effort31.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/vocals/effort34.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/vocals/effort44.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/vocals/effort45.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/vocals/effort47.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/cover/katana_cover1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/cover/katana_cover2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/hit_player/hit_p1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/hit_player/hit_p2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/hit_player/hit_p3.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/miss/miss1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/miss/miss2.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/miss/miss3.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/weapons/katana/swish_bloodoff/swish_bloodoff1.wav

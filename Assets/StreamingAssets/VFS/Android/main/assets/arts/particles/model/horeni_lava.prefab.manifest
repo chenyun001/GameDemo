@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3157732309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f5526905cb5f911e8745af890fc0ff9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/horeni_lava.prefab
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1512467434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e45da3c69551a065f5621aceb3d35341
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9235d75a92189e15285086737c13a944
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c21931b416adf428c0bcdf76ebcab4, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/UISoundManager.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/mainmenu/perc5.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/mainmenu_in1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/mainmenu_out1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/menu_logo_in1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/menu_logo_out1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/submenu_in1.wav
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/menu/submenu_out1.wav

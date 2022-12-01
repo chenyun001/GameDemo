@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2807450854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d7fe9bccb58358956d385b42c475cc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3b42bed3b3ecf708234f02042fd562e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/collisions1.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/model/collisions1.fbx

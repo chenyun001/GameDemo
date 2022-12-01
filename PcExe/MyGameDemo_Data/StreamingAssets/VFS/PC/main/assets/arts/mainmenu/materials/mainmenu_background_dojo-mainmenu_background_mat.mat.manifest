@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3271202827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b85e309f892662dd438a09041964676
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background_dojo-mainmenu_background_mat.mat
+Dependencies: []

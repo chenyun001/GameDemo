@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2230802489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba4d0b223d76c70a4d9a60d3aec321be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Atlas/HeadImg/HeadImg2.png
+Dependencies: []

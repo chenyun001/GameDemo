@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3874504203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5188eb15e4e6e29540f8c092bb7cfe5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MyTest/Material/Avatar_Sakura_C1_Material_Hair 1_Test.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_hair_color.png
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_hair_lightmap.png
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

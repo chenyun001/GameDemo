@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 878285846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97454cb6c3e8a5a455c5d751f324e089
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman/Materials/enemy_swordsman_transparent.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/texture/enemy_swordsman02.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3678158782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d34d2cc135fd10ed305718ac95cd5331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Animactions/CameraAnims/shakeCombo1.anim
+Dependencies: []

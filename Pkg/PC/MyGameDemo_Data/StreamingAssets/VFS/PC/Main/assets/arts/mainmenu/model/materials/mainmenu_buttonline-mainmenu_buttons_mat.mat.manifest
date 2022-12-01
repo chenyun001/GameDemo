@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 936580458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebed46c04f2d747f23843f1d97864a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/MainMenu_Buttonline-MainMenu_Buttons_Mat.mat
+Dependencies: []

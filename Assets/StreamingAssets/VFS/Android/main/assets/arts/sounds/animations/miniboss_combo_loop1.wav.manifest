@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3204537912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc6119ce048f6a8427c1e8a3307d3004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/animations/miniboss_combo_loop1.wav
+Dependencies: []

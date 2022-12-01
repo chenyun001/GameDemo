@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3334407740
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 589e28a12d92a5ed64732db71e91f522
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd115c4aad1613a07a4dd124974dc00c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 185eaee78217f4e348a7d26b53f9a03f, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadTwoSwordsmanVSide.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemydoubleswordsman/materials/enemy_double_swordsman01_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemydoubleswordsman/materials/enemy_double_swordsman01_transparent.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemydoubleswordsman/model/double_swordsman01_sliceleftright.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/animations/spec_death5.wav

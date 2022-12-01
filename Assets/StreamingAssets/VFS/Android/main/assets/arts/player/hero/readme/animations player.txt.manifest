@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 548292534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf51d4e77503aa60f388c145d3a35a3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Hero/ReadMe/animations player.txt
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3365022182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55a6dd3c471abc1063be6700a24804e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level05/MaterialsEx/cliftend-No Name.mat
+Dependencies: []

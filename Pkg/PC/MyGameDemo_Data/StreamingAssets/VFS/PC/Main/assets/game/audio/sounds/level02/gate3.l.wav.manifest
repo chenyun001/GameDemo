@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2040164721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7548435f082492e2039f598c3edabfec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level02/gate3.l.wav
+Dependencies: []

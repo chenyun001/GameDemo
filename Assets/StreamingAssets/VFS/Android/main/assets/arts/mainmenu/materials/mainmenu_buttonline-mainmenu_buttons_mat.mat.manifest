@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 907207724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 422133f4358d3ebd33f646c69401aa0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_buttonline-mainmenu_buttons_mat.mat
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 743641120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae4dc21ab9d36d5f378e76c24bacf71f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/menu/mainmenu_out1.wav
+Dependencies: []

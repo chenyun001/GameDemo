@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4026521030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a42c7263ca4beee7cc246cbe7dc8760e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Gui/Texture/gui3G.psd
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 7722308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fff05e568a967a6b373532ae6a98743b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/vlnky02.psd
+Dependencies: []

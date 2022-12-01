@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2214858463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c7797371649cf500f7d8e5770f8a2b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/sum4g.psd
+Dependencies: []

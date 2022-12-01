@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2586424040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b5a7755834446b3691f2937c212bcf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c1dd3e22f09b5404a4b2af5c037dac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttons_NewGame_Normal.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materialsex/mainmenu_buttons_newgame_normal-mainmenu_buttons_mat.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/model/materials/mainmenu_buttons_newgame_normal-mainmenu_buttons_mat.mat

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2165067478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6bab319f427553f2845a7fb74852cae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Texture/mainmenuloading.tga
+Dependencies: []

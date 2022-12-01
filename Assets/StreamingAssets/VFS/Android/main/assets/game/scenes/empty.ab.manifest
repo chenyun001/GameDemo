@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 45429798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1ea648c2d0d295e87743994bfe57115
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9494c5cc3b56e140985cba39e6e94701
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/empty.unity
+Dependencies: []

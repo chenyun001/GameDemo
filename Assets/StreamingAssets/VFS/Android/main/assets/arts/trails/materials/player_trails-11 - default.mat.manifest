@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3251202070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af5aeb511e12b604433cb81db566493d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Trails/Materials/player_trails-11 - default.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

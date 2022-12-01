@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1372785523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a471f26a42f6f1eb7249463dd15f63bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 146b03472593bdc13a08969ab791a0ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/klecbeginning.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/materials/s2_level07.mat

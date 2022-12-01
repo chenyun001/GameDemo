@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1424360256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b735466b8544ba61b322358f34e35e55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/mat_bigring02.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

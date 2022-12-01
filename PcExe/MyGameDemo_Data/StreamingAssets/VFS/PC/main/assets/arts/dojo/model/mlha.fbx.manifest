@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1620068894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74a3b2185f35804e1bce8c939f910ee0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 146b03472593bdc13a08969ab791a0ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Model/mlha.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/dojo/materials/dojo_mraky.mat

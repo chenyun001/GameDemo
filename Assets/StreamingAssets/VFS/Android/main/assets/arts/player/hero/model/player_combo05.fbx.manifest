@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 410894811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c0418f0ceff4ff8b6a9d0b23954d8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75c348c7bdfa17c3a82356401759f024
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Hero/Model/player_combo05.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/hero/materialsex/player_combo05-player.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/hero/model/materials/player_combo05-player.mat

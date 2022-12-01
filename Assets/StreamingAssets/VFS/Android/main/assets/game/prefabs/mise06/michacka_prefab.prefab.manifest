@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2801078522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aac4239e10d8f5eb7f722feb88c4aa64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a038145b10d3e96a264210bdf9ecde8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise06/michacka_prefab.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level06/materials/s2_level06.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level06/model/michacka.fbx

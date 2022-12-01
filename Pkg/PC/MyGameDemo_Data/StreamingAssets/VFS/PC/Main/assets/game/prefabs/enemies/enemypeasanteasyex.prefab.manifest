@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3976381315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e25ecad7ea8b595b5bd7875df894b286
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ce9e3d224f3d0d37bd3daa48c11e679
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7414f6c847603ee43b185f737064b157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1923b65cfa33bec4bb4ffc3d3cd8bcbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e5cd06dbbbc4404dbb42ff30933f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa460c7d0ae29470d9253fd50fa1f6f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca5395c6fd1e946f181ee5448b2d76d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63430b1f038bb47ca96278de5eac3742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccbf5c12d20aa4507a691d937b22db12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f93d2f2bae924258a2bbf02a1a08add, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyPeasantEasyEx.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman/model/enemy_swordsman.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02low_transparent.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/model/enemy_swordsman02.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/enemies/enemypeasanteasy.prefab

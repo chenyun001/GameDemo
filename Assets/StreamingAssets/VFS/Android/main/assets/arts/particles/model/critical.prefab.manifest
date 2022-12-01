@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2078287675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7721ab4251136ead7f43aefc0c3b94e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/critical.prefab
+Dependencies: []

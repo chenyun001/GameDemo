@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1516197436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8d4a21ad2ae6417751e10e7029c1f82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04cb1cb3ba7f0696b82d42cf4be07e31
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f71c3e2735b7d764dacf7d8a60d0d40e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b3aac2d4a5785646a7017a61061524b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f45085564bd186f4784d3f0c141a741f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46c33e726e78794409e49bb6dbcc6539, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93ce46ab89c7d7846bae700f7ee7238c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/UI/UIPanelPrefabs/MainPanel.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/atlas/mainview/guihd.psd

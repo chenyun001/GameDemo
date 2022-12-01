@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3993038879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8645fb5637779c54e845fba1a7b9b77a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc6dfebc6c0fb88152d6374431d7035
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Raggedy Spineboy/Raggedy Spineboy_SkeletonData.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/raggedy spineboy/raggedy
+  spineboy.json
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/raggedy spineboy/raggedy
+  spineboy_atlas.asset

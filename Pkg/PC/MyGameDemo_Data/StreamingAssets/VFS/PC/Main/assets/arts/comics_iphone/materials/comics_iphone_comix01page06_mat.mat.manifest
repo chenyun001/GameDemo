@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2181937371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 565c02ca988e1fa5711e4dd923abe5c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_iphone_comix01page06_mat.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/comics_iphone/texture/c01p06.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

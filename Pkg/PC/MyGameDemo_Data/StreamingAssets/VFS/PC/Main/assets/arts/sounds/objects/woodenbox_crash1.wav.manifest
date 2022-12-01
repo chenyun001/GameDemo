@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4130438267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1546d889070c681a3bfd59b5a170c730
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/objects/woodenbox_crash1.wav
+Dependencies: []

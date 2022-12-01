@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 632543771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cb1ec931ca5b9b9a782e763380b2274
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2e04b61b3e38359874d551abc9e7a48
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 307a736764ebbce44b54d72f8467b6fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 572910c10080c0945a0ef731ccedc739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/ShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/TextureResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.StencilStateData
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRendererData/ShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.XRSystemData/ShaderResources
+Assets:
+- Assets/Game/PBRSetting/Pbr_Renderer.asset
+Dependencies: []

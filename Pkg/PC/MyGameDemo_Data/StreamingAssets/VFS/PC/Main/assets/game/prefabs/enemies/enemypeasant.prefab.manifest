@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3411639607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f2a842e6f204e3dd1faeb6ea4e1eba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 01c21298468eed2fabf6a788805848a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e5cd06dbbbc4404dbb42ff30933f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa460c7d0ae29470d9253fd50fa1f6f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca5395c6fd1e946f181ee5448b2d76d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63430b1f038bb47ca96278de5eac3742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccbf5c12d20aa4507a691d937b22db12, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyPeasant.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman/model/enemy_swordsman.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/model/enemy_swordsman02.fbx

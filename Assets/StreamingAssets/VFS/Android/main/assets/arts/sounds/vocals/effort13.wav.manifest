@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3690331302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e26e34ba05b617207896492e2aecc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/vocals/effort13.wav
+Dependencies: []

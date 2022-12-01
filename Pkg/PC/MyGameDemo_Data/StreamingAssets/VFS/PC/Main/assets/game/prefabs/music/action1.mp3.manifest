@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 67097761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 851f1850a9135e6d46c41ba3b851f916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Music/action1.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2798608756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 564447a90073132b9bc9f3be80b6c9cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/animations/spec_death7.wav
+Dependencies: []

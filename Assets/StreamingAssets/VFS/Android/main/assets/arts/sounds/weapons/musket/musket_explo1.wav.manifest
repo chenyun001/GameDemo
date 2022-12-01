@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 384559996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4110fe478b39ad2ee09da6d53c0cf19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/musket/musket_explo1.wav
+Dependencies: []

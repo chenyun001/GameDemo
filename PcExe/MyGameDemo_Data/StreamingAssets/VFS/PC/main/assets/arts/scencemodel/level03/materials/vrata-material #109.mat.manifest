@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3357314944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 596e4862b98682faeb91df8b973aa2a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level03/Materials/vrata-material #109.mat
+Dependencies: []

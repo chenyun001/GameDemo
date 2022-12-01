@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f3cab3f4ae5ca64885286590d1bea9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lato
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0d5b1364fc2f90498e2ffd8e6908434, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: assets/uhudtext/content/art/font/lato-bold.ttf
+  assetBundleVariant: 

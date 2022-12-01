@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 577033423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fa673953441ae445966660f1eaca3f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/MaterialsEx/MainMenu_Confirm_Title-MainMenu_Buttons_Mat.mat
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 564396374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81147894f9dafeb88cdde6fb55fb4c54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/ModelEx/Materials/Comics_iPhone_Counter-ComixGui_iPhone.mat
+Dependencies: []

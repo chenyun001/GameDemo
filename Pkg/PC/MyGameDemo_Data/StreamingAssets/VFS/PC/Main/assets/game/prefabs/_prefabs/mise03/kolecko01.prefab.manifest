@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3294777695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8e4bc4e023575d6890f9481090b6f49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f4c22ce7988166b06bdf5a9fc962eb4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise03/kolecko01.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level03/materials/s2_level03.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level03/model/kolecko01.fbx

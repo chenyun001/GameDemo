@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 901384536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b086baddb09d6deb6c98e3993c36c09f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/footsteps/hard1.wav
+Dependencies: []

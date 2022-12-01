@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4073830119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 841ed9edc130d547e99adea9f0507257
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Hero/Model/player_combo03.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/materials/player_combo03-player.mat

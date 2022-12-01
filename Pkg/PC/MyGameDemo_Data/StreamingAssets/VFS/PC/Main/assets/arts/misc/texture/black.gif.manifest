@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2909455352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 613de297ba81d8354246f7c1ded33a47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Misc/Texture/Black.gif
+Dependencies: []

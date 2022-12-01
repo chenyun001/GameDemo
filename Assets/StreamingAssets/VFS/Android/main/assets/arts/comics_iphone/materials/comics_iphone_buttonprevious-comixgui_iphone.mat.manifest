@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3251640603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a5ac92e40b629c2b992bddee74dca80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_iphone_buttonprevious-comixgui_iphone.mat
+Dependencies: []

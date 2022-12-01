@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3567024243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e9ee394ebd01819f91e195fc2c0e0fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/TitleBar_002.png
+Dependencies: []

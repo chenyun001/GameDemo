@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2216469163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 091a81816ab99b12b50e5ae27933032c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyArcher/Materials/enemy_archer01_transparent.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyarcher/texture/enemy_archer01.tga
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

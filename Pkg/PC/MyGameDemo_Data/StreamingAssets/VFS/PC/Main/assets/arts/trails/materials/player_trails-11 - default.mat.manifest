@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 676875876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15ae95d2c2c81182d126e7f429580298
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Trails/Materials/player_trails-11 - default.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

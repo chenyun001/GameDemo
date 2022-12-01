@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2430757700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b133e5e37ff0df82c92efc2a0d17c937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level06/Model/lis.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level06/materials/s2_level06.mat

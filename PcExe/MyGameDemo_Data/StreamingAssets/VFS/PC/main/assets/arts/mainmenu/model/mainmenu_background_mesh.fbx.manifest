@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 82717247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7389b973fa91a27a9f7ffd644cdb3514
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c8c666fdfa2d576c30a27d7b0ae279a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Background_MESH.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materialsex/mainmenu_background_mesh-mainmenu_background_mat.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/model/materials/mainmenu_background_mesh-mainmenu_background_mat.mat

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4265072726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c0dd2a2c88769aba11a80260a6a9977
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/animations/miniboss_spawn2.wav
+Dependencies: []

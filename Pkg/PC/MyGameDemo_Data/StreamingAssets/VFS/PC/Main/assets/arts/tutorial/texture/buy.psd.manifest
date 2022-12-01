@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2928217983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 687c8f5c5ef5ce03535bc310378d2305
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Tutorial/Texture/buy.psd
+Dependencies: []

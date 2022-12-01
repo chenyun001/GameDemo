@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3289642101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84f3b90601b927807f02ef8274e7cfea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Materials/s2_level07.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/texture/s2_level07.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

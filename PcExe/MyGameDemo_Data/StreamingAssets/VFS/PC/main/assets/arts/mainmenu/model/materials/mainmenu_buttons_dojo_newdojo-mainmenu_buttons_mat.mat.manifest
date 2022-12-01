@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 372973619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9101e4ec8df9614c6d3a89912aa9b8bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/MainMenu_Buttons_Dojo_NewDojo-MainMenu_Buttons_Mat.mat
+Dependencies: []

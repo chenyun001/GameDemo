@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1321016486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbe455cfc72c78508f6b573d1b71be3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/animations/boss_roar3.wav
+Dependencies: []

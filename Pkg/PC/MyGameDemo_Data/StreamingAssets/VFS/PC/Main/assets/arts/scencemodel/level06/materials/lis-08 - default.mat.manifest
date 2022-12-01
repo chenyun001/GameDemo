@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3945849052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 732a6a307f146df72af0b917fcfe5d29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/lis-08 - default.mat
+Dependencies: []

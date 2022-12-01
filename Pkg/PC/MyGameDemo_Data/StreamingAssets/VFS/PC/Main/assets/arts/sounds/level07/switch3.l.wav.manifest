@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 863795458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 789c923822a67241b98d6c9460ecbb09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/level07/switch3.l.wav
+Dependencies: []

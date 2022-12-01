@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 471955458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8af3a2fe9b8381f558a93c6bdd84a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/dojo/Model/dojo03gear.FBX
+Dependencies:
+- 'G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/dojo/model/materials/dojo03gear-material
+  #79.mat'

@@ -1,0 +1,131 @@
+ManifestFileVersion: 0
+CRC: 702246499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1b82cc10b34219cdc79db7b61abb376
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84ba711bb06f50378b234b2296aa906c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cdb00442f9514f4fb8a3aaac1bd8fd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d737a858a2483514681202bb5fcf0156, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59469dcb2df2683489c4368a64ffd84f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89f7189588a5985419bb8f8f055b7212, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abb3eecbe3a8240fa875bbddba786890, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68f25e9486d41478c8e7f9bd8f9df0f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bcbb99dc77ab4d30a94bf80bde2f8be, type: 3}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/level04.unity
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo1.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo2.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/animactions/cameraanims/shakecombo3.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/horeni.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/animations/acambridge.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/animations/acamvrata.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/animations/acamvrata2.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/materials/s2_level03.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/boat.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/clift.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/collision.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/prapor.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/voda.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/vrata.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone01a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone01lift.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone02a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone03.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone03a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone04.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone04a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone04bridge.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone05a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone05kolo01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone06.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone06a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone06lift1.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level03/model/zone06lift2.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/common/spawnplayer.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise01/lampion2.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise03/kolecko01.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise03/sekacky.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/music/ambi_quiet4.mp3
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/p_interaction.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/sud.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/zamek.prefab

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 368950771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76674c0d428d1631a1cbb1e724a31546
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/footsteps/water6.wav
+Dependencies: []

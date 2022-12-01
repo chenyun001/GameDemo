@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1101167085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15e7a4df06b9efe6f24e09ad2510ee61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Tutorial/Material/phone01.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/tutorial/texture/phone01.psd

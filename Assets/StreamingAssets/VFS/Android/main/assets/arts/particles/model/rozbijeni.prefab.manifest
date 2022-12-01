@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3704902989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e86b5356278a9300db9a6d78807060dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/rozbijeni.prefab
+Dependencies: []

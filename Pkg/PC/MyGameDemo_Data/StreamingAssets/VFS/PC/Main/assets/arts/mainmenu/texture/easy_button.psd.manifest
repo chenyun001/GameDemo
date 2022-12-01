@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3513504509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1944b8311f33081fdc8eff545b6745c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Texture/easy_button.psd
+Dependencies: []

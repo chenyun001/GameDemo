@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 357201650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc2e4b9fc18a2f91d4d3aa0f931fadee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/MaterialsEx/MainMenu_Buttons_Help-MainMenu_Buttons_Mat.mat
+Dependencies: []

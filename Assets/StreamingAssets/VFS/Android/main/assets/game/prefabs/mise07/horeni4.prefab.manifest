@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3270954089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c8b0939077a11a2fd0cbb4092e6aa51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise07/horeni4.prefab
+Dependencies: []

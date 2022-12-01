@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1274587246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3e3615515800dd5d9677a4203477966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Hero/ReadMe/player_combos.txt
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1374384192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be54a2cd4d7f39571f0416eea8fe4ba5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c796ccd5a6f6db9319018e3416879200
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Confirm_Button_yes.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/materialsex/mainmenu_confirm_button_yes-mainmenu_buttons_mat.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/model/materials/mainmenu_confirm_button_yes-mainmenu_buttons_mat.mat

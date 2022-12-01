@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1236378722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9884531ea12f2772a0b66badf67a5a68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de03147e0308033cedb69d0e35b9b90e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemySwordsman.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/materials/enemy_swordsman_transparent.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/model/enemy_swordsman.fbx

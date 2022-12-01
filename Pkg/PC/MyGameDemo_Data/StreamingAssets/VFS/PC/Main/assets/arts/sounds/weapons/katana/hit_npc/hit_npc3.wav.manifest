@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2032007215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f78cb4a110e2f65619438d225c0d6d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/Katana/hit_npc/hit_npc3.wav
+Dependencies: []

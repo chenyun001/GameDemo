@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3077995893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80abf95e6ef08af011dac947e96df4b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/testScene/Texture/strom01.tga
+Dependencies: []

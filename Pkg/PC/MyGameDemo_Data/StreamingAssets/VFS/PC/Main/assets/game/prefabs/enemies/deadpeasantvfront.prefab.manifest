@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 152492845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb8628e2750c4c68658e4e81ce5a6878
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd115c4aad1613a07a4dd124974dc00c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 185eaee78217f4e348a7d26b53f9a03f, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadPeasantVFront.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_transparent.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman02/model/peasant01_slicefrontback.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/animations/spec_death4.wav

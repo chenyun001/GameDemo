@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1596452915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 554839fd0a4c2e5d726cc93ddce57987
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/testScene/Texture/s2_level02.tga
+Dependencies: []

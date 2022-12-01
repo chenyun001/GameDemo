@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2475631136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ff367f81e42a9869b7c232dfafd2c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Audio/Music/ambi_quiet2.mp3
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1772537851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0a3b6d650b7f412e0faada6d31c5e69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Effects/blood.prefab
+Dependencies: []

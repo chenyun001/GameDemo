@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2701778255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b67b561c3aa5ef350fe709a345cecc57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/mise01/lampion2.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/materials/extra.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/model/glow.fbx

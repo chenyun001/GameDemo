@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3029714416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f891f5a76ee2291dc4d10bd9a47e268f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ae637d05358b5169ce2eed24493ae21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise07/lift.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/model/podlaha.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/model/zone04alift.fbx

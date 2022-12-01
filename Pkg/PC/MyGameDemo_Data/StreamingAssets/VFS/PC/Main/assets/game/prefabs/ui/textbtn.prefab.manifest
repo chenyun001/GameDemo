@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3661588163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c55fb126daf1bbc7b7992f50b1446829
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: edc8d2c41ecabf014ac030382031028f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/UI/TextBtn.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/image/mainmenu_buttons 1.tga

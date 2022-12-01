@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1887639625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87a0ecc41c6ec106fcca6310b845392
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Tutorial/Texture/ipad03.psd
+Dependencies: []

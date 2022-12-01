@@ -1,0 +1,25 @@
+
+local _timerTest 			= nil
+local endTime  = os.time() +10000
+function  Awake()
+	
+end
+
+function Start()
+	gm.Utils.TimerManager:Start()
+end
+
+function TimeAction()
+	
+end
+
+function Update()
+    gm.Utils.TimerManager:Update()
+end
+
+function Ondestroy()
+	if _timerTest then
+		_timerTest:Stop()
+		_timerTest = nil
+	end
+end

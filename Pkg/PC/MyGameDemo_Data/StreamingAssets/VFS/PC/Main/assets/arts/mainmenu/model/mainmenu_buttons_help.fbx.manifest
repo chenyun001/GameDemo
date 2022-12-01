@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1398655599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cc05c7f509cd86369dd4d30f3599c35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81e1a89158ceb82ffd86e0a5bb107e7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttons_Help.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/materials/mainmenu_buttons_help-mainmenu_buttons_mat.mat

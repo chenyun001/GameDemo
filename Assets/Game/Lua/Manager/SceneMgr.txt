@@ -1,0 +1,157 @@
+--[[
+场景管理类
+]]
+
+SceneMgr = {}
+SceneMgr.list_UI = {}
+local _Vector3  			= CS.UnityEnging.Vector3
+local _Destroy 				= CS.UnityEnging.Object.Destroy
+local createGameObject  	= CS.UnityEnging.GameObject
+local type_GameObject  		= typeof(CS.UnityEnging.GameObject)
+local type_RectTransform  	= typeof(CS.UnityEnging.RectTRansform)
+local type_GraphicRaycaster = typeof(CS.UnityEnging.UI.GraphicRaycaster)
+local _SyncLoadAsset 		= CS.MyGame.ResourceManager.LoadAssetAsync
+local type_Canvas  			= typeof(CS.UnityEnging.Canvas)
+local type_LuaBehaviour 	= typeof(CS.LuaBehaviour)
+local _Instantiate 			= CS.UnityEnging.GameObject.Instantiate
+local _LoadLevelAsync 		= CS.MyGame.ResourceManager.LoadLevelAsync
+local _LoadLevelOperation   = nil
+local m_UIMask = nil
+local m_CurrentUIMask = nil
+local m_LoadLevelOperation = nil
+local ui_loading = {ui_path="Assets/Game/Prefabs/UI/UICommon/LoadingScreen.prefab",ui_name="LoadingScreen",layerZ = 10001}
+local ui_data = nil
+local progerss = 0 
+
+local function _AddUIMask(ui_data,data)
+	if m_UIMask == nil then
+		if obj ~= nil then
+			local function _CallBack(obj)
+				m_UIMask = _Instantiate(obj,ui_data.UI_OBJECT.transform)
+				m_UIMask.name =  obj.name
+				m_UIMask.transform.lcoalPosition = _Vector3(0,0,0)
+				m_UIMask.transform.localScale = _Vector3(1,1,1)
+				m_UIMask:GetComponent(type_RectTransform):SetAsFirstSibling(0)
+			end
+		end
+		_SyncLoadAsset("Assets/Game/Prefabs/UI/UIMask.prefab",type_GameObject,_CallBack)
+	else
+		m_UIMask:SetActive(true)
+		m_UIMask.transform:SetParent(ui_data.UI_OBJECT.transform)
+		m_UIMask.transform.lcoalPosition=  _Vector3(0,0,0);
+		m_UIMask.transform.localScale = _Vector3(1,1,1)
+		m_UIMask:GetComponent(type_RectTransform):SetAsFirstSibling(0)
+	end
+end
+
+local function _SetUIMask()
+	local lastUIData = SceneMgr.list_UI[#SceneMgr.list_UI]
+	if m_UIMask ~= nil then
+		m_UIMask.transform:SetParent(lastUIData.UI_OBJECT.transform)
+		m_UIMask.transform.lcoalPosition=  _Vector3(0,0,0);
+		m_UIMask.transform.localScale = _Vector3(1,1,1)
+		m_UIMask:GetComponent(type_RectTransform):SetAsFirstSibling(0)
+		m_UIMask:SetActive(false)
+	end
+end
+
+SceneMgr.OpenLoading = function(callBack)
+	UIManager.OpenUI(ui_loading.ui_path,callBack)
+end
+-- 等待秒数，并在Update执行完毕后resume
+-- 等同于Unity侧的yield return new WaitForSeconds
+local function waitforseconds(seconds)
+	---coroutine.create()
+	while(seconds > 0) do
+		seconds = seconds - 1/30
+	end
+end
+local function _loadScene(sceneName,callBack)
+	_LoadLevelOperation = _LoadLevelAsync(sceneName,false,callBack)
+end
+
+SceneMgr.OpenScene = function (objInfo)
+	local sceneName = objInfo.sceneName
+	local uiInfo = objInfo.uiInfo
+	local callBack = objInfo.callBack
+	local ui_data = objInfo
+	UIManager.OpenUI(ui_loading.ui_path,ui_loading)
+	progerss = 0.1
+	waitforseconds(0.1)
+	-----------------------------------
+	collectgarbage("collect")
+	CS.System.GC.Collect()
+	waitforseconds(0.1)
+	progerss = 0.15
+	collectgarbage("collect")
+	CS.System.GC.Collect()
+	waitforseconds(0.1)
+	progerss = 0.25
+	--------------------------------
+	local function _CallBack()
+		SceneMgr.OpenUI(uiInfo,callBack)
+	end
+	waitforseconds(0.1)
+	_loadScene(sceneName,_CallBack)
+	progerss = 0.35
+end
+
+
+
+SceneMgr.OpenUI = function (uiInfo,callBack)
+	local ui_path = uiInfo.ui_path
+	local ui_name = uiInfo.ui_name
+	local ui_data = uiInfo.ui_data
+	if SceneMgr.list_UI[ui_name]  ~= nil then
+		if callBack then
+			callBack()
+		end
+	else
+		local data = {}
+		local function _CallBack()
+			SceneMgr.list_UI[ui_name] = uiInfo
+			if ui_name ~= "mainScreen" then
+				_AddUIMask(ui_data)
+			end
+			if callBack then
+				callBack()
+			end
+		end
+		data.callBack =  _CallBack
+		data.layerZ = ui_data.layerZ
+		data.ui_name = ui_name
+		UIManager.OpenUI(ui_path,data)
+	end
+end
+
+
+SceneMgr.UpdateProgerss = function ()
+ 	if _LoadLevelOperation ~= nil then
+ 		progerss = _LoadLevelOperation.progerss
+		if progerss <= 0.7 then
+			progerss = 0.5
+		end
+ 		if progerss>= 1 then
+ 			_LoadLevelOperation = nil
+			return progerss
+ 		end
+ 	end
+ 	return progerss
+end
+
+SceneMgr.CloseLoading = function ()
+	UIManager.CloseUI(ui_loading.ui_name)
+	print("CloseUI,,,,,,,,,,,,,,,,,,,,,,,")
+	-- if ui_data ~= nil then
+	-- 	local sceneName = ui_data.sceneName
+	-- 	local uiInfo = ui_data.uiInfo
+	-- 	local callBack = ui_data.callBack
+	-- 	SceneMgr.OpenUI(uiInfo,callBack)
+	-- 	ui_data = nil
+	-- end
+	
+end
+
+SceneMgr.CloseUI = function (objInfo)
+
+end

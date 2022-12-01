@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4273092789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fad3420cb76e3d4a85de90c7e14ac63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c1dd3e22f09b5404a4b2af5c037dac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Hero/Model/player-1.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/player/hero/materialsex/player-1-player.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/player/hero/model/materials/player-1-player.mat

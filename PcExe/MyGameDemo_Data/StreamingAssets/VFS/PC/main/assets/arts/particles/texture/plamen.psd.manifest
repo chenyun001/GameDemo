@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4027003098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56a2cece2c5308216f6b9e25d52072f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/plamen.psd
+Dependencies: []

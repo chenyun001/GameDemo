@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 246746786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ae8549f23f94acfaec5e486cf816283
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_ipad_comix02page02_mat.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

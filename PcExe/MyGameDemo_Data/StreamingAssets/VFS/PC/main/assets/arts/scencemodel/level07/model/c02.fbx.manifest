@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2897904707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c73c95a8a4b3c151f773451dd77fe79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c8c666fdfa2d576c30a27d7b0ae279a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/c02.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/materialsex/c02-no
+  name.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level07/model/materials/c02-no
+  name.mat

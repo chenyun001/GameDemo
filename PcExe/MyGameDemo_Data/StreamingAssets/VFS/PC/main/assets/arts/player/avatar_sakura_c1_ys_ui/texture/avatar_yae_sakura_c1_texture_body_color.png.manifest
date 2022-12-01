@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1715420523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f337d254872dc9e87ddd7b08ce96b0e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/Avatar_Yae_sakura_C1_Texture_Body_Color.png
+Dependencies: []

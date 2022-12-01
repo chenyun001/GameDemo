@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1351707014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d9fe359b977e2f899db92346d3751e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/rotacak1.mat
+Dependencies: []

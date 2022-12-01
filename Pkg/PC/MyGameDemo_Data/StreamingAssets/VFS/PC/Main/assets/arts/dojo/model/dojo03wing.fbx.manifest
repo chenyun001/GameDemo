@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1735119766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b15c5ff6e513e17d338f8d7f6b6c2cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/dojo/Model/dojo03wing.FBX
+Dependencies:
+- 'G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/dojo/model/materials/dojo03wing-material
+  #79.mat'

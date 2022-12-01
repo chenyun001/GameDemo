@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2217321024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c45d83f9ba699e728cd1e8166150917d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/MaterialsEx/Comics_iPhone_of8-ComixGui_iPhone.mat
+Dependencies: []

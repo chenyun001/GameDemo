@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2255566038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 340670af1ae45ea192c0e7a5980768e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81e1a89158ceb82ffd86e0a5bb107e7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Hero/Model/player-1.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/model/materials/player-1-player.mat

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1708990416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80d6398323f65d445feaeb9b14e833f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/level01/close_stop1.wav
+Dependencies: []

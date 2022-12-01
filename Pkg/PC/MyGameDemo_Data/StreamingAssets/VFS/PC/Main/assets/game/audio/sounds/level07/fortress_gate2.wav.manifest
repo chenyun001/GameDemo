@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 301534538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f406414f6ea1012398da7b732ddf024e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level07/fortress_gate2.wav
+Dependencies: []

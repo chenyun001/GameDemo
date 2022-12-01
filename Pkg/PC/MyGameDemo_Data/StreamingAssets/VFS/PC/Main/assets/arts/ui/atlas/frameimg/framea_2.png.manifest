@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 754478936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7ba4dd54e9475f3aed36dc92288b924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/FrameImg/frameA_2.png
+Dependencies: []

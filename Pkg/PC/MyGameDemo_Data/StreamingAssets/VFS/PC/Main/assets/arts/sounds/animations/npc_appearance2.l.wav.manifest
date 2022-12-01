@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4000366416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80e80b8dda4c8a5347f9328a2bc7ab2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/animations/npc_appearance2.L.wav
+Dependencies: []

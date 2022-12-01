@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4011506277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2009c12175a7f1f97e57c49ce2c93f5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7ad32f0d6ff6461d6bcddd39612cb49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyArcher/Model/Bowman_SliceVert.FBX
+Dependencies: []

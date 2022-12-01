@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2233999721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a0ad9a7cf85c4239df90df2aac9fd89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Comics_iPhone_ButtonAnim.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/comics_iphone/model/materials/comics_iphone_buttonanim-comixgui_iphone.mat

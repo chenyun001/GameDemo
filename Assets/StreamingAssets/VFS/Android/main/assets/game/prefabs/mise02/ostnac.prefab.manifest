@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 12526319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8892291ba15d0bddbe4f7cfa4eaf2ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 948e2a53c3004f3f654459de9e1c38e0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ef68705df9111449a809d37b666b38e, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise02/ostnac.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level02/materials/s2_level02.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level02/model/ostnac.fbx

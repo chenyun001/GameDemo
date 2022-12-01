@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 885212023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36dd51212a2df9a30d4293b68490d539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0515bfc4ade1b2c86570db310e57aacb
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e60be42c1473144db0fd3337c25b500, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/spineboy-pro/ReferenceAssets/footstep.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/spineboy-pro/spineboy-pro_skeletondata.asset

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2303463973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c408a3049082a956e763c945a48ac35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyMiniBoss01/Materials/miniboss01_transparent.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyminiboss01/texture/miniboss01.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

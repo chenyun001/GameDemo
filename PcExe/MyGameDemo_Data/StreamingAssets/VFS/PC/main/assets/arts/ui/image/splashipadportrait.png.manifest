@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2818025328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22dbe44a25d4f263ddf497a6adba6e09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/SplashiPadPortrait.png
+Dependencies: []

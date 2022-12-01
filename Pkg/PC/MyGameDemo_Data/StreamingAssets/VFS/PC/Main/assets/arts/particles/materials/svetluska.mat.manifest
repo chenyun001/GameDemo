@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3891710595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5769166180e53650cbb728132b70e438
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Materials/svetluska.mat
+Dependencies: []

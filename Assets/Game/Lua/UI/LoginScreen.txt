@@ -1,0 +1,32 @@
+--[[
+登录界面
+]]
+local _Player = CS.Player
+local _LoadLevelAsync = CS.MyGame.ResourceManager.LoadLevelAsync
+function  Awake()
+	btn_Login.onClick:AddListener(OnClick_LogIn)	
+end
+
+
+function Start()
+	-- local HeroEnity = require("Data.Cache.HeroEnity").new()
+	-- HeroEnity:PrintStr()
+end
+
+function OnClick_LogIn()
+	local function _CallBack()
+		GameManager.LoadRole()
+	end 
+	SceneMgr.OpenScene({
+		sceneName = "Assets/Game/Scenes/Level01", 
+		uiInfo = {ui_path = "Assets/Game/Prefabs/UI/UICommon/mainScreen.prefab",ui_name = "mainScreen",ui_data={}},
+		callBack=_CallBack })
+end
+
+function Update()
+
+end
+
+function Ondestroy()
+
+end

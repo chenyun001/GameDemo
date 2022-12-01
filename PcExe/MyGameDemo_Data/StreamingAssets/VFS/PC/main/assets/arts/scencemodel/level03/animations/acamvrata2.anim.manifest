@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 720652209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8202b52bdc8e9f8e54f4a64e542910b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level03/Animations/acamvrata2.anim
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 552991282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f5582c027ac64a8a92ce6d94eaf2bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/vlnky.prefab
+Dependencies: []

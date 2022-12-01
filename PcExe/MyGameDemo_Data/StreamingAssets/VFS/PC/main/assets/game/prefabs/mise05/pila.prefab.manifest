@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1933825043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03c3aadc2285f6f131b40cbcfce781b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d612cafa418224d30f89c79f96a0b7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise05/pila.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level05/materials/s2_level05.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level05/model/pila.fbx

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3488690205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c0da20f3675471e62ea5f2b2631159
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level01/gate_run_loop1.wav
+Dependencies: []

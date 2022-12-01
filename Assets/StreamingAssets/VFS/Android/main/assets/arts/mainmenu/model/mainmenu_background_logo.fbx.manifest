@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1344313045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19260585cf74ae7f9cc16f2a3abdd1af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a447f39dbb42f7f87a83815629f16d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Background_Logo.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/materialsex/mainmenu_background_logo-mainmenu_buttons_mat.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/model/materials/mainmenu_background_logo-mainmenu_buttons_mat.mat

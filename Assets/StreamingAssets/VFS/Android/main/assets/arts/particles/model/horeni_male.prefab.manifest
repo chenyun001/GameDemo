@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2737246707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74662f7fb9c84f18ac6c06151d59df7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Model/horeni_male.prefab
+Dependencies: []

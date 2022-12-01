@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4129326917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dee14b6de6d5b68ee6967f2ae4e6ae1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Materials/mat_star02blue.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

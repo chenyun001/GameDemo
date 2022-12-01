@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2815110411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13c5863eef709979a588990ec6be2522
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/sust.psd
+Dependencies: []

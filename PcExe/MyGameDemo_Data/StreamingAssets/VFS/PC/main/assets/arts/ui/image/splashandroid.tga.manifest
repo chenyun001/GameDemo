@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 99219100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a94932527d4206ee15cb5945e669056a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/Splashandroid.tga
+Dependencies: []

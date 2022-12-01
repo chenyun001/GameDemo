@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1433667166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 910c003d006845b94fe8dd41fb33d177
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/kruh.psd
+Dependencies: []

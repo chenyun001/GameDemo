@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3590687441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9fdb2f9be91fb095bd5f48db40afb1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc6dfebc6c0fb88152d6374431d7035
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Raptor/raptor_SkeletonData.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/raptor/raptor.json
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/raptor/raptor_atlas.asset

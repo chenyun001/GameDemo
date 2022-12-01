@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4161016228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0544c11f48a86694ea226426fec0c86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 05a3a35ea3b1be2f6a08ce1c1b6e4032
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Model/double_swordsman01_Legs.FBX
+Dependencies: []

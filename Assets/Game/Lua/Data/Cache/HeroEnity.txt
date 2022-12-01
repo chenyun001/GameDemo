@@ -1,0 +1,11 @@
+local HeroEnity = gm.Utils.class("HeroEnity") 
+
+function HeroEnity:ctor()
+	self.str = "不是好人的大大大"
+end
+
+function HeroEnity:PrintStr()
+	print(self.str)
+end
+
+return HeroEnity

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3770654369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d224faf602deb6af58740874624a5b5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/mat_sparks.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

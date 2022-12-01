@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2744557560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fed439ae59d4c795f077fb0003d053e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/mix-and-match/mix-and-match-pma.atlas.txt
+Dependencies: []

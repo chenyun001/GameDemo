@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3289005331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f43a42f8921be7b0d522ce7c0fd9835e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/objects/box_water1.wav
+Dependencies: []

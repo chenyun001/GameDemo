@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 134378137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 976fbe1c5fc1e7b063e5b7b2616d3f60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d05fde5a7708a5cac7919dfb5a35a8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise03/kolecko01.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level03/materials/s2_level03.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level03/model/kolecko01.fbx

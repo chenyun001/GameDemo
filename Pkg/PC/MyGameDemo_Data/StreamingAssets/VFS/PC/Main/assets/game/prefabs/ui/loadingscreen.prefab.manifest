@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4151345455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6d8f0ae69534784aa77e62c6b65a76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bd97ce405e4cb72c96e8a048736aade
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9088e1b30cf3d0e42ba8d60c77dabd67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4609f8cee395d70428910ac76660f029, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/UI/LoadingScreen.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/comics_iphone/texture/c02p08.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/atlas/bagtest/base.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/atlas/bagtest/jindutiao.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/lua/ui/loadingscreen.txt

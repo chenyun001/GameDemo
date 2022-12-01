@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4040357220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a17d0ebf6c68d0d6226db2b05024a02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/MaterialsEx/Comics_iPhone_ButtonAnim-ComixGui_iPhone.mat
+Dependencies: []

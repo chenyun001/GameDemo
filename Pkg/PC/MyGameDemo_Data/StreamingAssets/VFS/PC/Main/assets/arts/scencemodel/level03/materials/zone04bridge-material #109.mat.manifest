@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3870170666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8548a78f46f7f1af7180e1c0e99f37df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- 'Assets/Arts/ScenceModel/Level03/Materials/zone04bridge-material #109.mat'
+Dependencies: []

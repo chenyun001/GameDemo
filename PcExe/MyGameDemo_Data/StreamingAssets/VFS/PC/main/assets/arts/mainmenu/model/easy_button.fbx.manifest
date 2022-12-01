@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 248677035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a5e27b0cc16ee7952e0a16609c0cd0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ec5a0d131fc01dbb070886e74b89099
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/easy_button.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materials/easy_button.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/mainmenu/materialsex/easy_button-no
+  name.mat

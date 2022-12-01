@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1307277389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27af61fc038baa16c1f12b7a01dd2d23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e9238bfeb5f461b28233f8e614d750
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise02/vytah01a.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level02/materials/s2_level02.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level02/model/zone01alift.fbx

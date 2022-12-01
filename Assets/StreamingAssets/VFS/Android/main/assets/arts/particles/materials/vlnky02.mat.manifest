@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 476547429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50629c4d06450ad3ad777133671e9680
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/VLNKY02.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/texture/vlnky02.psd

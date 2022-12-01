@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 653837574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf2535d7d12503c308c0abba959439a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Materials/VLNKY02.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/particles/texture/vlnky02.psd

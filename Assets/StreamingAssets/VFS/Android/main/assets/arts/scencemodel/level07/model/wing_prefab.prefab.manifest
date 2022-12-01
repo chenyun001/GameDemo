@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1913538613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc18822e3b6c7eec95dc2c7b743cc18a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e9238bfeb5f461b28233f8e614d750
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/wing_prefab.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/animations/anim_wings.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/model/wing.fbx

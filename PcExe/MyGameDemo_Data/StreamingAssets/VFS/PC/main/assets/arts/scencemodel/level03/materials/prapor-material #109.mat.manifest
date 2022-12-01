@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2097172026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bca8f73d36e39c5677081f4e93aaca5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level03/Materials/prapor-material #109.mat
+Dependencies: []

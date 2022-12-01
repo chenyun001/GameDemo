@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2639261706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b85fa9a86fa2745c738bbdb1a5f5b61a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5313e74b27831a776e759ad9c6c2120
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadTwoSwordsmanHBody.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemydoubleswordsman/materials/enemy_double_swordsman01_diffuse.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemydoubleswordsman/model/double_swordsman01_halfbody.fbx

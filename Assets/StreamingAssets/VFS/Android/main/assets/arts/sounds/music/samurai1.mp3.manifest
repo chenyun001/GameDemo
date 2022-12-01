@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1555869992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0eb7b7290d23f6c62194e9da621966e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/Music/Samurai1.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3934389393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54491107bbc49b6624ea0b3392e1e7b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/FootSoldier/FS_White.png
+Dependencies: []

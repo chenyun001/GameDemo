@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 754193505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a9dd98eeb6adc73969623c511c3f876
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/col-13 - default.mat
+Dependencies: []

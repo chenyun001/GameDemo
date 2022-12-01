@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3059111788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82bc307d68a245fbc2b061c41bc56289
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb8b9f7d45c83ff266ec7ca094144901
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ef68705df9111449a809d37b666b38e, type: 3}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise02/kyvadlo.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level02/materials/s2_level02.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level02/model/kyvadlo.fbx

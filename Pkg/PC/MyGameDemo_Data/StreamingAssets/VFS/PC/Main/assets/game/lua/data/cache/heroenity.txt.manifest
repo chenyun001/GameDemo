@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1610339075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 909bab4a175a6bccd576375643824817
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Lua/Data/Cache/HeroEnity.txt
+Dependencies: []

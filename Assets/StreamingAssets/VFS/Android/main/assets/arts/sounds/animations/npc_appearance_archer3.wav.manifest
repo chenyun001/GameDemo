@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3123066909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3958f37d9bcdc30a5872ed544113758f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/animations/npc_appearance_archer3.wav
+Dependencies: []

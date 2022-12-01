@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 406921381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f696e35531e8947fd9c8502435e63ee5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/dojo/Texture/dojo03.tga
+Dependencies: []

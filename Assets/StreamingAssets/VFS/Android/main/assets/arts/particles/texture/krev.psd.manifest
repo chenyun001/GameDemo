@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 919635315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d94b438992c0d078e79d1186b4728db2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/krev.psd
+Dependencies: []

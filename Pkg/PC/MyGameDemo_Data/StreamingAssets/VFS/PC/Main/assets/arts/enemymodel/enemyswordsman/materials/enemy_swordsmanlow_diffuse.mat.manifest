@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2524073893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3aade21a8fcad2da087605f89ff84622
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman/Materials/enemy_swordsmanLow_diffuse.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyswordsman/texture/enemy_swordsman.tga
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

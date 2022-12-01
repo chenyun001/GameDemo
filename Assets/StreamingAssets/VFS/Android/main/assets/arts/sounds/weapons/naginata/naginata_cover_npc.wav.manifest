@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2827325651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999b349886fa91ccd131a6efd0ce3ccc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/naginata/naginata_cover_npc.wav
+Dependencies: []

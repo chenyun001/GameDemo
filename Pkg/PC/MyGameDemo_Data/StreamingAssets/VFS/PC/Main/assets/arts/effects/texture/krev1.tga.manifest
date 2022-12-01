@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1632795162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2e2a44a3044fdca47ff9dc01650b3c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Effects/Texture/krev1.tga
+Dependencies: []

@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 2759424168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed6fbf4e50322b50615da42929f5c1ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f0e0fb4117188c8aacd22559d72de8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c21931b416adf428c0bcdf76ebcab4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f923cf04295d78942b33ba6eb4985f21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f66d3aecf43bf9b45a66e1ec294daedc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6762858771b9c02488946edb13eeb750, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e398246cd9510642aac8b75dfe9ae10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcaa569b86171a649afc59344aa6f293, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a389db0ef81fb2d4899913b14b711607, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346e9218799175843bbeaf48765122c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3b3aee6c56c72c4ba471027bf8c0e19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b0ae5575e7e1b9418669b20f4239a56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fa4ba80ede31a469f931c938328101, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10d3a40a8e004924e9a8e350ffd8134f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36a6fccbc0c2155429b2dbb5d6462417, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/MainMenu.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/comixgui_iphone
+  1.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/easy_button
+  1.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/edge.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/mainmenu_background.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/mainmenu_buttons
+  1.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/tip1.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/tip2.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/image/tip3.psd
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/cmoicspanel.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/mainmenu_background.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/particle
+  system.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/selectbtn.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/small.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/textbtn.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/ui/uicommon/uisoundmanager.prefab

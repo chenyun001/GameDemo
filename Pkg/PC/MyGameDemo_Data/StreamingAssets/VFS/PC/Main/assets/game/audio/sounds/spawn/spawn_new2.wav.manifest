@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 75417349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e06267529b17ed7d2803f06c809fd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/spawn/spawn_new2.wav
+Dependencies: []

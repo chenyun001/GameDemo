@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3778468728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80d54f15655df5b79ecdc25b2135dd89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78b4eb24b215c292a3fbe4dfa013d0e8
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/NewAvatar/Avatar_Sakura_C1_YS_UI - Hair01_q_0_23562 [TCP2 Smoothed].asset
+Dependencies: []

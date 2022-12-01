@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3800668409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e1e95672be6813a952932521d494070
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/level03/ambi_wind2.wav
+Dependencies: []

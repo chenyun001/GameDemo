@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 844612132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ada2831f36bb03f059cd339b89ca254
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/ring04.psd
+Dependencies: []

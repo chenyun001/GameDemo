@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2528972913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6db648a9aeee529767c9b7814397fea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/animations/swordsman_rotate2.wav
+Dependencies: []

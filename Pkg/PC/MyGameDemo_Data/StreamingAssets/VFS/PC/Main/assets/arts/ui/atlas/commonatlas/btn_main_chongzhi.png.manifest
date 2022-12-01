@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2970968100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b889134d31ea08d404c46127a3a4755
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/Btn_Main_ChongZhi.png
+Dependencies: []

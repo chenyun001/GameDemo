@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3010764326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d710f9345a15610c6c697ba109c23eb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8c228aa2053bf394f0c753e94c6dc8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Common/collisions1.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/model/collisions1.fbx

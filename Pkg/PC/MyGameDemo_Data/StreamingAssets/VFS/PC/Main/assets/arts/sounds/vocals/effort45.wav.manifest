@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2067978632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a59c1f4d72362bdfd66d6575bad209b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/vocals/effort45.wav
+Dependencies: []

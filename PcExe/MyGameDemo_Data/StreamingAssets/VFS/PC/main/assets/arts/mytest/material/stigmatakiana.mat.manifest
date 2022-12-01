@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1481987211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eecb015466e5bcde0df7d389224b5ce5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MyTest/Material/StigmataKiana.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/kiana_back.png

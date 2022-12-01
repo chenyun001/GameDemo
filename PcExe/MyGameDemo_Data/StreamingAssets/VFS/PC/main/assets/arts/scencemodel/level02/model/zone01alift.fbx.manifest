@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2332820325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bab0b115ef087a6601adf8f6907712a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 146b03472593bdc13a08969ab791a0ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Model/zone01alift.FBX
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level02/materials/s2_level02.mat

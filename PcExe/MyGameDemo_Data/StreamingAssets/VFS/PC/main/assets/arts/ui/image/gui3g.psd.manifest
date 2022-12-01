@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1943018028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17067678fc762553508e6d830ad2f553
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/gui3G.psd
+Dependencies: []

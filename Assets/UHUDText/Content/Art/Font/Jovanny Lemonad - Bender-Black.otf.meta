@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6984c842da4626640ba719ef2c9ee022
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bender
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 284381e0d4d08074dad63c8bc807fe12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: assets/uhudtext/content/art/font/jovanny lemonad - bender-black.otf
+  assetBundleVariant: 

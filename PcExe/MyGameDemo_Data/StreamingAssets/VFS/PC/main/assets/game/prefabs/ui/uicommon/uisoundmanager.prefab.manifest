@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1806793366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 116920f04244dc72ba9ad36be4692b63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dbdf6ba9fb6756bb85e46cc0b2d2aace
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c21931b416adf428c0bcdf76ebcab4, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UICommon/UISoundManager.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/music/menu_music1.mp3

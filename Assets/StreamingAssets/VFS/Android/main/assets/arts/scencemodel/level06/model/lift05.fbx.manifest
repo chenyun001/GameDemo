@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1358389989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b3e96eb1108aa55a7c0648eb1682d74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5af1fc6bc2a439bfeb4f6243a489e87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Model/lift05.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level06/materials/s2_level06.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level06/materialsex/lift05-13
+  - default.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level06/model/materials/lift05-13
+  - default.mat

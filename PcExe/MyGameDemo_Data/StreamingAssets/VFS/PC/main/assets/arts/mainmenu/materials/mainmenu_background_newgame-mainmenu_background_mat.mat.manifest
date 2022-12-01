@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1136342311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af497ac5f885338a2ab9327f96709bf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background_newgame-mainmenu_background_mat.mat
+Dependencies: []

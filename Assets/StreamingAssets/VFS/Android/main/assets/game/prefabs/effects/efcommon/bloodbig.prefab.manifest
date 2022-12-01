@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3804364528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5952aaecec509d01a68d3f1226de2d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae8c52309304dbced62e9359e7a02dec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Effects/EfCommon/bloodbig.prefab
+Dependencies: []

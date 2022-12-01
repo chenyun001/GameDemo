@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 136111513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cffb9fc227683cdf26a8f0ed46c25733
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Materials/enemy_double_swordsman01_diffuse.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemydoubleswordsman/texture/enemy_doubleswordman01.tga
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

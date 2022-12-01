@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1966674061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06f7df1658e65e919c5ba813b0c095cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 852bbe3cafa32e5309a7b3dc6d266597
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadSwordsmanHHead.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/materials/enemy_swordsman_diffuse.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/model/swordsman01_beheaded.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/spec_death2.wav

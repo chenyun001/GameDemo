@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3965231414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a49ce9652b02764395934fefd6abb760
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec1fc9e30791a0a066dc65a8df6f051c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/spineboy-unity/spineboy_Atlas.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/spineboy-unity/spineboy.atlas.txt
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/spineboy-unity/spineboy_material.mat

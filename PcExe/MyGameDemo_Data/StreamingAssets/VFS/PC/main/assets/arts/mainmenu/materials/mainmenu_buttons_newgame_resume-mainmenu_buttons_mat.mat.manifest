@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2983938177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed64a2f7ce11dbc19a9c12855f7b3f96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_buttons_newgame_resume-mainmenu_buttons_mat.mat
+Dependencies: []

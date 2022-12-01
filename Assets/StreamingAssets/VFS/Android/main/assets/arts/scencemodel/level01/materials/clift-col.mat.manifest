@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4218577846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd97947b8d676de7bd93a2641e82f346
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level01/Materials/clift-col.mat
+Dependencies: []

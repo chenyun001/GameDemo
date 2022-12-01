@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1574216076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aefe8c527397ef43f211bb2035acd2a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/Btn_Main_JinJie.png
+Dependencies: []

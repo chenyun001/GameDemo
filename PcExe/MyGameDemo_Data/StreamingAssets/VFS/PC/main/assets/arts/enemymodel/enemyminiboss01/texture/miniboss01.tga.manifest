@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4098722654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 021161f0a7f1220c3ae2797ddf90cff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyMiniBoss01/Texture/miniboss01.tga
+Dependencies: []

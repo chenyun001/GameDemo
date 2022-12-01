@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1030064287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18de2bc0fb2d9aa931f49a2b83d56091
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Materials/stuha-s2_level02.mat
+Dependencies: []

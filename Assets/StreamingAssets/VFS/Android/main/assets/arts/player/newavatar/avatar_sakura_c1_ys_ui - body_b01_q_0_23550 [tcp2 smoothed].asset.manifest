@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 582990839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5e8a4a900f352f9d7fec389d93dfc8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78b4eb24b215c292a3fbe4dfa013d0e8
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/NewAvatar/Avatar_Sakura_C1_YS_UI - body_B01_q_0_23550 [TCP2
+  Smoothed].asset
+Dependencies: []

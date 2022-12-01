@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1853779009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aece57e9576beb72d85869d1ac1f88a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Animations/acam01.anim
+Dependencies: []

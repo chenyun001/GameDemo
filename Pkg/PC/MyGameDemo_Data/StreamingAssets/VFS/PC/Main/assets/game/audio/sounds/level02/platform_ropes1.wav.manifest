@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 971879686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd5d279be7adc2d83ca7405662f5d95e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level02/platform_ropes1.wav
+Dependencies: []

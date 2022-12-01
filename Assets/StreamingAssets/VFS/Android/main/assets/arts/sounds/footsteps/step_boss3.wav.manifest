@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2788297406
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efd3e331217dea22ade899d684c93c1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/footsteps/step_boss3.wav
+Dependencies: []

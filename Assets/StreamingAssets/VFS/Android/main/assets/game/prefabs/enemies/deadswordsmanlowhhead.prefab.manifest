@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1261562559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a97f6e7f13632e0c332f61730dabd596
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78652de6bf0a64a2de20c5359c02daef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 185eaee78217f4e348a7d26b53f9a03f, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadSwordsmanLowHHead.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/materials/enemy_swordsmanlow_diffuse.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/materials/enemy_swordsmanlow_transparent.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/model/swordsman01_beheaded.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/spec_death2.wav

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3189434058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 735fa4adacbdf33a6e87156440ad6d78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman/Materials/enemy_swordsman_diffuse.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman/texture/enemy_swordsman02.tga
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

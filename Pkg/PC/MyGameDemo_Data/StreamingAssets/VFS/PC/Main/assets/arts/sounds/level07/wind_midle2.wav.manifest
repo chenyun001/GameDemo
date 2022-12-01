@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 358143890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6904ed7283b9a531dc5f7277e8be1f38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/level07/wind_midle2.wav
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2652133583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c511ac66e29c82e1d74ff9e99d686ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 216e50a5e612a62768be693e88895378
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise01/bedna.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/materials/s2_level01.mat

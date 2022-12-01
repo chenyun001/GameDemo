@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1665124108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25572f63d417b0c1853736b3122fd0ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_buttons_gamecenter.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/texture/mainmenu_buttons.tga
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2338463548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5a2a80c775f86692235ebeb670e3594
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Lua/UI/LoginScreen.txt
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2316056374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fee8c68fd6471cb1f14d01bfbfd8be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de03147e0308033cedb69d0e35b9b90e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyDoubleSwordsman.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemydoubleswordsman/materials/enemy_double_swordsman01_diffuse.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemydoubleswordsman/model/enemy_double_swordsman01.fbx

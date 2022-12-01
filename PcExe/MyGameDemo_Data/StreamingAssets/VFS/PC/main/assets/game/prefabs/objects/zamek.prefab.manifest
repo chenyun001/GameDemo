@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1572568907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9414bc7300f1bdf3418db6add0e56c06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 828c7bc893dcc45f6a035c2da3f54c7f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/objects/zamek.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/objects/materials/objekty.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/objects/model/zamek.fbx

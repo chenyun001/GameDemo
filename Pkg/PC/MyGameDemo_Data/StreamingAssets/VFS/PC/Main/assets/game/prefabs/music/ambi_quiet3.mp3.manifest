@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2360020428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15dacebd3e8cfd1f15c89645bf7e2b19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Music/ambi_quiet3.mp3
+Dependencies: []

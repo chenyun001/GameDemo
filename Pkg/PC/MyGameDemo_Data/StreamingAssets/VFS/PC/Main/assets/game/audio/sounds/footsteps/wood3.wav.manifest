@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2989789442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b765b8cb33b25c4b5cfe9dc4a58af80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/footsteps/wood3.wav
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2611267439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab3efc57811715c03717ef3767e5214d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Effects/cink.prefab
+Dependencies: []

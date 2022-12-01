@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1786291999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df1540188ae3aac6726d8adc32d78bf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Stretchyman/stretchyman-diffuse-pma.png
+Dependencies: []

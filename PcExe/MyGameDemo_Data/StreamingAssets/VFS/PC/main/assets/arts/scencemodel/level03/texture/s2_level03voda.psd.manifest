@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3337368496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7c719a0987b9d5834c2217e3929c1c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level03/Texture/s2_level03voda.psd
+Dependencies: []

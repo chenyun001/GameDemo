@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1848795029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61aa01264129d284e7c1075e4fb14853
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/footsteps/soft12.wav
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1701699043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 573d3453918b3814e5d332ff6c50127f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_buttons_leaderboard-08 - default.mat
+Dependencies: []

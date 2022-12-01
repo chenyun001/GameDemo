@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2234326210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfd3733e646ba190c48dc79f4fc62b8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Model/dopadnuti02.prefab
+Dependencies: []

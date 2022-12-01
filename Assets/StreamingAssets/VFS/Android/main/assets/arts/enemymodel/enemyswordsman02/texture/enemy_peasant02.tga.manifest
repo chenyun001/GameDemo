@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1120984772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d938bf95e30129736f0f3c76ecc3407
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman02/Texture/enemy_peasant02.tga
+Dependencies: []

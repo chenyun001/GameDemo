@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1570569122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21e8eb9ae76fec8fb9416c92cd79fbd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f346da6bd9565532f772b33f5c25a646
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ef68705df9111449a809d37b666b38e, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/mise01/jehly.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/materials/s2_level01.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/level01/close_stop1.wav

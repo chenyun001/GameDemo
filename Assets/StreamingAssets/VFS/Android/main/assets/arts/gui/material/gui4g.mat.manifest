@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4134630738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be3fc95f95d35e25e090cc40f844f63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Gui/Material/Gui4G.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/gui/texture/guihd.psd

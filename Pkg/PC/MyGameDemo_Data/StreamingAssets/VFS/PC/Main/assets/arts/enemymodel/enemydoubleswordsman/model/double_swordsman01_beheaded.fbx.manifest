@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3336399208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26af12fa77099fad070bee373629d69e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Model/double_swordsman01_Beheaded.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemydoubleswordsman/model/materials/double_swordsman01_beheaded-enemy_double_swordsman01_mat.mat

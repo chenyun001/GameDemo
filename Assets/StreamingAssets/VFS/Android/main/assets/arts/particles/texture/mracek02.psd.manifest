@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 417115927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ede9c5b2ecb6b6d53e7275b9ab7549f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/mracek02.psd
+Dependencies: []

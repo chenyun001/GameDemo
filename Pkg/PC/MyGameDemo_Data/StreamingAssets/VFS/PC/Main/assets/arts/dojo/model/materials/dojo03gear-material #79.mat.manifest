@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 627017791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2e34e4a5936fdca4ef45464286c7eee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- 'Assets/Arts/dojo/Model/Materials/dojo03gear-Material #79.mat'
+Dependencies: []

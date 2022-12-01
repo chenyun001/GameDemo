@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1051932449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c97a87f7cd1da4769c8d1a07cf8d6bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/c_ostnatybrany-13 - default.mat
+Dependencies: []

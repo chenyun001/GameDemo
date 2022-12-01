@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2322226947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 896ea0f832a3bd7c57f4a6309f5fba48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c796ccd5a6f6db9319018e3416879200
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Background_AandL.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/mainmenu/materials/menu_achiev.mat

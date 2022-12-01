@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 620386916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd4f7c4452ef88d73e90ec296c029818
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 852bbe3cafa32e5309a7b3dc6d266597
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadSwordsmanLowVFront.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/materials/enemy_swordsmanlow_transparent.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/enemymodel/enemyswordsman/model/swordsman01_slicefrontback.fbx
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/animations/spec_death4.wav

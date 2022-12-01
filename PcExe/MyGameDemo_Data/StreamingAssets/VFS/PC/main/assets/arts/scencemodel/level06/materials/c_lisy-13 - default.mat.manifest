@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2820968762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14fa41526d9099824809c4fb5e9eba9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/c_lisy-13 - default.mat
+Dependencies: []

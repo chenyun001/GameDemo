@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 605488855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04e102fa59f6b8c45a69338b71e03454
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Materials/zone01adoor-s2_level02.mat
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 930076490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9884cd0067b783dbdd0329c8f47b74df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/Avatar_Yae_sakura_C1_Texture_Body_LightMap.png
+Dependencies: []

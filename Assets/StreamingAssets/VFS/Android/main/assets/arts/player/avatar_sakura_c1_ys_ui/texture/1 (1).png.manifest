@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1685309851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebbd7ce29c6dcf79b618a778a1ba74d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/1 (1).png
+Dependencies: []

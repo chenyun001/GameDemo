@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 670103828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea937ce0ed7651ade5bef87457b57d4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af706a7ddd65e8619153f88524f544bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12319b782caebc0408ebcfe3e3e36a9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb4ad15ab948e94a91066b735dc2b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f36ec6e542e2ede4485a5a66d2ea7c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1596bdb171d76e8418f3029d375284b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 154255959c5223d4f9d5812513b272db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a1c84ddce91117469a15ecbf0b8a909, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a67faa3698bca5947a0c4f9bf6d2110d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23381e5fc8d3dc04bb659a54828b7a56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cdb00442f9514f4fb8a3aaac1bd8fd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f9167fd4fea6f042a80e6dd105d2a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4af25682023dff14a81dfba5d0926dfe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/Test/Test.unity
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/collisions1.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/gamezero.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/common/grafika01.prefab
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/prefabs/roles/player.prefab

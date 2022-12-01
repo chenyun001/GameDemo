@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1843107807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3552952ec0d6320f238dbdcd011fd60f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Texture/list01.psd
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3826243664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a513cb592f3a40eb04c4ea44ea2f89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Tutorial/Material/ipad01.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/tutorial/texture/ipad01.psd

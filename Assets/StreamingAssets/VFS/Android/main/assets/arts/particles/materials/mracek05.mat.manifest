@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 889812938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7875028915f92ad79affd2320e7e90b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/mracek05.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/particles/texture/mracek05.psd

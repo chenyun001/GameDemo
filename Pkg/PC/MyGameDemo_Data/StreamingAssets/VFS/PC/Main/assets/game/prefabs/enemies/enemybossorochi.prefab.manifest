@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3310841408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85dc379514a58e33c67639c16d384a1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84fa72b544f4921dfd600ccddbebd22b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e5cd06dbbbc4404dbb42ff30933f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa460c7d0ae29470d9253fd50fa1f6f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63430b1f038bb47ca96278de5eac3742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccbf5c12d20aa4507a691d937b22db12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cc93351445d345779a9883ab85e39ca, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyBossOrochi.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemybossorochi/materials/boss_orochi_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemybossorochi/model/boss_orochi.fbx

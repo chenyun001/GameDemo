@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3825663680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c8f2912e3e74d18de8f7fce0cadacd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MyTest/Material/Avatar_Sakura_C1_Material_Face_Test.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_face_color.png
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_face_lightmap.png
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

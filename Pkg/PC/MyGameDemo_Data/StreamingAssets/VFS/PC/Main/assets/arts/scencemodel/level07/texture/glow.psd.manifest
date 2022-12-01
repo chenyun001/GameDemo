@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2900316223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02c60bc5be50236fffde26b6c287a7c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Texture/glow.psd
+Dependencies: []

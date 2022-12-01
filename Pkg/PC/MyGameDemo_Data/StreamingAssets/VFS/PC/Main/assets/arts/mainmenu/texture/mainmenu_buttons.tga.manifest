@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1156782822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2cf33be0bd1e2d2bb19c336fcc2b9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Texture/MainMenu_Buttons.tga
+Dependencies: []

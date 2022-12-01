@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 275370427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b4dfd6a0376bd1fa3a5c42fc1d9ac3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e79d4d574f0c8288a580d94b8e3ad7d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b3aac2d4a5785646a7017a61061524b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f71c3e2735b7d764dacf7d8a60d0d40e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f45085564bd186f4784d3f0c141a741f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93ce46ab89c7d7846bae700f7ee7238c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46c33e726e78794409e49bb6dbcc6539, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/UI/UIPanelPrefabs/MainPanel.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/ui/atlas/mainview/guihd.psd

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2490607462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ff749ef5c1ffdf5858795a95bd75e51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/Katana/miss/miss1.wav
+Dependencies: []

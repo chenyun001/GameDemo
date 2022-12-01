@@ -1,0 +1,27 @@
+--[[
+loading界面
+]]
+local _LoadLevelAsync = CS.MyGame.ResourceManager.LoadLevelAsync
+local progerss =  0
+local ui_loading = {ui_path="Assets/Game/Prefabs/UI/UICommon/LoadingScreen.prefab",ui_name="LoadingScreen"}
+--progerss
+function  Awake()
+
+end
+
+function Start()
+	progerss =  0
+end
+
+function Update()
+	progerss = progerss + 0.005
+	progerssEx:UpdateProgress(progerss) 
+	if  SceneMgr.UpdateProgerss() >= 1 and progerss >= 1 then
+		SceneMgr.CloseLoading()
+		return
+	end
+end
+
+function Ondestroy()
+
+end

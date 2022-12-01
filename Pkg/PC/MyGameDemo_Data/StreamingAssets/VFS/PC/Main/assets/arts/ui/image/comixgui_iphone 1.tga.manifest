@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 682002451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95286c72ae0d7f36f5b4c1abc4b37bcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Image/ComixGui_iPhone 1.tga
+Dependencies: []

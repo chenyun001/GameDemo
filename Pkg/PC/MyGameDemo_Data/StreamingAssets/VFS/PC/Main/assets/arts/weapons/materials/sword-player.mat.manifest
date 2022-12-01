@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 895640012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a275d6806ff0cf32247cb633fea219be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Weapons/Materials/sword-player.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/hero/texture/player.tga
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

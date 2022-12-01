@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1294046028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f38b5794d27a11da645f97336ed5f934
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 81e1a89158ceb82ffd86e0a5bb107e7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttons_Dojo.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/materials/mainmenu_buttons_dojo-mainmenu_buttons_mat.mat

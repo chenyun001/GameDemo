@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2475755867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e60c39d9050644b3d9623ffd7172ea1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f29a9a67939eaa02d3c5c885a525c93
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e3e95a05e4c9774397eeeb7bdee8ccb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/spineboy-unity/ReferenceAssets/frozen.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/spineboy-unity/spineboy-unity_skeletondata.asset

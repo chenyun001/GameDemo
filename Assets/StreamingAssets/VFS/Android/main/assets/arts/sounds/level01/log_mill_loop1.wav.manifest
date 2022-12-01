@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 185285427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5efc88508f3ef3f168f7c2ee2f97dcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level01/log_mill_loop1.wav
+Dependencies: []

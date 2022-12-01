@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2859265389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c01c781c9e999786327559b7e0e44136
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/c04.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level07/model/materials/c04-no
+  name.mat

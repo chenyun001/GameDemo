@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3172209951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90101103057d2a072874c83952e1de08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/objects/p_interaction.prefab
+Dependencies: []

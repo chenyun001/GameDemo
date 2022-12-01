@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1702568971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95521a256585f6d5da26e8c948091552
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level01/Animations/acamtocna.anim
+Dependencies: []

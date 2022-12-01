@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2930722651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f5490b96a62c39677a7f0081c71773b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Trails/Animations/Anim_Dust.anim
+Dependencies: []

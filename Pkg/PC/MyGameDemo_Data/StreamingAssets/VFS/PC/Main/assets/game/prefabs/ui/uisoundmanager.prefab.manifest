@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1044234681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 420a1b9f9d3f247a3d2d9bb95e866d7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bf2dd276dd5fe35501f0f8e5cab6678
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14c21931b416adf428c0bcdf76ebcab4, type: 3}
+Assets:
+- Assets/Game/Prefabs/UI/UISoundManager.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/mainmenu/perc1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/mainmenu/perc5.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/mainmenu_in1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/mainmenu_out1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/menu_logo_in1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/menu_logo_out1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/submenu_in1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/menu/submenu_out1.wav
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/game/prefabs/music/menu_music1.mp3

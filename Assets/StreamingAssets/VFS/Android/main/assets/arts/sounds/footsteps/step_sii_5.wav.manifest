@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1491543333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ad743f2e925ac5630e0207b7b200a34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/footsteps/step_sii_5.wav
+Dependencies: []

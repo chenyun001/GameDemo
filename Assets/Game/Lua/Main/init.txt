@@ -1,0 +1,20 @@
+
+print("Hell World Xlua")
+function  __G__TRACKBACK__(msg)
+	if msg == nil then
+		return
+	end
+	msg = tostring(msg)
+	local  stack = debug.traceback()
+	CS.UnityEngine.Debug.LogError(msg.."\n"..stack)
+end
+gm = {}
+gm.Utils = {}
+require("Utils.StringUtil")
+require("Utils.class")
+gm.Utils.Timer = require("Utils.Timer")
+local _TimerManager = require("Manager.TimerManager")
+gm.Utils.TimerManager = _TimerManager.New() 
+require("Manager.UIManager")
+require("Manager.SceneMgr")
+require("Manager.GameManager")

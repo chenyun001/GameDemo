@@ -1,0 +1,91 @@
+--[[
+UI管理类
+]]
+UIManager = {}
+local m_ZMap = {}
+local m_UIRoot = nil
+local m_UIRootTransform  = nil
+local MAX_Z_PER_SCREEN = 20
+local _GOFind = CS.UnityEngine.GameObject.Find
+local _DestroyImmediate = CS.UnityEngine.GameObject.DestroyImmediate
+local _RemoveChildFormParent = CS.TransformUtils.RemoveChildFormParent
+local type_GameObject = typeof(CS.UnityEngine.GameObject)
+local type_Canvans = typeof(CS.UnityEngine.Canvas)
+local _SyncLoadAsset  = CS.MyGame.ResourceManager.LoadAssetAsync
+local _Instantiate = CS.UnityEngine.GameObject.Instantiate
+local type_SortingGroup = typeof(CS.UnityEngine.Rendering.SortingGroup)
+local type_LuaBehaviour = typeof(CS.LuaBehaviour)
+
+local function _GetTopZorder()
+	local layerZ = 0
+	if m_ZMap["order"] == nil then
+		m_ZMap["order"] = 100
+		layerZ = 100
+	else
+		layerZ = m_ZMap["order"] + MAX_Z_PER_SCREEN
+		m_ZMap["order"] = layerZ
+	end
+	return layerZ
+end
+
+UIManager.GotoZorder = function (obj)
+	local canvas = obj:GetComponent(type_Canvans)
+	local LuaBehaviour = obj:GetComponent(type_LuaBehaviour)
+	local layerZ = LuaBehaviour.scriptEnv.layerZ
+	canvas.sortingOrder = layerZ
+	local canvases = obj.gameObject:GetComponentsInChildren(type_Canvans)
+	for i,v in ipairs(canvases) do
+		if v.overrideSorting == true then
+			if v.sortingOrder < layerZ then
+				v.sortingOrder = v.sortingOrder + layerZ
+			end
+		end
+	end 
+	local grops = obj.gameObject:GetComponentsInChildren(type_SortingGroup)
+	for i,v in ipairs(grops) do
+		if v.sortingOrder < layerZ then
+			v.sortingOrder = v.sortingOrder + layerZ
+		end
+	end
+end
+
+
+UIManager.OpenUI = function (path,data)
+	if m_UIRoot == nil  then
+		m_UIRoot = _GOFind("NormalUIRoot")
+		m_UIRootTransform = m_UIRoot.transform
+	end
+	local function _CallBack(obj)
+		local perfab = obj
+		if perfab ~= nil then
+			local go  = _Instantiate(perfab,m_UIRootTransform)
+			local LuaBehaviour = go.transform:GetComponent(type_LuaBehaviour)
+			go.transform.name = data.ui_name
+			if data ~= nil then
+				if data.callBack ~= nil then
+					data.callBack()
+				end
+			end
+			if LuaBehaviour ~= nil then
+				if LuaBehaviour.scriptEnv ~= nil then
+					if data.layerZ  then
+						LuaBehaviour.scriptEnv.layerZ = data.layerZ 
+						UIManager.GotoZorder(go)
+					else
+						LuaBehaviour.scriptEnv.layerZ = _GetTopZorder()
+						UIManager.GotoZorder(go)
+					end
+				end 
+			else
+				-- todo
+			end
+		end
+	end
+	_SyncLoadAsset(path,type_GameObject,_CallBack)
+end
+
+UIManager.CloseUI = function (UiName)
+	local  obj = _GOFind(UiName)
+	_DestroyImmediate(obj)
+end
+

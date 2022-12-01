@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3063952796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd0e295d1ff56c74349f93aa3d2606e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Materials/dojo03wing-material #79.mat
+Dependencies: []

@@ -1,0 +1,40 @@
+GameManager = {}
+GameManager.Player = nil
+local RoleRoot = nil
+local RoleRootTransForm  = nil
+local _GOFind = CS.UnityEngine.GameObject.Find
+local _SyncLoadAsset  		= CS.MyGame.ResourceManager.LoadAssetAsync
+local _Instantiate 			= CS.UnityEngine.GameObject.Instantiate
+local type_GameObject 		= typeof(CS.UnityEngine.GameObject)
+local type_componentPlayer 	= CS.ComponentPlayer
+local _Vector3  			= CS.UnityEnging.Vector3
+
+GameManager.SetPlayer = function (player)
+	GameManager.Player = player
+end
+
+GameManager.LoadRole = function ()
+	RoleRoot = _GOFind("RoleRoot")
+	RoleRootTransForm = RoleRoot.transform
+	local path = "Assets/Game/Prefabs/Roles/Player.prefab"
+	local function _CallBack(obj)
+		local perfab = obj
+		if perfab ~= nil then
+			local go  = _Instantiate(perfab,RoleRootTransForm)
+			go.name = "Player"
+			--go.transform.localPosition = _Vector3(-0.36,-0.7,-13.3)
+			local  componentPlayer = go:GetComponent("ComponentPlayer")
+			GameManager.SetPlayer(componentPlayer)
+			GameManager.Player:SetEasyTouch()
+		end
+	end
+	_SyncLoadAsset(path,type_GameObject,_CallBack)
+end
+
+GameManager.Getplayer = function ()
+	return GameManager.player
+end
+
+GameManager.GetCombatEffectsManager= function ()
+	return GameManager.CombatEffectsManager
+end

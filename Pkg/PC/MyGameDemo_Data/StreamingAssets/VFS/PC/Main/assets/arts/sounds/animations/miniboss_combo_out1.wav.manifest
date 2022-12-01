@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 164353732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b08c0006569d4914c451cfe7342d5364
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/animations/miniboss_combo_out1.wav
+Dependencies: []

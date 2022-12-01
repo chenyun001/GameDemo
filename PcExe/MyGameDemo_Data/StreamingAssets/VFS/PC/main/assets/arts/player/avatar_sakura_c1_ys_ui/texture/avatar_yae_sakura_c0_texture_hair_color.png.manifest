@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2009038208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a95ca99980f369e0b279eff0554e4dbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/Avatar_Yae_sakura_C0_Texture_Hair_Color.png
+Dependencies: []

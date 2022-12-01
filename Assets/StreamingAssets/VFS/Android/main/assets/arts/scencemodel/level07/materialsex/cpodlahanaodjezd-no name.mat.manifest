@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2159634622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fdbe3a42fa7639930bfccab2363e60f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/MaterialsEx/cpodlahanaodjezd-No Name.mat
+Dependencies: []

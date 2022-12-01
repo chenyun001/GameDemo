@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1172366192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd322ff1b2a6b5d5421da715d5a82b21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Model/Materials/c02-No Name.mat
+Dependencies: []

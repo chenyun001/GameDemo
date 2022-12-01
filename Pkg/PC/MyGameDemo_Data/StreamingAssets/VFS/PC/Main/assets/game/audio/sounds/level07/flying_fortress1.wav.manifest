@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2307400997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c63fb9ea0b43ea7de9ef619c20fe751b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level07/flying_fortress1.wav
+Dependencies: []

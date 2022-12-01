@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3802905153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d34a75d98a1d8b61816a69777f8fefb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/animations/miniboss_roar2.wav
+Dependencies: []

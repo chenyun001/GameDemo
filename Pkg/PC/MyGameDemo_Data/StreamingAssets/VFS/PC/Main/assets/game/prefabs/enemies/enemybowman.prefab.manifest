@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3741764076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ecbf8a9b4a62286ad80d72d4e1f628c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b9e329a661b3a868f907c6bd7bc8921
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e5cd06dbbbc4404dbb42ff30933f74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa460c7d0ae29470d9253fd50fa1f6f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63430b1f038bb47ca96278de5eac3742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccbf5c12d20aa4507a691d937b22db12, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Enemies/EnemyBowman.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyarcher/materials/enemy_archer01_diffuse.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/enemymodel/enemyarcher/model/enemy_archer01.fbx

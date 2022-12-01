@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1224939852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc268033807ff7b6ac4b21cded429692
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Raggedy Spineboy/raggedy spineboy.json
+Dependencies: []

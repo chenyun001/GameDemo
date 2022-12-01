@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1337203738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf33d1bbba10489f546f7908bd2d364c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/mrak01.psd
+Dependencies: []

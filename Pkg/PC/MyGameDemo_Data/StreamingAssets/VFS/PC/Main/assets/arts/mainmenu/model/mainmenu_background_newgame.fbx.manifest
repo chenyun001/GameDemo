@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2027423174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f18c4fdcc479902bbac5c07c0072ded1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Background_NewGame.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/materials/mainmenu_background_newgame-mainmenu_background_mat.mat

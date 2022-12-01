@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 774140766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a64a26dfff4f157a5ff3cd9d4493f8d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/animations/miniboss_fall1.wav
+Dependencies: []

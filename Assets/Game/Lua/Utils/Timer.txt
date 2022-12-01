@@ -1,0 +1,84 @@
+local Timer = gm.Utils.class("Timer")
+local Time = CS.UnityEngine.Time
+function Timer:ctor(delay, func, obj)
+    -- 成员变量
+	-- weak表，保证定时器不影响目标对象的回收
+    self.target = setmetatable({}, {__mode = "v"})
+    if delay and func then
+		self:Init(delay, func, obj)
+	end
+end
+
+function Timer:Init(delay,func,obj)
+    assert(type(delay) == "number" and delay >= 0)
+	assert(func ~= nil)
+   -- 延时，秒或者帧
+	self.delay = delay
+	-- 回调函数
+	self.target.func = func
+	-- 回传对象，一般作为回调函数第一个self参数
+	self.target.obj = obj
+    -- 是否已经启用
+	self.started = false
+    -- 倒计时
+	self.left = delay
+    -- 是否已经结束
+	self.over = false
+end
+
+function Timer:Start()
+    if self.over then
+        -- todo
+    end
+    if not self.started  then
+        self.left = self.delay
+        self.started = true
+    end 
+end
+
+function Timer:Update()
+    if not self.started or self.over then
+        return
+    end
+    local timeup = false
+    local delta = Time.deltaTime
+    self.left = self.left - delta
+    timeup = (self.left<= 0)
+    if timeup then
+        if self.target.func then
+            self.target.func()
+            --self.over = true
+        else
+            --self.over = true
+        end 
+    end
+end
+
+function Timer:Pause()
+    self.started = false 
+end
+
+function Timer:Resume()
+    self.started = true 
+end
+
+
+function Timer:Stop()
+    self.left = 0
+    self.target.func = nil
+    self.target.obj = nil
+    self.started = false
+    self.over = true
+end
+
+function Timer:GetOver()
+    if self.over then
+       return true
+    end
+
+    if self.target.func == nil then
+        return true
+    end
+end
+
+return Timer

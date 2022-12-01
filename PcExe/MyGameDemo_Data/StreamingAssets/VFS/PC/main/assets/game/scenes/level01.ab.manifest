@@ -1,0 +1,177 @@
+ManifestFileVersion: 0
+CRC: 4082208490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e2543b807bb390c555a25684eba00b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cbf79a333f96ff64301fafe9f2c9057d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb81805dbf15c364d9f5f1cb33659bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92214b65f32e15c44862391659fabfd6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4a17c6f69d5dab46be223e964ac812e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dede1d600058dc4478fc15313addc93a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ef6496c460be947a62d424209577e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f093a4b3f370d634398a6fd7facccf7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 472fdafd920bfb64ebec62fa2457317e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be866c819b16409bbd65d947cd3d727, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8c15f5038a208640bd722c7bdd87afd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7414f6c847603ee43b185f737064b157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa63ead223139461d880d6d768a96502, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb4ad15ab948e94a91066b735dc2b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b638a6ca9e671ff4f9665561aa809e34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6409acf08f4425a85d874a25b25f85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1923b65cfa33bec4bb4ffc3d3cd8bcbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e939351d5b6a19f42905522efe6ffe94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b928fa8cb592040c18e96ce12e63a6a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa8bde1a240b347798e2cda2789deaa6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7745edefefb15144ab37ce76f9c5cee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03512bd4df60b0449b716055310f162a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f2356d630cfaf54e89a1b3feede9a77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a1c84ddce91117469a15ecbf0b8a909, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a67faa3698bca5947a0c4f9bf6d2110d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23381e5fc8d3dc04bb659a54828b7a56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ef9d2ae44804f9bbbc7faee65480aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db9ceca5cdbfe4626becc9b85a33d73f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cdb00442f9514f4fb8a3aaac1bd8fd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6008c808ce34e19498cbee6d08e98310, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/Level01.unity
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/objects/model/sud.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/materials/knockdown.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/blood.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/bloodbig.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/breakblock.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/clack.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/critical.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/horeni_lava.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/horeni_male.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/mraky.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/model/plamen.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/animations/acamlift.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/materials/s2_level01.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/materials/s2_level01key.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/clift.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/collisions1.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/ctocna.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/domek.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/kolo.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/rudekolo.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/vrata.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone01.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone01a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone01lift.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone02.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone02a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone03.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone03a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone04.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone04a.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone04atocna.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level01/model/zone05.fbx
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/textures/strom_tail.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/common/ingamecamera.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/common/spawnplayer.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/deadpeasantlowvside.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/deadpeasantvside.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/deadswordsmanlowvside.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/enemypeasanteasy.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/enemypeasantex.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/enemies/enemyswordsmaneasy.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise01/vetrnik.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/mise02/prehrada.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/p_interaction.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/sud.prefab
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/game/prefabs/objects/zamek.prefab

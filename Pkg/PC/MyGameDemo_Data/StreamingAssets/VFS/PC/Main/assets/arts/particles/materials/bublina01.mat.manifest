@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3644634605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d06d181313b3ecbd243cc4b77ad91111
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Materials/bublina01.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/particles/texture/bublina02.psd

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1997092365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 058dc5835186e690ed927b73a9367e7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background_legalnotice-mainmenu_buttons_mat.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

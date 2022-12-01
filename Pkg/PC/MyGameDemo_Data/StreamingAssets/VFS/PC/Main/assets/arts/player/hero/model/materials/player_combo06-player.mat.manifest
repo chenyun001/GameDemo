@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1696859225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6f54bedf94f498019f8bf46e392e030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Hero/Model/Materials/player_combo06-player.mat
+Dependencies: []

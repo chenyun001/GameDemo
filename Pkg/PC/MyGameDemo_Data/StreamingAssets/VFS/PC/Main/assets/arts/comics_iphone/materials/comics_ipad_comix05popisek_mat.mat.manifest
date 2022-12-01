@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4070195456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b135f0d8f6139ab4d89d16d5168778a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Materials/comics_ipad_comix05popisek_mat.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

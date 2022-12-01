@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 266643332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a43e5ba0daae60bd7eb7d69b492b28f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Eyes/eyes.png
+Dependencies: []

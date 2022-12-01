@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2900847102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebbf2c58f66c3ada9b1d4f6384927e46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Animations/canimdam.anim
+Dependencies: []

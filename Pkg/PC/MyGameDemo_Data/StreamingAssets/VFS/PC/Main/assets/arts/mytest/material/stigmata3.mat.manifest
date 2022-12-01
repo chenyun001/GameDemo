@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2088362925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 211622cc5510d5cb1922791618e7ac7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MyTest/Material/Stigmata3.mat
+Dependencies: []

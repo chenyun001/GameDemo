@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 527982027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa6cfb118f37f87d38a92e8412907201
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 259f153f5cd7aaae0a8b3f80ec5cc58a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Trails/Model/player_trails.FBX
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2282249675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a461c2efc3bd90d2b4c0cc86934134cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c796ccd5a6f6db9319018e3416879200
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Comics_iPhone/ModelEx/Comics_iPhone_ButtonGame.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/comics_iphone/materialsex/comics_iphone_buttongame-comixgui_iphone.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/comics_iphone/modelex/materials/comics_iphone_buttongame-comixgui_iphone.mat

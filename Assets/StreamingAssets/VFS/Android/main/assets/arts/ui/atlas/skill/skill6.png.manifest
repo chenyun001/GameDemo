@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3148307157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d011a4c314341039adfc52df700e6ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Atlas/Skill/Skill6.png
+Dependencies: []

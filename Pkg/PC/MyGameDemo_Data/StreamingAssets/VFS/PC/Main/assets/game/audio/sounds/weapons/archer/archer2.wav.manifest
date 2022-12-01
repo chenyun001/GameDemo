@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1047129446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aacbb1f9eb6c747cbcc7790dad906023
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/weapons/archer/archer2.wav
+Dependencies: []

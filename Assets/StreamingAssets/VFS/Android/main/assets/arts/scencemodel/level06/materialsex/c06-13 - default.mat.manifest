@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 379288226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dce3e3137b263b7520eb5d7b3580539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/MaterialsEx/c06-13 - Default.mat
+Dependencies: []

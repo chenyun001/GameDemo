@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1405900822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55e7d3fbc5197486a3a553e6134e7ac6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Effects/Materials/Blood Shadow Sprites.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/effects/texture/krev1.tga
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

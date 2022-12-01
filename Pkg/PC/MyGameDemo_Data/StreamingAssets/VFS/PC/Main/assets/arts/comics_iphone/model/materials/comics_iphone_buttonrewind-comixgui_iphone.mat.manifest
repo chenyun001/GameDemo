@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1853368377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b76e0f60c3635cb0d283c62dd0495218
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Materials/Comics_iPhone_ButtonRewind-ComixGui_iPhone.mat
+Dependencies: []

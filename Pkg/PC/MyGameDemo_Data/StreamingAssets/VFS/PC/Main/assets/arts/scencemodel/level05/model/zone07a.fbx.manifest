@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 801469100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b8d3007eb887240f4ad451e355cac8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level05/Model/zone07a.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level05/materials/s2_level05.mat

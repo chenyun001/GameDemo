@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3462519896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 943650aaba2563287da4c271add14e93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/FootSoldier/FS_White.atlas.txt
+Dependencies: []

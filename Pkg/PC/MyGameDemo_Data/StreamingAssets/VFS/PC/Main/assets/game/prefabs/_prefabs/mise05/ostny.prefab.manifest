@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 829774539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 718b3814c071c31cb637c78e9f8da5c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3bb7e5f07d7baf1d09d0b5790f93891
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise05/ostny.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level05/materials/s2_level05.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level05/model/ostny.fbx

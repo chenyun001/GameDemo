@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3532492957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39c67b78b3c7a30fbb96a9fc66839f4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e14a23e5dab7ba807caff9b217a11d11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4609f8cee395d70428910ac76660f029, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Game/Prefabs/UI/Role/ProgerssItem.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/ui/atlas/mainview/guihd.psd

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3777472219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 569a29de7cb7bfbddfe2fd6d194ddf84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Texture/menu_achiev.tga
+Dependencies: []

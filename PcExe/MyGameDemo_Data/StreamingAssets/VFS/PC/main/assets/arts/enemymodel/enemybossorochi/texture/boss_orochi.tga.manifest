@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2718216805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a0e655c82200f2e66dabe10f6bb874d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/enemyBossOrochi/Texture/boss_orochi.tga
+Dependencies: []

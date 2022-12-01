@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1887780420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd4daaeb4f8902d3a20528919afc6206
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/spawn/laugh2.wav
+Dependencies: []

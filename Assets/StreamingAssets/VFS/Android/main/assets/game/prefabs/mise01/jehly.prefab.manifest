@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 768742596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9a161fb3792e93aaa6cdecf8ba488dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce25642737107bc90eb509526d783b8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ef68705df9111449a809d37b666b38e, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise01/jehly.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/materials/s2_level01.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/sounds/level01/close_stop1.wav

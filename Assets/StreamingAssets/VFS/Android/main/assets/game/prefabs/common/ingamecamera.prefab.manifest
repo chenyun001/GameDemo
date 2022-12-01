@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2486106581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d770afd726f2a5de1ed6f535b2acaf08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a54887afbcad6e165dbf432caaaf6553
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7beb7e2b33f164cc6a9aaa48b7e4249d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ca22c884ee846e9b881d8fed04ab0c, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Common/InGameCamera.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo1.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo2.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/animactions/cameraanims/shakecombo3.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/animations/acamlift.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/animations/acamtocna.anim
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level01/animations/acamvrata1.anim

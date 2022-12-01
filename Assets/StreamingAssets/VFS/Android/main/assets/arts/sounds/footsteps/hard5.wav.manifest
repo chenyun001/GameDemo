@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1697316110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88283a9e5f0f4eb98498d01db17d019c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/footsteps/hard5.wav
+Dependencies: []

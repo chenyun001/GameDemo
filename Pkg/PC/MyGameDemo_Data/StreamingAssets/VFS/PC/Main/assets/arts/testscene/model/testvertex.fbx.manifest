@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 503633790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a0f6b85476aa89f1e6a7d989160d20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/testScene/Model/testvertex.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/testscene/model/materials/testvertex-s2_level02.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/testscene/model/materials/testvertex-strom02.mat

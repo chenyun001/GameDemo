@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2063457137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88f2fd95500ed0850875863ce010da0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c796ccd5a6f6db9319018e3416879200
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise07/podlaha.prefab
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/materials/s2_level07.mat
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level07/model/podlaha.fbx

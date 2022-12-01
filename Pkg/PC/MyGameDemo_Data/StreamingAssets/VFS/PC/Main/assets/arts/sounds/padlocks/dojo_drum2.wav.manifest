@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 432524570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dfa01788792d9f24afd1679fcb728fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/padlocks/dojo_drum2.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3362531307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40b0bf37179fe09bf2d76ef422e2325b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/level07/rope_big_loop1.wav
+Dependencies: []

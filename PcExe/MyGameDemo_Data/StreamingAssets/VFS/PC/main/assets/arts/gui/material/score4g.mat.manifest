@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2083797176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47c05558b4f2b208cab129de4f950c1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Gui/Material/Score4G.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/gui/texture/sum4g.psd

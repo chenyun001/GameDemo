@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3961611036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a64a4f8f8e111aaf1fc6f557d6a341a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5313e74b27831a776e759ad9c6c2120
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Enemies/DeadPeasantHLegs.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman02/materials/enemy_swordsman02_diffuse.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemyswordsman02/model/peasant01_legs.fbx

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2521821070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcb0719793f340ace3dba6dc3b760bcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/Katana/hit_player/hit_p4.wav
+Dependencies: []

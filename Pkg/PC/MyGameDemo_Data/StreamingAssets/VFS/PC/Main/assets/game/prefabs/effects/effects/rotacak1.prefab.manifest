@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1514266519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b59481250dcc8713e0af1af39380a39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Effects/Effects/rotacak1.prefab
+Dependencies: []

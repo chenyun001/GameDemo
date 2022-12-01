@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4123147870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb4147c7a0f8672dc061e89bde531d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Materials/michacka-08 - default.mat
+Dependencies: []

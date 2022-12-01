@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1809069407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc66971ec7f73a763c060f774de09006
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/krev03.mat
+Dependencies: []

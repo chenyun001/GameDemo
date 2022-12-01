@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3333238509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86e36b8003b480d0fec44f44b66dd3c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level07/Materials/cpodlaha-no name.mat
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 548379790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54225f15a4ce21cbf85ec8d2c41140a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/MaterialsEx/cpaka2-No Name.mat
+Dependencies: []

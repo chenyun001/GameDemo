@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1421764962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26fcf7dc3ce5c2f0b21c699008739b8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/particles/Texture/hvezda01.psd
+Dependencies: []

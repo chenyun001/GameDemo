@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 333624294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e42090dcc03f5364ab676e97864a80b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d2677632bceba2edf490bae17909300
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise02/prehrada.prefab
+Dependencies: []

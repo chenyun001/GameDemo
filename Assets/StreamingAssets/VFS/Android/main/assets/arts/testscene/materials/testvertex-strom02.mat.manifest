@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3712049177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc134759bfbcd63dce935faa5f89615f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 940b1b260c757af7ca49fdfd446b944b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/testScene/Materials/testvertex-strom02.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/testscene/texture/strom01.tga

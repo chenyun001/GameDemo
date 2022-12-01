@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2592753749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4006cc2a5358c1211cc71fade33fa0b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a124a79f3cd96c32e82437ed953faa0
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Scenes/SampleSceneSettings.lighting
+Dependencies: []

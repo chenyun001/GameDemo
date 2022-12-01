@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 476101042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 794082957d80ad5b080b3a0da006ec8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/Music/action6.mp3
+Dependencies: []

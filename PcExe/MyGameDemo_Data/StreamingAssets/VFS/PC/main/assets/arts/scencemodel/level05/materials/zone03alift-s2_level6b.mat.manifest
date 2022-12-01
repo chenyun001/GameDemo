@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3880916138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08ce55643e3b1efa58426d082c852492
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level05/Materials/zone03alift-s2_level6b.mat
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 158407294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ac9536523b474659356d6072b6c7055
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/blood.psd
+Dependencies: []

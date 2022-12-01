@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 219185781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f78a70a2dee0c887cd02dfa8235060b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/Effects/Effects/rodidlo.prefab
+Dependencies: []

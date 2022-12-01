@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3206349122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7378e8d4b80f9692151e08bb59d980ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/dym.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/particles/texture/dym.psd

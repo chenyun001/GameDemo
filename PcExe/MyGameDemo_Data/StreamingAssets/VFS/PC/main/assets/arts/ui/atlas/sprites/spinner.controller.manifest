@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2597614002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d11fc7c73e0353078efada8694034d13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Atlas/Sprites/Spinner.controller
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/ui/atlas/sprites/spinner.anim

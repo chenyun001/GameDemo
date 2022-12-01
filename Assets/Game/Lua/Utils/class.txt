@@ -1,0 +1,116 @@
+
+--[[
+类的模板
+]]
+local function clone(object)
+	local lockup_table = {}
+	local function _copy(object)
+		if type(object) ~= "table" then
+			return object
+		elseif lockup_table[object] then
+		   return	lockup_table[object]
+		end
+		local new_table = {}
+		lockup_table[new_table] = new_table 
+		for key,value in pairs(object) do
+			new_table[_copy(key)] = _copy(value)
+		end
+		return setmetatable(new_table,getmetatable(object))
+	end 
+	return _copy(object)
+end
+
+gm.Utils.clone = clone
+
+gm.Utils.class = function(classname,super)
+	local cls
+	if super then
+	 cls = clone(super)
+	 cls.super = super 
+	else
+		cls = {ctor = function() end}
+	end 
+	cls.__cname = classname
+	cls.__index = cls
+
+	cls.New =  function(...)
+		local  instance =  setmetatable({},cls)
+		instance.class = cls
+		instance:ctor(...)
+		return instance
+	end
+	return cls
+end
+
+--[[
+打印函数
+@params value 需要打印的内容
+@params description 描述
+@params nesting 打印内容的嵌套级数，默认200级
+]]
+function dump(value, description, nesting)
+	if type(nesting) ~= "number" then nesting = 200 end
+
+	local lookupTable = {}
+	local result = {}
+
+	local traceback = string.split(debug.traceback("", 2), "\n")
+	local title = "dump数据"
+	local desc = description or title
+	desc = "<color=#FFFF00>"..desc.."</color>"
+	local function dump_value_(v)
+		if type(v) == "string" then
+			v = "\"" .. v .. "\""
+		end
+		return tostring(v)
+	end
+	local function dump_(value, description, indent, nest, keylen)
+		local spc = ""
+		if type(keylen) == "number" then
+			spc = string.rep(" ", keylen - string.len(dump_value_(description)))
+		end
+		if type(value) ~= "table" then
+			result[#result +1 ] = string.format("%s%s%s = %s", indent, dump_value_(description), spc, dump_value_(value))
+		elseif lookupTable[tostring(value)] then
+			result[#result +1 ] = string.format("%s%s%s = *REF*", indent, dump_value_(description), spc)
+		else
+			lookupTable[tostring(value)] = true
+			if nest > nesting then
+				result[#result +1 ] = string.format("%s%s = *MAX NESTING*", indent, dump_value_(description))
+			else
+				result[#result +1 ] = string.format("%s%s = {", indent, dump_value_(description))
+				local indent2 = indent.."    "
+				local keys = {}
+				local keylen = 0
+				local values = {}
+				for k, v in pairs(value) do
+					keys[#keys + 1] = k
+					local vk = dump_value_(k)
+					local vkl = string.len(vk)
+					if vkl > keylen then keylen = vkl end
+					values[k] = v
+				end
+				table.sort(keys, function(a, b)
+					if type(a) == "number" and type(b) == "number" then
+						return a < b
+					else
+						return tostring(a) < tostring(b)
+					end
+				end)
+				for i, k in ipairs(keys) do
+					dump_(values[k], k, indent2, nest + 1, keylen)
+				end
+				result[#result +1] = string.format("%s}", indent)
+			end
+		end
+	end
+	dump_(value, desc, "", 1)
+	local str = ""
+	for i, line in ipairs(result) do
+		str = str..line.."\n"
+	end
+	print(str.."\n"..debug.traceback())
+	return str
+	--print(debug.traceback())
+end
+

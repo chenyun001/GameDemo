@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 235185760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1ad18a5e71d4b0ee6f5f3e51c6a29fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/animations/npc_appearance_boss1.wav
+Dependencies: []

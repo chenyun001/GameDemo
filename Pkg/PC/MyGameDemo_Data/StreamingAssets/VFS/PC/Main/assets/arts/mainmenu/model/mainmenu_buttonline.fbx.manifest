@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 410898031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6943c43333ee692291ba7df17f395bf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a50c1abce465c0322e6cf9ef416384a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/MainMenu_Buttonline.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/materials/mainmenu_buttonline-mainmenu_buttons_mat.mat

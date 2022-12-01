@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1143028129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff21fa0620b7aebd7285a5850b435bed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/musket/musket2.wav
+Dependencies: []

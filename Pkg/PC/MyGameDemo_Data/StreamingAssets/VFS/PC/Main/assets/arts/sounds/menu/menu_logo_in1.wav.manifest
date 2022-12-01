@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3177771394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bae7ce0486a21cb7c4670d4b92a92fe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/menu/menu_logo_in1.wav
+Dependencies: []

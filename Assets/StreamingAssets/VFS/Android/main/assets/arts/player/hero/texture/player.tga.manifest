@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 278036588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b39cd6dffdc1f16fa86ff952bd0a4678
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/Hero/Texture/player.tga
+Dependencies: []

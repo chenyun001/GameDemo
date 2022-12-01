@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2260967329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d664797ce7644a343a12dee6501d7df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/level01/ambi_water1.wav
+Dependencies: []

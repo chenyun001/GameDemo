@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3806283800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7044a1bb2f864ab8dbf1709a79a57429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/prkno.psd
+Dependencies: []

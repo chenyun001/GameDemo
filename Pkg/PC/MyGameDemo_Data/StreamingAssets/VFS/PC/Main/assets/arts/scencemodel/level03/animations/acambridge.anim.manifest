@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1474886813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f82688e53528c83ea897439520aa3710
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level03/Animations/acambridge.anim
+Dependencies: []

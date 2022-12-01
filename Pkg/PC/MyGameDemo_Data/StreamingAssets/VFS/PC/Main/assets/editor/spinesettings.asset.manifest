@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1170842278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b246b11937cec440f9cc9a58b8e58073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ae427d6b1b2396867b628c703b46eba
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b29e98153ec2fbd44b8f7da1b41194e8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor/SpineSettings.asset
+Dependencies: []

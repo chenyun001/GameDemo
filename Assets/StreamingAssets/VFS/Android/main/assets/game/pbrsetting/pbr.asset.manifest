@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1959791414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4934afc7569363fd8b295c1524b98e91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d251bac51fac06ed162be6a1930991b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/PBRSetting/Pbr.asset
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/game/pbrsetting/pbr_renderer.asset

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1028406129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b42cd51035381eecf9bf30c23e8a20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd59304d5e08ed2d23055b344b3741b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Model/easy_button.FBX
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/materials/easy_button.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/mainmenu/model/materials/easy_button-no
+  name.mat

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1409207267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fea81f909678562a5a04522e810936f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Misc/Material/FadeOutMaterial.mat
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3279809404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f616154f17cf339c17761ef7320e1f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 876638b0198b0f256df172f4edfc133d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6762858771b9c02488946edb13eeb750, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f66d3aecf43bf9b45a66e1ec294daedc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/UI/CmoicsPanel.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/atlas/bagtest/tip2.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/image/comixgui_iphone 1.tga
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/image/edge.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/image/tip1.psd
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/ui/image/tip3.psd

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1928568373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6bc0941967fd9cb49c4432517b047b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a447f39dbb42f7f87a83815629f16d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level02/Model/zone05.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level02/materials/s2_level02.mat

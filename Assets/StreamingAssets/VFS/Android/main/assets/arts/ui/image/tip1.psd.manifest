@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3615430444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fea6f5707905ed3bd9e589d62475cd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/Image/Tip1.psd
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2244747237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4b7b2ca2942c1968831e7115dfb931a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e9238bfeb5f461b28233f8e614d750
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level03/Model/zone06lift2.FBX
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/scencemodel/level03/materials/s2_level03.mat

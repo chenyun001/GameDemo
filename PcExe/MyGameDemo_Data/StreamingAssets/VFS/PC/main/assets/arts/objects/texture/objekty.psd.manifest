@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3501593770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07184359a486d3cb47b39dc9a6aa4ebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/objects/Texture/objekty.psd
+Dependencies: []

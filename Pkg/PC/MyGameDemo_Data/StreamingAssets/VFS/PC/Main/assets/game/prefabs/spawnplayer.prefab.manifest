@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2372342330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 262f48f922750fd4f7ca774f6b15374b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a543ea25167c0f2458855fa0fa4327b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4521851f8253945bebbb6a3d668e2dad, type: 3}
+Assets:
+- Assets/Game/Prefabs/SpawnPlayer.prefab
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2277779011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80e27b0c86fb3eebbd3ec26e9288d9ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background_aandl-08 - default.mat
+Dependencies: []

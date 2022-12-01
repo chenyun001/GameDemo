@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3984253242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18cbef6b1b584f0d8a50f665ae02bf6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level07/Animations/Anim_wings.anim
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3431868009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 227f56923d60f6a1ca07cf9a2c46e0d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/clack.psd
+Dependencies: []

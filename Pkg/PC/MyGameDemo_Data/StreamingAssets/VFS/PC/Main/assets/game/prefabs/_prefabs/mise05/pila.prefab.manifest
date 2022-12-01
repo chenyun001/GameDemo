@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 814109726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 119907ab005268be04ac922b5f028b50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 283fbed70bcf6f43cf91ef108e117938
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Prefabs/_Prefabs/mise05/pila.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level05/materials/s2_level05.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level05/model/pila.fbx

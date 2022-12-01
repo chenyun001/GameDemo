@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2903135380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dc89aef3227929ce745fc95b443cc9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec1fc9e30791a0a066dc65a8df6f051c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Eyes/eyes_Atlas.asset
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/eyes/eyes.atlas.txt
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/spineskeletons/eyes/eyes_material.mat

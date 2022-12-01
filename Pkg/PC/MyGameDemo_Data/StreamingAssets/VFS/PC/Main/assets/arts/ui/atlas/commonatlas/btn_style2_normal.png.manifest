@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3726687321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03931442faa186a56175658246c4ce9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/Btn_Style2_Normal.png
+Dependencies: []

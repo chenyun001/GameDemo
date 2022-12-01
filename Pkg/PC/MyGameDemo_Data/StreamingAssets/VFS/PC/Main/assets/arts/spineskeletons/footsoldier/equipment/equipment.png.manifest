@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2222210161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: def1ec957a80fd5c637da2c732f7d7c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/FootSoldier/Equipment/Equipment.png
+Dependencies: []

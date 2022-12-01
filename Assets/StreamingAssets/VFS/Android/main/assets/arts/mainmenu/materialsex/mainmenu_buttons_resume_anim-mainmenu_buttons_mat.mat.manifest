@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 578055306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38fc62a878d2dba575e22f8c2134a38c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/MaterialsEx/MainMenu_Buttons_Resume_anim-MainMenu_Buttons_Mat.mat
+Dependencies: []

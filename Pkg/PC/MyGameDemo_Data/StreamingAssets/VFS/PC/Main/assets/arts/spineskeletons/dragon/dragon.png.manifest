@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4001096696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fee5acc6a5bbd75e7aaaf09b5fce879a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/SpineSkeletons/Dragon/dragon.png
+Dependencies: []

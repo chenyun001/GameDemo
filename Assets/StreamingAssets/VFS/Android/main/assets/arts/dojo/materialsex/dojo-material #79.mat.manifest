@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 487376355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a468e64a36bbf03d95d5533f34cc48fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/MaterialsEx/dojo-Material #79.mat
+Dependencies: []

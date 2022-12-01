@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3242496039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c11db6e1303e4d021e7f8cc158dc4f16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/shop/health_improve1.wav
+Dependencies: []

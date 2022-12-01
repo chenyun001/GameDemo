@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2528718333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6238f8c0d1c7a5c5cea773118eaf381f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/big_hammer/hammer_miss2.wav
+Dependencies: []

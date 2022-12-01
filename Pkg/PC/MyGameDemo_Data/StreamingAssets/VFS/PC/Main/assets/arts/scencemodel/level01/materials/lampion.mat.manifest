@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1737163593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cfa3d51ddf0f7149c6ff27540ac8508
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level01/Materials/lampion.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/scencemodel/level01/texture/lampionglow.psd

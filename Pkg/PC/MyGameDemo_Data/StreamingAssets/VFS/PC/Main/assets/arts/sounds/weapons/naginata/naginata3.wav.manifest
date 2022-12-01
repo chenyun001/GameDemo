@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 866784330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3788da993a7ecf9f9a1e97dbd4f8e78a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/naginata/naginata3.wav
+Dependencies: []

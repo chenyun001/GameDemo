@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 616571391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c1de67bf7fa20cc71613939ffb7fd18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/bo/bo_cover1.wav
+Dependencies: []

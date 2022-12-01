@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1028868463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b477b99444aee3f8f3748b8a54044179
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/weapons/naginata/naginata_miss2.wav
+Dependencies: []

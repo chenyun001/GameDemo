@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3553888780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee05c24c945d38a3b93836a112feea72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f184d7ad98b0f2a971cd33cdb03eb3a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6008c808ce34e19498cbee6d08e98310, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/mise02/vetrnik.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level02/materials/s2_level02.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/scencemodel/level02/model/vetrnik.fbx

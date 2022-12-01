@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 672216673
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d90e2babb4af2cf7d73145a970147814
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22f1efe7b7d36f978ca6d04770fa4ab5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level05/Model/collisions.FBX
+Dependencies: []

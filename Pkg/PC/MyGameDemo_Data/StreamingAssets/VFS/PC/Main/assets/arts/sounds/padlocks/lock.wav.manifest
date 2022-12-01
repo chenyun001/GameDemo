@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2806024879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 453f03fa13e281508b08d80c0a5dda71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/padlocks/lock.wav
+Dependencies: []

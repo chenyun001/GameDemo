@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1566818499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27dd6745c51569bc373c4aa9ae21eed3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/Avatar_Yae_sakura_C0_Texture_Face_Color.png
+Dependencies: []

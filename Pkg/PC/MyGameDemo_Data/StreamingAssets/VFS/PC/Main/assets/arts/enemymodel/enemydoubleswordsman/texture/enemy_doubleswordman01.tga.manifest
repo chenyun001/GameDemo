@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4168095636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00cfd284f5faa4ac5076c204610bce2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Texture/enemy_doubleswordman01.tga
+Dependencies: []

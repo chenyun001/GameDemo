@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1939544070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f17839eccdb59d2b73ca34c5e3a23bd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Gui/Texture/sum4g.psd
+Dependencies: []

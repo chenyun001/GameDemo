@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2334891357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8037a0306a32e085648c2ec6f7c02eab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MyTest/Material/Avatar_Sakura_Material_Eye_R_Test.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/1.png
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_face_lightmap.png
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 323475107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea3c976c1cd334875657d596a3cda14b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/vocals/grunt_4.wav
+Dependencies: []

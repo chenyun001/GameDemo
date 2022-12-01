@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3641431500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f722dec6d8bb44b50b96f0638ac1c43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level02/Animations/canimvrata1.anim
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 388159917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8d7eff2f284686ceafa514b41db9453
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Texture/MainMenu_Background.tga
+Dependencies: []

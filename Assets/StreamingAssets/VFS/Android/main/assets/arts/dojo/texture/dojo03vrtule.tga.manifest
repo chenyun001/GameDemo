@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 234656223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbd6ec77820de5a3b6443de79e052541
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Texture/dojo03vrtule.tga
+Dependencies: []

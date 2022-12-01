@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1794866542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39186a9b87dd0006dbf321b4e32cadb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/weapons/Katana/combo_hits/combo_hit2.wav
+Dependencies: []

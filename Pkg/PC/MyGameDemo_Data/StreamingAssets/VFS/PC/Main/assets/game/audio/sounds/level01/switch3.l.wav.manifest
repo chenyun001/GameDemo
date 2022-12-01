@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2570280003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98125fbb13183c0f520d7a37b66492ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/level01/switch3.l.wav
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2347457961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef428385ae2d2e06c5a6202e4b9209b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d952b98c17a7629b90f9ff6ce05b6cc8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cf50157280487c418483cb4f6603a75, type: 3}
+Assets:
+- Assets/Game/Prefabs/sud.prefab
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/objects/materials/objekty.mat
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/objects/model/sud.fbx
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/sounds/objects/woodenbox_crash1.wav

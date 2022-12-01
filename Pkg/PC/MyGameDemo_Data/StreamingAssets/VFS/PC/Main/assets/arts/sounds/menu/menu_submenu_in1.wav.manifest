@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3197549406
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 674b4eda78bffe77c5a454901522ba8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/menu/menu_submenu_in1.wav
+Dependencies: []

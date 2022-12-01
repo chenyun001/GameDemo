@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1152366456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec7c240fcf7836ee29e6ad6cd72699c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/dojo/Texture/dojo_mrakypar.psd
+Dependencies: []

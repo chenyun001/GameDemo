@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1823159361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cb1eae752fceabef55d3d53913a9c34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/Player_Info_Blood.png
+Dependencies: []

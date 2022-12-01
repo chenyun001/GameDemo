@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 883697095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87af4d23b88a5ad5a8e292d7985672ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/enemyBossOrochi/Materials/boss_orochi_transparent.mat
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/enemymodel/enemybossorochi/texture/boss_orochi.tga
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/shader.bundle

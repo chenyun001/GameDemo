@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1479224978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abbafbd03e903595a0ae1513e600b903
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/Texture/s2_level06.psd
+Dependencies: []

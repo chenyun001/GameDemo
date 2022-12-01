@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1274403273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9074682ad40f2c66eb2a4e2d334a7ca1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level01/Texture/extra.psd
+Dependencies: []

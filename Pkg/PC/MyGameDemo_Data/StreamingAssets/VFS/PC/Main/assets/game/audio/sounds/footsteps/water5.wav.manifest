@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 179325067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce9b5590f7b0d345ac87d84c51ac7482
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Audio/Sounds/footsteps/water5.wav
+Dependencies: []

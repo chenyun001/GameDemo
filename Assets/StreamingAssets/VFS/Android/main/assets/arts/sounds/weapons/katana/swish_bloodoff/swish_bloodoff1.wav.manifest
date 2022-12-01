@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1950653186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbf28a840ca940c8a890313db0f02236
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/Katana/swish_bloodoff/swish_bloodoff1.wav
+Dependencies: []

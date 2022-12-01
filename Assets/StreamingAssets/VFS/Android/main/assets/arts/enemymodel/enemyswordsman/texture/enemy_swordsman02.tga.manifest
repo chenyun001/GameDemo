@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1899182892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e8f5272d527e77f0c15288ebfe543f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemySwordsman/Texture/enemy_swordsman02.tga
+Dependencies: []

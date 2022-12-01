@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1102489695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07eaaeec2840a4378e4c89c4759f9e2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/ScenceModel/Level06/MaterialsEx/lift05-13 - Default.mat
+Dependencies: []

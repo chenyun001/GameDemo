@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 871009170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df5e131c73a113505247bd197ac36aaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78b4eb24b215c292a3fbe4dfa013d0e8
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Player/NewAvatar/Avatar_Sakura_C1_YS_UI - Avatar_Yae_sakura_Eye_L_q_0_23406
+  [TCP2 Smoothed].asset
+Dependencies: []

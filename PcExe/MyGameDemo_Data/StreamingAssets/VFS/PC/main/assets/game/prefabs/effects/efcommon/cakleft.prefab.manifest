@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 447652156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a23ab2cb83f77ebc5b1c1046c1d139f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27295f96fcdc2b917bd061e8817c7e02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Effects/EfCommon/cakleft.prefab
+Dependencies: []

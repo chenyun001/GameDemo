@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3590169948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cf28fb3b71029a5c56eb85a86f61563
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Texture/rotacak1.psd
+Dependencies: []

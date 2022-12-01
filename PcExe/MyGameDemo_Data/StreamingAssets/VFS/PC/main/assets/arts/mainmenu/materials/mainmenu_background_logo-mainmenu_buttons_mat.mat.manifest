@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2778172941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1519e62604ce60894cf20cde45e6b34a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Materials/mainmenu_background_logo-mainmenu_buttons_mat.mat
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2106685302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66e42994f3f600b237c2ebe03d74ec42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Texture/Avatar_Yae_sakura_C0_Texture_Hair_LightMap.png
+Dependencies: []

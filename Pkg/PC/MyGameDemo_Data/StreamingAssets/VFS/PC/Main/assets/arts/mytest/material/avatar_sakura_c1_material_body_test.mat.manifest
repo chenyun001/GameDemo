@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 834493558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c13a46394fd4cd82744a32de80f97ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/MyTest/Material/Avatar_Sakura_C1_Material_Body_Test.mat
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c1_texture_body_color.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c1_texture_body_lightmap.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/shader.budle

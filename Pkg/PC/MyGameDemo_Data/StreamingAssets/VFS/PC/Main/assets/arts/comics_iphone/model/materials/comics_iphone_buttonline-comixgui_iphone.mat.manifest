@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1073629022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd3801af8c77945f1b123efc23ec1e1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Comics_iPhone/Model/Materials/Comics_iPhone_Buttonline-ComixGui_iPhone.mat
+Dependencies: []

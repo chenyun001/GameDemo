@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2341990530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75d16550efd58290cc9892db44b6aec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/particles/Materials/mat_star02blue.mat
+Dependencies:
+- E:/BaiduNetdiskDownload/MyGameDemo/MyGameDemo/AssetBundles/Android/main/assets/shader.bundle

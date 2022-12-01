@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 926758881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8024db694704750c66258c1811754a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 146b03472593bdc13a08969ab791a0ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Prefabs/Common/trails_combo01.prefab
+Dependencies:
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/trails/animations/anim_dust.anim
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/trails/materials/trails_combo01-mat_traily.mat
+- F:/BaiduNetdiskDownload/MyGameDemo/AssetBundles/PC/main/assets/arts/trails/model/trails.fbx

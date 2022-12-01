@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3154033595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 363458468bf396759e53923fa86ba897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14f9f5d4bd6ab0a332c7023241984c97
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Player/Avatar_Sakura_C1_YS_UI/Model/Avatar_Sakura_C1_YS_UI.fbx
+Dependencies:
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/1
+  (1).png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/1.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_face_color.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c0_texture_hair_color.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/avatar_yae_sakura_c1_texture_body_color.png
+- G:/U3D/MyGameDemo/VFS/PC/Main/assets/arts/player/avatar_sakura_c1_ys_ui/texture/kiana_back.png

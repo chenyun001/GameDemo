@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1828324512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28d67ee7e4211f04a77cdc26f66fc847
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/footsteps/wood6.wav
+Dependencies: []

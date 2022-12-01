@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3717259777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 550b0ce9737c152392f5a300ad1452e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Sounds/weapons/big_hammer/bighammer2.wav
+Dependencies: []

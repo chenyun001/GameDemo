@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1844574134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34985b9788c6ae06725f2e932d97c05d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Sounds/vocals/murmur1.wav
+Dependencies: []

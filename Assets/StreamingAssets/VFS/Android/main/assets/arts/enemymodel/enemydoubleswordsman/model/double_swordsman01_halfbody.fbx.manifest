@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1751321306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ded7019532bf6e63dfe85f1165cf0cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51f03f5e0bed4a45a557c766d0317afb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/EnemyModel/EnemyDoubleSwordsman/Model/double_swordsman01_HalfBody.FBX
+Dependencies: []

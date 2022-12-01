@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2413134390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9716bfd733d9d262e0ce69c6f28aa2a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/UI/Atlas/CommonAtlas/Btn_Main_FuBen.png
+Dependencies: []

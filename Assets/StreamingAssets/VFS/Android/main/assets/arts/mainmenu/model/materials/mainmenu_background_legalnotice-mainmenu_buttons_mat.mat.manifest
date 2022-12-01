@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4175197574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df83c7f7cbd4cefb58cc56f8eef3ff6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/MainMenu_Background_LegalNotice-MainMenu_Buttons_Mat.mat
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2531698625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c62067504360bcd973282a29d800931b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6bdf416d006caf49941f55b9b805fcad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/ScenceModel/Level05/Model/lucerna.FBX
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3949128933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 127f0cfce8c7801717f5e09909ee6aab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/MainMenu/Model/Materials/MainMenu_Buttons_MoreGames-MainMenu_Buttons_Mat.mat
+Dependencies: []
