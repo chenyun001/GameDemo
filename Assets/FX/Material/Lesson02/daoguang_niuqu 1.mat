@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: daoguang_niuqu 1
+  m_Shader: {fileID: 4800000, guid: 95a4871a956058143965d7fc487c204e, type: 3}
+  m_ShaderKeywords: _UV_SWITCH_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BrushedMetalNormal:
+        m_Texture: {fileID: 2800000, guid: f119810ee80489a46bc498b123e53e81, type: 3}
+        m_Scale: {x: 2, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 85e9e4858f5b3a042b46b8b448a092f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diffuse:
+        m_Texture: {fileID: 2800000, guid: b1fb5d634d698ea4c808dbbaafdc036f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diffuse_mask:
+        m_Texture: {fileID: 2800000, guid: 4cdfb453bd190fa4f95879daf6585bce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diffuse_texture:
+        m_Texture: {fileID: 2800000, guid: 82fbee61fc2bd564e8b08db5259c13ab, type: 3}
+        m_Scale: {x: 1.11, y: 1.46}
+        m_Offset: {x: 1.58, y: 0.29}
+    - _distort_textuer:
+        m_Texture: {fileID: 2800000, guid: f119810ee80489a46bc498b123e53e81, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _mask_texture:
+        m_Texture: {fileID: 2800000, guid: 4cdfb453bd190fa4f95879daf6585bce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _rongjie_maks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _rongjie_mask:
+        m_Texture: {fileID: 2800000, guid: 1e1df230b8ea4c04580a7f418e2df1d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _rongjie_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex4coord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _ChromaticAberration: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Distortion: 0.025
+    - _DstBlend: 0
+    - _Float1: 0.001
+    - _Float2: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Keyword0: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _bian: 1.73
+    - _bian_kuandu: 0.58
+    - _distort_int: 0.05
+    - _intensity: 4.42
+    - _kuangdu: 0.13
+    - _rongjie: 0.004
+    - _rongjie_intensity: 0.068
+    - _rongjie_soflt: 8.84
+    - _rongjie_soflt2: 10
+    - _rongjie_soft: 1406.9
+    - _u: -0.11
+    - _uv_switch: 1
+    - _v: -0.1
+    - _yanse_jianbian: 2.78
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 1, g: 0, b: 0.52679205, a: 0}
+    - _Color01: {r: 1, g: 0.257292, b: 0, a: 1}
+    - _Color02: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0.735849, g: 0.059976712, b: 0, a: 0}
+    - _Color2: {r: 3.2453969, g: 0.96459424, b: 0.19901027, a: 1}
+    - _Color3: {r: 0.8962264, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _diffuse_uv_move: {r: 0, g: 0, b: 0, a: 0}
+    - _dise: {r: 0.10980392, g: 0, b: 4, a: 1}
+    - _gaoguang: {r: 0.15607643, g: 0, b: 4, a: 1}
+    - _nv_move: {r: -0.5, g: 0.3, b: 0, a: 0}
+    - _zhongjianse: {r: 0.21960784, g: 0, b: 4, a: 0}
