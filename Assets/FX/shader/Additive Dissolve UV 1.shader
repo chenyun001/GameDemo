@@ -5,20 +5,19 @@
 
 Shader "ASE/Effect/Additive Dissolve UV" {
     Properties {
-        [HDR]_diffuse_color("diffuse_color", Color) = (1,1,1,1)
-		[SingleLineTexture]_diffuse_texture("diffuse_texture", 2D) = "white" {}
-		_diffuse_uv_tiling_move("diffuse_uv_tiling_move", Vector) = (1,1,0,0)
-		[SingleLineTexture]_diffuse_mask("diffuse_mask", 2D) = "white" {}
-		_mask_uv_tiling_move("mask_uv_tiling_move", Vector) = (1,1,0,0)
-		_depth_intensty("depth_intensty", Float) = 0
+       _nv_move("nv_move", Vector) = (0,0,0,0)
+		_BrushedMetalNormal("BrushedMetalNormal", 2D) = "bump" {}
+		_mask_texture("mask_texture", 2D) = "white" {}
+		_distort_int("distort_int", Float) = 1
 		[HideInInspector] _texcoord( "", 2D ) = "white" {}
 		[HideInInspector] __dirty( "", Int ) = 1
     }
     SubShader {
         Tags {
             "RenderType" = "Transparent" 
-		 	"Queue" =  "Geometry+0"
+		 	"Queue" =  "Transparent+0"
             "IsEmissive" = "true"
+            "IgnoreProjector" = "True"
 			"RenderPipeline" = "UniversalPipeline"
         }
         LOD 100
@@ -26,10 +25,9 @@ Shader "ASE/Effect/Additive Dissolve UV" {
             Name "FORWARD"
             Tags {
                 "LightMode"="UniversalForward"
+            
             }
             Cull Off
-            ZWrite Off
-            Blend One One
             
             HLSLPROGRAM
             #pragma vertex vert
@@ -46,15 +44,36 @@ Shader "ASE/Effect/Additive Dissolve UV" {
             #pragma target 4.5
 
             CBUFFER_START(UnityPerMaterial)
-                uniform half4 _diffuse_color;
-                uniform sampler2D _diffuse_mask;
-                uniform half4 _mask_uv_tiling_move;
-                uniform sampler2D _diffuse_texture;
-                uniform half4 _diffuse_uv_tiling_move;
-                uniform half _depth_intensty;
+                sampler2D _TerrainHeightmapTexture;//ASE Terrain Instancing
+			    sampler2D _TerrainNormalmapTexture;//ASE Terrain Instancing
+                float4 _TerrainPatchInstanceData；
+                float4 _TerrainHeightmapRecipSize;//ASE Terrain Instancing
+				float4 _TerrainHeightmapScale;//ASE Terrain Instancing
+                UNITY_DECLARE_SCREENSPACE_TEXTURE( _GrabTexture )
+                uniform sampler2D _BrushedMetalNormal;
+                uniform float2 _nv_move;
+                uniform float4 _BrushedMetalNormal_ST;
+                uniform float _distort_int;
+                uniform sampler2D _mask_texture;
+                uniform float4 _mask_texture_ST;
+            
             CBUFFER_END
             //TEXTURE2D(_ParticleColor); SAMPLER(sampler_ParticleColor);
             //TEXTURE2D(_TextureDissolve); SAMPLER(sampler_TextureDissolve);
+           
+
+            inline float4 ASE_ComputeGrabScreenPos( float4 pos )
+            {
+                #if UNITY_UV_STARTS_AT_TOP
+                float scale = -1.0;
+                #else
+                float scale = 1.0;
+                #endif
+                float4 o = pos;
+                o.y = pos.w * 0.5f;
+                o.y = ( pos.y - o.y ) * _ProjectionParams.x * scale + o.y;
+                return o;
+            }
 
             struct VertexInput {
                 float4 vertex : POSITION;
@@ -67,6 +86,49 @@ Shader "ASE/Effect/Additive Dissolve UV" {
                 float4 screenPos:TEXCOORD1;
                  float4 vertexColor : COLOR;
             };
+
+             inline float4 ASE_ComputeGrabScreenPos( float4 pos )
+            {
+                #if UNITY_UV_STARTS_AT_TOP
+                float scale = -1.0;
+                #else
+                float scale = 1.0;
+                #endif
+                float4 o = pos;
+                o.y = pos.w * 0.5f;
+                o.y = ( pos.y - o.y ) * _ProjectionParams.x * scale + o.y;
+                return o;
+            }
+
+            void ApplyMeshModification( inout appdata_full v )
+            {
+                #if !defined(SHADER_API_D3D11_9X)
+                    float2 patchVertex = v.vertex.xy;
+                    float4 instanceData = UNITY_ACCESS_INSTANCED_PROP(Terrain, _TerrainPatchInstanceData);
+                    
+                    float4 uvscale = instanceData.z * _TerrainHeightmapRecipSize;
+                    float4 uvoffset = instanceData.xyxy * uvscale;
+                    uvoffset.xy += 0.5f * _TerrainHeightmapRecipSize.xy;
+                    float2 sampleCoords = (patchVertex.xy * uvscale.xy + uvoffset.xy);
+                    
+                    float hm = UnpackHeightmap(tex2Dlod(_TerrainHeightmapTexture, float4(sampleCoords, 0, 0)));
+                    v.vertex.xz = (patchVertex.xy + instanceData.xy) * _TerrainHeightmapScale.xz * instanceData.z;
+                    v.vertex.y = hm * _TerrainHeightmapScale.y;
+                    v.vertex.w = 1.0f;
+                    
+                    v.texcoord.xy = (patchVertex.xy * uvscale.zw + uvoffset.zw);
+                    v.texcoord3 = v.texcoord2 = v.texcoord1 = v.texcoord;
+                    
+                    #ifdef TERRAIN_INSTANCED_PERPIXEL_NORMAL
+                        v.normal = float3(0, 1, 0);
+                        //data.tc.zw = sampleCoords;
+                    #else
+                        float3 nor = tex2Dlod(_TerrainNormalmapTexture, float4(sampleCoords, 0, 0)).xyz;
+                        v.normal = 2.0f * nor - 1.0f;
+                    #endif
+                #endif
+            }
+
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
                 o.uv_texcoord = v.texcoord0;

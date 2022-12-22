@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: mise01
+  m_EditorClassIdentifier: 
+  m_GroupName: mise01
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4dfa0184abf64ec4197fd852fa40ac18
+  m_SerializeEntries:
+  - m_GUID: 0d42c6ae0ad074283a6ec186c5a9a2ba
+    m_Address: bedna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94fdce934743e4d2088dfeb552b5fc3c
+    m_Address: jehly.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3f9e3682fde74904a9a1d9135ac2494
+    m_Address: kyvadlo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed9375e03c2bac94990e905cba2931bd
+    m_Address: lampion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90432be0492a44cc1b2a9e9535956859
+    m_Address: lampion2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0e5bc5ab8a4075439a16feef0fcc698
+    m_Address: lod.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e60f2fc187e68aa4bbc30442edb37f72
+    m_Address: vetrnik.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f9d479cefecde45479bee63e411d014f, type: 2}
+    - {fileID: 11400000, guid: c93f9861b892e184abca586f20903531, type: 2}

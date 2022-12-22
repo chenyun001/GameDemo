@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: mise07
+  m_EditorClassIdentifier: 
+  m_GroupName: mise07
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aaf1a325c65047d469d3d5528bd5afa3
+  m_SerializeEntries:
+  - m_GUID: c791b69dcb64d437e9df1055c8064245
+    m_Address: horeni4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe22914197bd64baabfd6762e59b1e6d
+    m_Address: kolo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8acb9b4db6ca4414e882f2f4942e6fae
+    m_Address: lift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38827f3dcf81d41dbb79280874cf67bc
+    m_Address: michacka02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b78b29bbae90144e391a4a6eacebe144
+    m_Address: podlaha.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47cb14ab51fa0431c95e905403d32661
+    m_Address: trap_vrtule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e4b12e132bfbb02468957b975b93206b, type: 2}
+    - {fileID: 11400000, guid: 96dfea020eba9794c9a2d773c4dace71, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: particles
+  m_EditorClassIdentifier: 
+  m_GroupName: particles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d6dce6763f9abb74eab4b8e3e7288fad
+  m_SerializeEntries:
+  - m_GUID: c470d1600fa12ce49976ded66e4010a1
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fabad8a51d479614a9a4bdc90a63c22d
+    m_Address: Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fa6c9a8479988d46b0eb1fe71600b2c
+    m_Address: Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3ac7e57456fb48c498874aef10fdee0a, type: 2}
+    - {fileID: 11400000, guid: a682c8c77f498004b9889932b4552c9d, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EnemyModel
+  m_EditorClassIdentifier: 
+  m_GroupName: EnemyModel
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 145e782643a3dfc469a4678723dce074
+  m_SerializeEntries:
+  - m_GUID: 5df2c9e087a494d0b902115d5218b722
+    m_Address: EnemyArcher
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52a4553aa0b4f4976917c8b019522d32
+    m_Address: enemyBossOrochi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 800853c9e6f144cddbe8bf4bdb59ec5b
+    m_Address: EnemyDoubleSwordsman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 921f585b3122f4013b0a08e449c1367b
+    m_Address: EnemyMiniBoss01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88bb74529d4714ef08cc0674d63634c3
+    m_Address: EnemySwordsman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59037a5764d8e4e40b7db1eceb8fa95c
+    m_Address: EnemySwordsman02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f5a380e9821005f4894439c4996dfc93, type: 2}
+    - {fileID: 11400000, guid: 026cab2dd57bd7d4ea062fbeddee48d4, type: 2}

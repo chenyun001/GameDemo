@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FX
+  m_EditorClassIdentifier: 
+  m_GroupName: FX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 78567b9d0433f894aa44a6c0adc80896
+  m_SerializeEntries:
+  - m_GUID: 5601e01359324f043a65bd0b3d8e9aaa
+    m_Address: FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34951ae1d1eb6fd4daf90cc3929fb7e6
+    m_Address: Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 898ba0d335aeb27438261feab5db5043
+    m_Address: Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 796ce1d8fef0cef44bfa6ddbe9eed47a
+    m_Address: Scenes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed68ae4fb6d9087419e1978c894dd255
+    m_Address: shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2ecc352a6af19a4582ea36b1f217b29
+    m_Address: Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38a0c9eba0511e0498ead747430ccd23
+    m_Address: timeline
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6259c30f03a26794091ade632c8dc9fb, type: 2}
+    - {fileID: 11400000, guid: 47b999a0489820c4d91e9981a68e95dd, type: 2}

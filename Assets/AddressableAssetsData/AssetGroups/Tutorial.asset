@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  m_GroupName: Tutorial
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 634a3710ee3a19645ba9ab9d64b224ec
+  m_SerializeEntries:
+  - m_GUID: a80478f53e7645b47baa3b36025bf7db
+    m_Address: Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40cfb991f6ddc864ea763ce4a50e0bf2
+    m_Address: Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f627da6fe82f91a48822b54c20f69f8a
+    m_Address: Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5229bcc78262574aa1b6afa043687c3, type: 2}
+    - {fileID: 11400000, guid: 8c9869c9cd043124b9d00cd85e8689ad, type: 2}

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 using MyGame;
 #if UNITY_EDITOR
@@ -46,12 +47,20 @@ public class SceneInit : MonoBehaviour
         {
             onBeforeEnterGame();
         }
-        ResourceManager.LoadLevelAsync("Assets/Game/Scenes/InitScene", false,null);
-        ResourceManager.LoadAssetAsync("Assets/Game/Prefabs/UI/UICommon/UpdateManager.prefab", typeof(GameObject), (obj) =>
-        {
-            Instantiate(obj, ScreenRoot);
-            //DontDestroyOnLoad(obj);
-        });
+      
+        Addressables.LoadSceneAsync("InitScene.unity", LoadSceneMode.Single, true);
+        AssetsManager.Instance.GetAsset<GameObject>("UpdateManager.prefab", (GameObject go, object[] param) =>
+            {
+                Instantiate(go, ScreenRoot);
+            }
+        );
+
+        //ResourceManager.LoadLevelAsync("Assets/Game/Scenes/InitScene", false,null);
+        //ResourceManager.LoadAssetAsync("Assets/Game/Prefabs/UI/UICommon/UpdateManager.prefab", typeof(GameObject), (obj) =>
+        //{
+        //    Instantiate(obj, ScreenRoot);
+        //    //DontDestroyOnLoad(obj);
+        //});
     }
     public void ResUpdateFinish()
     {

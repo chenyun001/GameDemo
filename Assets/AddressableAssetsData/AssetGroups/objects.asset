@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: objects
+  m_EditorClassIdentifier: 
+  m_GroupName: objects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 960005ad7e7113643a32afee09fdb0d0
+  m_SerializeEntries:
+  - m_GUID: eba900f8b62bbb84daf54d65d6abc850
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97da012de334aab46bf557dec3e9d1de
+    m_Address: Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 122864b5c87dc9248bfc01cb5a1d0f6e
+    m_Address: Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d60605d2d9c8470c92ba62ea1ecb4d6
+    m_Address: p_interaction.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5b9c42b2f29649ceb8238544db69678
+    m_Address: sud.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f16a46a6cfd4e43b79b66f1e2a5dd172
+    m_Address: zamek.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3cd55d91531088743bc6cb8de6afcae6, type: 2}
+    - {fileID: 11400000, guid: cc928b74704bbe3448530ac7e1898fc4, type: 2}

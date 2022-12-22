@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animactions
+  m_EditorClassIdentifier: 
+  m_GroupName: Animactions
+  m_Data:
+    m_SerializedData: []
+  m_GUID: faca189ad17254448935ec0917713249
+  m_SerializeEntries:
+  - m_GUID: 8784ac07007b34c4fbf71e5bbdf67513
+    m_Address: shakeCombo1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd6321748ff6247d6998fb4a95a679ed
+    m_Address: shakeCombo2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24c2daf53b66d4593989ab4074d92f8b
+    m_Address: shakeCombo3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 59bd81b5a2bd47e4587fec2774798a65, type: 2}
+    - {fileID: 11400000, guid: b854604ab7d03de48a2d803bf77f0f94, type: 2}

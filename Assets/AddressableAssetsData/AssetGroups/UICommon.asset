@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UICommon
+  m_EditorClassIdentifier: 
+  m_GroupName: UICommon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a3c519b6103cdc1489d3f9d45916e728
+  m_SerializeEntries:
+  - m_GUID: ff3a8e330ab7753468b902da469ba731
+    m_Address: ButtonMessage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2740a4cbcdf4d7845a812f643079e066
+    m_Address: CmoicsPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f12dbff78123814cbb0a397c859c6a1
+    m_Address: LoadingScreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23c7200f946df404c9361435ca627cf1
+    m_Address: MainMenu_Background.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f418d9712b489b84a8e6313ef92df0b8
+    m_Address: mainScreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b26392bcd490c204a9b05afa8fbd0b23
+    m_Address: MainUIRoot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73b32dba46598104bb90aa16a7ff1b34
+    m_Address: Particle System.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af77947d12cd38d478cc59d81f483b9f
+    m_Address: ScreenRoot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4192ee51828f104e81a7ade3200c7f4
+    m_Address: SelectBtn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36cc74feb575b42438dac851f7a9df60
+    m_Address: Skill_Name.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96fe74bc2193f644a944c4754dfb8763
+    m_Address: small.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 669eb1760922af94fb1ad17695bf94a4
+    m_Address: TextBtn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48a4bdc9706073c4d94a6652a91b6122
+    m_Address: UIMask.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9308396c15ee7474a986e72368542c6f
+    m_Address: UISoundManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e564e2f10ebf68641af9cf254a25e2c4
+    m_Address: UpdateManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bf87efe25bf7c514daf83a65bf11560b, type: 2}
+    - {fileID: 11400000, guid: 9b1438dce390d9645959438f617794c5, type: 2}

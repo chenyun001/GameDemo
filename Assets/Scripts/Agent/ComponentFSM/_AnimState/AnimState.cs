@@ -225,7 +225,7 @@ public class AnimState : System.Object
             if (color.a < 0)
                 color.a = 0;
 
-            data.Material.SetColor("_TintColor", color);
+            //data.Material.SetColor("_TintColor", color);
             yield return new WaitForEndOfFrame();
         }
         //data.Trail.Parent.SetActive(false);

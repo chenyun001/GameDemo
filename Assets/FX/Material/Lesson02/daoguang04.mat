@@ -2,15 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: daoguang04
   m_Shader: {fileID: 4800000, guid: 723e1c46be8cff048b44929e84510ccf, type: 3}
-  m_ShaderKeywords: _DISSOLVE_EDGE_SWITCH_ON _RONGJIE_LIANGBIAN_ON _RONGJIE_SWITCH_ON
-    _UV_SWITCH_ON
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DISSOLVE_EDGE_SWITCH_ON
+  - _RONGJIE_LIANGBIAN_ON
+  - _RONGJIE_SWITCH_ON
+  - _UV_SWITCH_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -100,6 +104,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -174,3 +179,4 @@ Material:
     - _gaoguang: {r: 9.734288, g: 0.9683323, b: 7.287975, a: 1}
     - _rongjie_uv_move: {r: 0, g: 0, b: 0, a: 0}
     - _zhongjianse: {r: 0.13453805, g: 0, b: 2.6390157, a: 1}
+  m_BuildTextureStacks: []

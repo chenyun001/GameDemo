@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 18167898a0a918344a532e54b42e23aa
+  m_SerializeEntries:
+  - m_GUID: 6b3bc29e145b07247b0ddbfa71f6f886
+    m_Address: animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cbed03b2e7fbd49c584c1ef6ee07b1c7
+    m_Address: bandita
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f7f1991faa1748579686a0104480745
+    m_Address: footsteps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05bcb6323ac244547a5935c43c81901a
+    m_Address: level01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f893644914f6e0844b421fd1af5223cb
+    m_Address: level02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 117d81a738218462aac41012858d0903
+    m_Address: level03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7156b97bf9cfb4ea3b5e920a60e49d76
+    m_Address: level05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11f8954abfeca4775bad4c7e8569484c
+    m_Address: level06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 349dc7c0d140349c087fe7ae35df234b
+    m_Address: level07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44c91088f586a6f4884d168b4c18b406
+    m_Address: mainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce3e907b5d6eb49f5b8f470eefa8fd2f
+    m_Address: menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 155b0586fba5b78418e69f658c68b9db
+    m_Address: Music
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2593275ff0e1a3346aab5c935e50b64b
+    m_Address: objects
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 779518fac05fa5c4b822daa0a119b40b
+    m_Address: padlocks
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4934c2ef1ab2845b7b66fa97e4e77015
+    m_Address: player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e999f4094e240194187ea829f3afd50d
+    m_Address: shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4439d00ff9906434c8f2ab2e4dbba4af
+    m_Address: spawn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d053ebb661bc240268deb0314c984378
+    m_Address: vocals
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 305a51dafcdf16f45a1223f98b487440
+    m_Address: weapons
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d9ae38b02d773a4ca997d31479fdf2c, type: 2}
+    - {fileID: 11400000, guid: f0eda381cce54b4409fa842f9042031e, type: 2}

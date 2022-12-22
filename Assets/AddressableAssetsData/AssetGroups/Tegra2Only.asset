@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tegra2Only
+  m_EditorClassIdentifier: 
+  m_GroupName: Tegra2Only
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b17c54c89462454d85e8da4cc6f9ca3
+  m_SerializeEntries:
+  - m_GUID: 43c33c2ec701d934ba61969784d90e85
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ebb9b99d31862448a08629e17fa050e
+    m_Address: Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be74f05232b6f2f4dbca73520144bd51
+    m_Address: Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0d557a65436a48346a984a18fc950a2c, type: 2}
+    - {fileID: 11400000, guid: 2c8a079238a8d9e4caf289f36a3175a6, type: 2}

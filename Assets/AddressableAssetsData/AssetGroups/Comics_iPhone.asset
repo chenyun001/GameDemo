@@ -1,0 +1,793 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Comics_iPhone
+  m_EditorClassIdentifier: 
+  m_GroupName: Comics_iPhone
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db17294cdab0e7f41ba79100e497fb4b
+  m_SerializeEntries:
+  - m_GUID: b1cce565061404718970db1e56d903d7
+    m_Address: c01p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5aacaf2a5e5f4eed8dc057746c2ed2c
+    m_Address: c01p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 918f0f63692d04b28905ee98aa19296b
+    m_Address: c01p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 439bb722a936340e58776ad370a0c35f
+    m_Address: c01p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d55587975ce241c48830e3ab8faee9e
+    m_Address: c01p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b72f98a9fb0004c6399e4c77bf05d854
+    m_Address: c01p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d784b5e6b1db443199e26c4e4fc5c9fb
+    m_Address: c01p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ab1ec04593c64696bdf61c7d560d527
+    m_Address: c01p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d58cb1129a0074f3db9ee0e96566b6a4
+    m_Address: c02p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc00d1aeec711437b8a1c6ebc275f20a
+    m_Address: c02p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c15d8709f9d54943a8dd0548c7fdaf3
+    m_Address: c02p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 970bc42b27c4148d89fd198d6f05a5e5
+    m_Address: c02p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01f7a2cf909cb417bb9ff13e60407bea
+    m_Address: c02p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9490b43c5c594c3ea04d3d535b3fea0
+    m_Address: c02p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66ce9b2605bdf45aab8e4bddc448fcc2
+    m_Address: c02p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed9aab8add1734c8daba7ca144f45b32
+    m_Address: c02p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 311430c0c29264db3bc76549eb535f2d
+    m_Address: c03p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ad3e3e1c63fc40fba10b770fd5c4743
+    m_Address: c03p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd355ba5119a64b059dad2c6cb39a460
+    m_Address: c03p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bff3c2ad9ce84088b0dfbe8dc8d7ffb
+    m_Address: c03p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ac72a899bb4d4953a92c8bf58fb9a1c
+    m_Address: c03p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbeb4de28f2524aa98eb5217cb6193f2
+    m_Address: c03p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 586a0a2ba6f7b4481a02163b55472426
+    m_Address: c03p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5be53e86e1c5349fc83c34099582d394
+    m_Address: c03p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3018fabd8d50642df809f472c8d10d00
+    m_Address: c04p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 615d04e47ffdb45b29bc76129a6dd8a5
+    m_Address: c04p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e3e68b2682bb4c3f8195e71478165cf
+    m_Address: c04p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a231baaa943df4a3a8cc3b1acc46b869
+    m_Address: c04p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd4525203b52c4db6af354393bd95574
+    m_Address: c04p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89a2b568803274399a45fee7cf8a9a3e
+    m_Address: c04p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9598e2cf5c51c479ebae0efce1d90847
+    m_Address: c04p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80930da08e71d4181a9a96b48a4a8b36
+    m_Address: c04p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6258c5bc7395647b7ae3d1fbb9f6c30b
+    m_Address: c05p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 324be456395b542619b0cac783ae3424
+    m_Address: c05p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eedcc35465d084649bf4b7c2f1c0199f
+    m_Address: c05p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01bc4f9d5104d4eb29affd60adb1c6b1
+    m_Address: c05p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e7cb9801e71942ada18e3772f8d25f3
+    m_Address: c05p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3c5d5b37c5714b79b4501425b658a54
+    m_Address: c05p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ef545a7a32b846d79bef95cd239364c
+    m_Address: c05p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8f15d48fb8fc49d999b58f854d133a6
+    m_Address: c05p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e0f9349f00884f6693c0a975cee11da
+    m_Address: c06p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45af427e12a1749a1b92147ed9a14ab6
+    m_Address: c06p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89db410f8fc1e4d04850f013003b6b3e
+    m_Address: c06p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f1a4d4c731114943975d83506c9dc89
+    m_Address: c06p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df00ecff9ad5b4009ae6694663117739
+    m_Address: c06p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afe569e90b53e44febba191fbb63ae8b
+    m_Address: c06p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 185580ab209fa485f957fa9ffeaae882
+    m_Address: c06p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04c9b318ffc514e1ba9ca83797406a53
+    m_Address: c06p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 567184aebc9ae4b92aeaa17daaae9593
+    m_Address: c07p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2348bcb813704278bbcad171c4f3ef5
+    m_Address: c07p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b58126dbad4df48acae09f7fe3f1cf23
+    m_Address: c07p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4520649f4e46b4ca1a18b0e93cd711ae
+    m_Address: c07p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9713626a9b0914730ab4d0e64c3353cb
+    m_Address: c07p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42a68241a6ced43e8b8afd7681f9fcb1
+    m_Address: c07p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13839697a153241f9a66b8bbafb47e1f
+    m_Address: c07p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9130de4769806404cbd6d9b58493cf6d
+    m_Address: c07p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14e7f4feff1544edea54b9c8ba9f8adc
+    m_Address: c08p01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 040d8eb9635044ab68ae9b3d8be06005
+    m_Address: c08p02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f2444d2fc5164570b32c59d90ce605b
+    m_Address: c08p03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e357238b8c9944b59692666ad43b2e1
+    m_Address: c08p04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3662c83802824beaaf79b6a78ff4c85
+    m_Address: c08p05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36c045129acd74bef91478054841782d
+    m_Address: c08p06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92d6171ebfa57493780fe03eaa1f605d
+    m_Address: c08p07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67904df7549324be38af914b9c3c60ef
+    m_Address: c08p08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a50fd3d0d3c064afca19628b4139a755
+    m_Address: comics_ipad_comix01page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bde55938afc034039a8bf793b88587ca
+    m_Address: comics_ipad_comix01page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 188a1e93f9e81440ba99bcf1ea50ea81
+    m_Address: comics_ipad_comix01popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a270e2b45b0e492b962e953bfa41321
+    m_Address: comics_ipad_comix02page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f566112796b30413fb92842c4116be31
+    m_Address: comics_ipad_comix02page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0aea799ab07384325b86826175b33a25
+    m_Address: comics_ipad_comix02popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 631b2b4f0992344c589a9ac29bd74645
+    m_Address: comics_ipad_comix03page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a462fc725a886471fa85e1f7112f9874
+    m_Address: comics_ipad_comix03page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4aca7418737940a99b124187e16af26
+    m_Address: comics_ipad_comix03popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac66322d2dc7b4de2ba95a07f1b5a051
+    m_Address: comics_ipad_comix04page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58e5c37e17fb546c69cff765e38872ce
+    m_Address: comics_ipad_comix04page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68a5dcad8aa504c27867121fc4df137b
+    m_Address: comics_ipad_comix04popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d310adcc1d8346348020f947406ab9f
+    m_Address: comics_ipad_comix05page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20780eabb2f364c7c8a18e08a7c2a38b
+    m_Address: comics_ipad_comix05page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5de13c35025aa4c9e82803497d445370
+    m_Address: comics_ipad_comix05popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 562f97f8f80eb4e09af66c6bc08b7608
+    m_Address: comics_ipad_comix06page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f781806f24d4448ab0a3285b65b881c
+    m_Address: comics_ipad_comix06page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c907aa987e054e21ac3b962568b9dc6
+    m_Address: comics_ipad_comix06popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 494c4d6d143134f3ca6387e4fc27d6b9
+    m_Address: comics_ipad_comix07page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72b2516b014d549c99dc819220e99969
+    m_Address: comics_ipad_comix07page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a3653f9b9fd94adab61f87fd81891b5
+    m_Address: comics_ipad_comix07popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31392d2e2d555479a99423ec594ec509
+    m_Address: comics_ipad_comix08page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d0b9dab735034e1d81e38655bd380a5
+    m_Address: comics_ipad_comix08page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 607bcfbed658443318dfbc64daf08ecd
+    m_Address: comics_ipad_comix08popisek_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bb761e4864d941c4b974cae693afa98
+    m_Address: Comics_iPhone_Background.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eba7309c3b4ec5f4f9f9de696a083374
+    m_Address: Comics_iPhone_ButtonAnim-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a040b977d3e64872ad432fdb11f5cbf
+    m_Address: Comics_iPhone_ButtonAnim.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b2a1f1b70de01340b2f97147a5c6f46
+    m_Address: Comics_iPhone_ButtonGame-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b86c9ccf3600434eb7fd677db1735c0
+    m_Address: Comics_iPhone_ButtonGame.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a4ea116560335e4f832fc5e906995d8
+    m_Address: Comics_iPhone_Buttonline-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a63f6d9a76f3b47aa96542d64fa44526
+    m_Address: Comics_iPhone_Buttonline.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00771487ece3c4449a1347c91d484289
+    m_Address: Comics_iPhone_ButtonNext-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8f300adcd0444c26a08c9cebc71dac0
+    m_Address: Comics_iPhone_ButtonNext.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38febf2360066af4eb3b8c88421fa04d
+    m_Address: Comics_iPhone_ButtonPrevious-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4070cf3f522c4b05a8e0d8b0f31cfcb
+    m_Address: Comics_iPhone_ButtonPrevious.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6f5ddfa959cf334faf59876fe62696f
+    m_Address: Comics_iPhone_ButtonRewind-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df49fd8b882b94c1eb381a277487e6e0
+    m_Address: Comics_iPhone_ButtonRewind.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e939794cb51145f986b5bc17b50b6a6
+    m_Address: comics_iphone_comix01page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf7e48df167b54222a0b4194194da91a
+    m_Address: comics_iphone_comix01page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fdf9a68136894de4a076ef55f2c435a
+    m_Address: comics_iphone_comix01page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3418fa884647e48f880c764ef64c3854
+    m_Address: comics_iphone_comix01page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bab40e73c5ea45f19a59c6a4ba432d5
+    m_Address: comics_iphone_comix01page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac1f5be3f87324019a6d4399e70c4a32
+    m_Address: comics_iphone_comix01page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02bf0b89a3cc049e59d7bba7a39a2136
+    m_Address: comics_iphone_comix01page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5eab33f5b37fa42de8a6e123a8e98204
+    m_Address: comics_iphone_comix01page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14d9787b23cbc41399a5cba59b2144b6
+    m_Address: comics_iphone_comix02page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6731e7a584604f3eaba3e83ff187035
+    m_Address: comics_iphone_comix02page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f35a8d4c656004cc88ab0411105701ff
+    m_Address: comics_iphone_comix02page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aac49347dfbdc4c2aa86ee9ad55bb694
+    m_Address: comics_iphone_comix02page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01d4481e9f73641e6b304efcf897abea
+    m_Address: comics_iphone_comix02page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24bdfcb41472c487f8a5a837b0af523b
+    m_Address: comics_iphone_comix02page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f6bf546aecf047aab351d737873cfaa
+    m_Address: comics_iphone_comix02page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad2480a24aab94b2385c79bde406f87f
+    m_Address: comics_iphone_comix02page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e60d86c8ca4a4a63b4be22186dbfc13
+    m_Address: comics_iphone_comix03page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27fbb8af9f2904497a8cfd4536bef46c
+    m_Address: comics_iphone_comix03page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77dd63ec357ec41fb956c7f1ecf1f1a4
+    m_Address: comics_iphone_comix03page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00edce1ee8a264fa2b05d25bdd7fb1e3
+    m_Address: comics_iphone_comix03page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f17785e4dcb349bd8a9631c53db9ba4
+    m_Address: comics_iphone_comix03page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5663e49a885c6452f913c5aaf1e9e135
+    m_Address: comics_iphone_comix03page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e35352790eeca49549ab6cf64bb03b4c
+    m_Address: comics_iphone_comix03page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8fca0ea9df9d42bab90e77ef0ee33f4
+    m_Address: comics_iphone_comix03page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccc98fab97a7448eb81182b57ba996e2
+    m_Address: comics_iphone_comix04page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6ddf982c09b54d7db7b4690907a9be7
+    m_Address: comics_iphone_comix04page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4505bb743761d4b30b9130c3e5045de7
+    m_Address: comics_iphone_comix04page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e43b663bc057413d836969209fc8758
+    m_Address: comics_iphone_comix04page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22c90d1860d8e4059bc3ecd6b4e5ff44
+    m_Address: comics_iphone_comix04page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 818382a6946954a2fa56c2b23e786ede
+    m_Address: comics_iphone_comix04page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f7ab54f841264d8ea4a2df0b0118b09
+    m_Address: comics_iphone_comix04page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aef1afc263777405188aae7dfce0836d
+    m_Address: comics_iphone_comix04page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2bbc70645acc4488894c77a41c5d691
+    m_Address: comics_iphone_comix05page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5726429cb0054aadb12faeb9f5d5124
+    m_Address: comics_iphone_comix05page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f5a2a3e276f64a8b87a4a3a43c29316
+    m_Address: comics_iphone_comix05page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f824ef6958c04d55a5114c34307f312
+    m_Address: comics_iphone_comix05page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd747e1749da64913adb3913bbc7da43
+    m_Address: comics_iphone_comix05page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df46b6a5d6bcf4ac28d6aea4b732a69e
+    m_Address: comics_iphone_comix05page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b88d4a207470f4c8b92fb17e32447306
+    m_Address: comics_iphone_comix05page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27764127a58a644d7bbfcb0f672bf483
+    m_Address: comics_iphone_comix05page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea8d5af94440e4138b720ff2c964f0a4
+    m_Address: comics_iphone_comix06page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18fa269066a2142f586aa200fbd7ac6a
+    m_Address: comics_iphone_comix06page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f44693a85a6a3412187862a64c8899f4
+    m_Address: comics_iphone_comix06page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27f967fc7988448f28096dc529306508
+    m_Address: comics_iphone_comix06page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8759d2dd79f494e2a96cba6cd86874ae
+    m_Address: comics_iphone_comix06page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ab139eb4644042288f2e03f93893c80
+    m_Address: comics_iphone_comix06page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0d27482a4c424ca5ad2560a6db94471
+    m_Address: comics_iphone_comix06page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 999a283cc1b0a4a8d8190734e09cd88a
+    m_Address: comics_iphone_comix06page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07f78185eeda14354bcd55d84fb4e8d6
+    m_Address: comics_iphone_comix07page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b38bedc5e62b4caba6fbcc8698e2099
+    m_Address: comics_iphone_comix07page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9830d500091a44e9cacd7f1b5cd0067e
+    m_Address: comics_iphone_comix07page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b0623159f73445ccb46b9b15d97e569
+    m_Address: comics_iphone_comix07page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 295c7043af40640048a353a17c08e053
+    m_Address: comics_iphone_comix07page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b784638f6e4f4c33875c4231251a87a
+    m_Address: comics_iphone_comix07page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49391dd2e7c674dd3b5665f43c85cac0
+    m_Address: comics_iphone_comix07page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 095067e7457e8480fbcc6e87598fb8bc
+    m_Address: comics_iphone_comix07page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75c62add34a4347bb868dab145a63bd8
+    m_Address: comics_iphone_comix08page01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf597fd18adba4fb2b37369e46f15f2a
+    m_Address: comics_iphone_comix08page02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c64396e6935cd4888bdbe4dcc0248df2
+    m_Address: comics_iphone_comix08page03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bff9cd5190e0448409f2921070a652c0
+    m_Address: comics_iphone_comix08page04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a9b8242f44114a558a1f7ce33d75e9a
+    m_Address: comics_iphone_comix08page05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c97585e492bdc43d4a3c791bc903a1d1
+    m_Address: comics_iphone_comix08page06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb67eeede24be427a9a80ffd227a8744
+    m_Address: comics_iphone_comix08page07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6e384b01f232478ab65e4f59a25c316
+    m_Address: comics_iphone_comix08page08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c84351c6dec474e838d56e80be6c2c74
+    m_Address: comics_iphone_comixpopisek01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e9bd464cd2cf4e899187a860715f3e2
+    m_Address: comics_iphone_comixpopisek02_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 136905b7ba1554f8d909c45658e6c600
+    m_Address: comics_iphone_comixpopisek03_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa9620877d4ce4deb9ab212ba110faa0
+    m_Address: comics_iphone_comixpopisek04_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2766a16c233e3407e870c8593b800987
+    m_Address: comics_iphone_comixpopisek05_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbe82fa601cac4d3abb8505ce3be04aa
+    m_Address: comics_iphone_comixpopisek06_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42fc33d3983424c5aa2d165a507263d4
+    m_Address: comics_iphone_comixpopisek07_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 658258f1313774dc598373a9d6bd7bbe
+    m_Address: comics_iphone_comixpopisek08_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6a0f927cb2c81f4eb8f7d58496984bb
+    m_Address: Comics_iPhone_Counter-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e34dae4d87b774f01ba3bfe4c55f389b
+    m_Address: Comics_iPhone_Counter.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78dced54221b24fef8c57714fb5e8ffd
+    m_Address: Comics_iPhone_of2.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 175aaa00d75154878a8c04ea9bc40b94
+    m_Address: Comics_iPhone_of3.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c5cf53d14829dc4093cefe1d6edac54
+    m_Address: Comics_iPhone_of8-ComixGui_iPhone.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7922d20345dcf41fd9e8d4c68cbdf9f3
+    m_Address: Comics_iPhone_of8.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33ca457a435d14b2391830787edc0796
+    m_Address: ComixGui_iPhone.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91bc232f1aa5741e0a617c1bf5fddaa5
+    m_Address: comixgui_iphone_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 613f25dc144ca45138d89ce953d2f329
+    m_Address: comixpopisky08.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbaefa9166d264e79b03532afee069d4
+    m_Address: edge.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe7e5b1641fe04bfca79b32a033c2f05
+    m_Address: popandro01.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d56898f6d042b4df08d5144f1110aa01
+    m_Address: popandro02.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca2307c7f9ff144469d9036d060563af
+    m_Address: popandro03.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c01d210033b47489ab5cf76ab37407ea
+    m_Address: popandro04.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 522a8b464ac0b44899384e4bf5408f75
+    m_Address: popandro05.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0593b9b3becf4408d81c5d601dbb1495
+    m_Address: popandro06.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f290a5b58cd64268892a9b6b229bc01
+    m_Address: popandro07.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a5a4319f83d7456d8d7dc234139b524
+    m_Address: popandro08.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c874af98311c46b5a08810a008779ab
+    m_Address: predsadka.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0f0af858f3e4b134699db6dc57812975, type: 2}
+    - {fileID: 11400000, guid: 86affddc6f304fa40a70011859bb475b, type: 2}

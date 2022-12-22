@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: mise05
+  m_EditorClassIdentifier: 
+  m_GroupName: mise05
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ce59c6edbb57cd44aec13d831f5f775
+  m_SerializeEntries:
+  - m_GUID: 4a413b7333cb143eca672dd2363b0fbe
+    m_Address: kolo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42ba49c7426f647b3a622d8fba7419ae
+    m_Address: kyvadlo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92fa8375ff83a4c86adfaa0c4651cbe8
+    m_Address: ostny.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57e18bf3bc1d8423f83e5955c3973446
+    m_Address: pila.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4060eadcca89e4931832db2df4fd45c1
+    m_Address: vytah02a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c173a30c13f1c43dd868a63c5f30e836
+    m_Address: vytah03a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9326a1a28d57d411db80e9124bfc0751
+    m_Address: vytah04a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3491a8d9cf1a64274890bff291b258c7
+    m_Address: vytah08a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68301563c2c9be248803ec509569d5d3, type: 2}
+    - {fileID: 11400000, guid: 20ad9bcce3618aa4aae2e82e681fd3f9, type: 2}

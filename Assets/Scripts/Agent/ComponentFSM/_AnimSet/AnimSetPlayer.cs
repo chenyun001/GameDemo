@@ -121,7 +121,7 @@ public class AnimSetPlayer : AnimSet
         anims["attackOXOX"].layer = 1;
         anims["attackOXOXO"].layer = 1;
 
-        Trails =  ResourceManager.LoadAsset("Assets/Game/Prefabs/Common/trails_combo01.prefab", typeof(UnityEngine.Object)) as GameObject ;
+        Trails =  ResourceManager.LoadAsset("Assets/Game/Prefabs/Common/trails_combo.prefab", typeof(UnityEngine.Object)) as GameObject ;
         Trails = Instantiate(Trails) as GameObject;
         Trails.transform.parent = AutoElementManager.Instance.transform;
         Trails.SetActive(true);

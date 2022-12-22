@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: dojo
+  m_EditorClassIdentifier: 
+  m_GroupName: dojo
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 263dd712c98e29240ac4e4778dc83187
+  m_SerializeEntries:
+  - m_GUID: a52b290bf7addee4f94b97e83613b943
+    m_Address: collisions-no name.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0446b14530de448db3e53056e7c6123
+    m_Address: collisions.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3b91c4ca7cf7e949be905adcf528b58
+    m_Address: c_dojo03-no name.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08c3776af71644fe4b00e959438a10b8
+    m_Address: c_dojo03.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15dc0547672e58240858c962acc611e8
+    m_Address: dojo-material #79.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d45a975f1a319422eb98e9caf31f1cb2
+    m_Address: dojo.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d13f09af34f549b8b9baf5199a17f23
+    m_Address: dojo03.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f15a0553b1084715b537ee53afc2abc
+    m_Address: dojo03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 182e5891a26f94a11949b305434e01aa
+    m_Address: dojo03.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8127be2c31776f4e92c9db2cb74734b
+    m_Address: dojo03gear-material #79.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c03a78c8425b3417b9e64e8393839c9e
+    m_Address: dojo03gear.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b55eaf221c8e44f2ba415b5034f139d
+    m_Address: dojo03vrtule.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b49b0c5f156084fd39e519d32518a58d
+    m_Address: dojo03vrtule.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b20a65e2f60144c319bffbd2ed9e12ee
+    m_Address: dojo03vrtule.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6706ac05231b4f447ad48ac4aeaccf0e
+    m_Address: dojo03wing-material #79.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 513c5759e521b4e7c860dd39be8bf698
+    m_Address: dojo03wing.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be1db06b58a2440b3b048c81a16fad09
+    m_Address: dojolight.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef497ea42405d4ac2a27f901cceecbed
+    m_Address: dojolight.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0804db7df982645b18cb70d8b1e3dc45
+    m_Address: dojo_mraky.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd79f2dc1d61649339e580dc95037558
+    m_Address: dojo_mraky.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c39cc2a5fd5443c6b5236c4d2dee79b
+    m_Address: dojo_mrakypar.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5135ac1e8aef463fbe7323355170a03
+    m_Address: mlha.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 271f754d0e3a545b89e0cadd05fcca75
+    m_Address: mrakypar.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5d0d3f01c24c472aad9684dc5f7f59b
+    m_Address: svetlo.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 316c3da8dce014d53addcc370a2e4521
+    m_Address: svetlo2.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cd9798a3290a4744488ae3d3a4db16fb, type: 2}
+    - {fileID: 11400000, guid: 5f9d9f23f873a364f993a0f0bee62932, type: 2}

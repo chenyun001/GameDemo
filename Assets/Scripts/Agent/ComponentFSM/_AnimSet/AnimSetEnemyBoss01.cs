@@ -1,18 +1,33 @@
-using UnityEngine;[System.Serializable]
-public class AnimSetEnemyBoss01 : AnimSet{
+using UnityEngine;
+
+[System.Serializable]
+public class AnimSetEnemyBoss01 : AnimSet
+{
     protected AnimAttackData AnimAttacksSwordL = new AnimAttackData("attackA", null, -1, 0.5f, 0.9f, 10, 20, 1, E_CriticalHitType.None, false);
     protected AnimAttackData AnimAttacksSwordS = new AnimAttackData("attackAA", null, -1, 0.5f, 1.5f, 30, 20, 1, E_CriticalHitType.None, false);
 
     protected AnimAttackData AnimAttacksBash = new AnimAttackData("attackBash", null, -1, 0.5f, 1.5f, 30, 20, 5, E_CriticalHitType.None, false);
-    protected AnimAttackData AnimAttacksAfterknockdown = new AnimAttackData("attackAfterKnockdown", null, -1, 0.5f, 1.5f, 30, -1, 5, E_CriticalHitType.None, false);	void Awake()	{	//	Animation anims = animation;	}	public override string GetIdleAnim(E_WeaponType weapon, E_WeaponState weaponState)	{        return "idle";	}
+    protected AnimAttackData AnimAttacksAfterknockdown = new AnimAttackData("attackAfterKnockdown", null, -1, 0.5f, 1.5f, 30, -1, 5, E_CriticalHitType.None, false);
+
+	void Awake()
+	{
+	//	Animation anims = animation;
+	}
+
+	public override string GetIdleAnim(E_WeaponType weapon, E_WeaponState weaponState)
+	{
+        return "idle";
+	}
 
     public override string GetIdleActionAnim(E_WeaponType weapon, E_WeaponState weaponState)
     {
         return "";
     }
 
-    public override string GetMoveAnim(E_MotionType motion, E_MoveType move, E_WeaponType weapon, E_WeaponState weaponState)    {
-        return "walk";    }
+    public override string GetMoveAnim(E_MotionType motion, E_MoveType move, E_WeaponType weapon, E_WeaponState weaponState)
+    {
+        return "walk";
+    }
 
     public override string GetRotateAnim(E_MotionType motionType, E_RotationType rotationType)
     {
@@ -21,7 +36,12 @@ public class AnimSetEnemyBoss01 : AnimSet{
 
         return "rotateRight";
     }
-    public override string GetRollAnim(E_WeaponType weapon, E_WeaponState weaponState){return null;}    public override string GetBlockAnim(E_BlockState state, E_WeaponType weapon){return null;}
+
+
+    public override string GetRollAnim(E_WeaponType weapon, E_WeaponState weaponState){return null;}
+
+
+    public override string GetBlockAnim(E_BlockState state, E_WeaponType weapon){return null;}
 
     public override string GetShowWeaponAnim(E_WeaponType weapon) { return null; }
 
@@ -44,7 +64,9 @@ public class AnimSetEnemyBoss01 : AnimSet{
     {
         return null;
     }
-    public override string GetUseAnim(E_InteractionObjects objectType, E_InteractionType interaction){return null;}
+
+
+    public override string GetUseAnim(E_InteractionObjects objectType, E_InteractionType interaction){return null;}
 
 
     public override string GetInjuryAnim(E_WeaponType weapon, E_DamageType type)
@@ -70,4 +92,5 @@ public class AnimSetEnemyBoss01 : AnimSet{
             default:
                 return null;
         }
-    }}
+    }
+}

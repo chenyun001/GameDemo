@@ -1039,7 +1039,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       MainMenu_Buttons 1_27: 21300040
-      MainMenu_Buttons 1_26: 21300038
+      MainMenu_Buttons 1_3: 21300004
       MainMenu_Buttons 1_1: 21300002
       MainMenu_Buttons 1_14: 21300020
       MainMenu_Buttons 1_20: 21300026
@@ -1071,14 +1071,14 @@ TextureImporter:
       MainMenu_Buttons 1_36: 21300074
       MainMenu_Buttons 1_6: 21300010
       MainMenu_Buttons 1_17: 21300070
-      MainMenu_Buttons 1_33: 21300052
-      MainMenu_Buttons 1_13: 21300064
-      MainMenu_Buttons 1_3: 21300004
-      MainMenu_Buttons 1_23: 21300032
       MainMenu_Buttons 1_7: 21300012
+      MainMenu_Buttons 1_26: 21300038
+      MainMenu_Buttons 1_33: 21300052
+      MainMenu_Buttons 1_23: 21300032
+      MainMenu_Buttons 1_13: 21300064
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: assets/arts/ui/image/mainmenu_buttons 1.tga
+  assetBundleName: 
   assetBundleVariant: 

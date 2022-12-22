@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemies
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c11a3c317622bad4da575ed4943e88d0
+  m_SerializeEntries:
+  - m_GUID: d4d791ec1c8754a31b272d3762c64315
+    m_Address: DeadBowmanH.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc44a1aca1b5f48f5a94c126b718de4b
+    m_Address: DeadBowmanV.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e0991f1ffb104bc69cbee25bacd5d7e
+    m_Address: DeadPeasantHBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9a7caad715474210ad4bd30ca4680ee
+    m_Address: DeadPeasantHHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e5132bfc1a7f449eb77c7fecfdd310e
+    m_Address: DeadPeasantHLegs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7624bfee2684a4980a629b838244580c
+    m_Address: DeadPeasantLowHBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe9c5ee8dc7684cbc9af9827cccac56b
+    m_Address: DeadPeasantLowHHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13a278a7713eb4b9b88061eb7f2fff22
+    m_Address: DeadPeasantLowHLegs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75e4fb0e4bd5946f683bdfefe3e2a8da
+    m_Address: DeadPeasantLowVFront.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1a5e9d17765949518bb68ab8a0b0f8a
+    m_Address: DeadPeasantLowVSide.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e2ab15f2c9494e81ab37b119e1cba8f
+    m_Address: DeadPeasantVFront.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9bc41c2a5cb848be9ada6b0b6c3dc4d
+    m_Address: DeadPeasantVSide.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23bcf0b12280d4803bb2a63e8afede75
+    m_Address: DeadSwordsmanHBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06c99d63125514f159a08c85db43aab1
+    m_Address: DeadSwordsmanHHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 427e1ff45ebc0427ea3436a90193a7c2
+    m_Address: DeadSwordsmanHLegs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 211f73e1429294d09b6ebd3824c9bd36
+    m_Address: DeadSwordsmanLowHBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e9adc6fa581f4ea992040eacb8514e1
+    m_Address: DeadSwordsmanLowHHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3250fb3cad9e7455bafdf534df95227c
+    m_Address: DeadSwordsmanLowHLegs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9828be3669c89494286b8d929247aa14
+    m_Address: DeadSwordsmanLowVFront.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f239d4927b79140ccaaeea81fd599da8
+    m_Address: DeadSwordsmanLowVSide.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b671ebf69c5554b70b991cbf1961d5f7
+    m_Address: DeadSwordsmanVFront.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d104043c0e60c4be9aa1f31bc888a390
+    m_Address: DeadSwordsmanVSide.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcaf6a133e1c6416fbf3c1b52812f3e6
+    m_Address: DeadTwoSwordsmanHBody.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f8c22968a2854e329d1ea5b623a164f
+    m_Address: DeadTwoSwordsmanHHead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 803ba4c7d185f45beb90396ee5ae0513
+    m_Address: DeadTwoSwordsmanHLegs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d03cfedc092e14a4ba91ddd712f9c34c
+    m_Address: DeadTwoSwordsmanVFront.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c16e0d4eb8d7d4df99ab94b71a27e5d3
+    m_Address: DeadTwoSwordsmanVSide.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e10d671f54965466ea358b40fcdddf27
+    m_Address: EnemyBossOrochi.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ff80c267d86b43dca3b8769f080b4cf
+    m_Address: EnemyBowman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e9de58ef32ee40248f54d8ab96ff17d
+    m_Address: EnemyDoubleSwordsman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2833c6fc5a02403a9154de5ab2459af
+    m_Address: EnemyMiniBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5c6d3bdb3a22af41908c0534a9ebb85
+    m_Address: EnemyPeasant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7eef3fa8fbfa1477685dd2f541159d0e
+    m_Address: EnemyPeasantEasy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18d71a1374239f846b43ec8007be76ce
+    m_Address: EnemyPeasantEasyEx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b991f17d9fe481469659d8edf2e76f0
+    m_Address: EnemyPeasantEx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cff31c560f49471eb666214c313e88f
+    m_Address: EnemySwordsman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23d50a5f82e0b43abbd3e83d318198a0
+    m_Address: EnemySwordsmanEasy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8c7bb6d994de52d4788019a36bf7a317, type: 2}
+    - {fileID: 11400000, guid: bc54995851b6ecf4b9d03a1b60543651, type: 2}

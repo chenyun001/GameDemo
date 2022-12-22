@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SpineSkeletons
+  m_EditorClassIdentifier: 
+  m_GroupName: SpineSkeletons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a0c64afc4828fad4eaca7e45294fce54
+  m_SerializeEntries:
+  - m_GUID: 365eb017d7ae7134d820c8b808eeb121
+    m_Address: Runtime Template Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 718074e4e56a5404e824bf8e6571ea7d
+    m_Address: square32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bf38627132b0bc4c9a5824b876167f6
+    m_Address: Dragon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d85018bfbaa1a484bb36432eb063bdb8
+    m_Address: Eyes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a709e690449c1b40b198bb86f707c41
+    m_Address: FootSoldier
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 850ff16a039121a48a7cf86e301ef1fa
+    m_Address: Gauge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdf7c6b00467fad44915c02ea43fe3b5
+    m_Address: Goblins
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c9c8caf9ef4a2d44a6978ea8bdcb3f6
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e29f53efbd9133479e005cbb3c4a952
+    m_Address: mix-and-match
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31a18437d3dfcde44a2e4b24361a3620
+    m_Address: Raggedy Spineboy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d8935f4180c02a4ab97099ce30c55f3
+    m_Address: Raptor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1042fbf38cbac704db44b9251e33ec19
+    m_Address: raptor-pro-and-mask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91aa25fdfcac76c47a07fab9862f8c09
+    m_Address: spineboy-pro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0a97d96245608d43be03223ebfbc185
+    m_Address: spineboy-unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5043a979111803419245ca47932431d
+    m_Address: Spineunitygirl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f49a222b0c830ed4684e8c08ed03a215
+    m_Address: Stretchyman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d0a5267ad0c0de47a9ce7a147b1dc87
+    m_Address: whirlyblendmodes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d11106ba3eeeeb84984311a3be2c6c19, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c8621a5cbd788a499888b1c66af3dc5, type: 2}
+    - {fileID: 11400000, guid: 2fa17f101eccd134288d90bf806b2cf1, type: 2}
